@@ -1,7 +1,7 @@
-import { FC } from "react";
+import { FC } from 'react';
 
-const MapComponent:FC = () => {
-return <div>MapComponent</div>
-}
+const MapComponent: FC = () => {
+  return <div>MapComponent</div>;
+};
 
-export {MapComponent};
+export { MapComponent };
