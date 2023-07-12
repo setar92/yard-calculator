@@ -1,10 +1,11 @@
 import { FC } from 'react';
 
-import { Header } from '../../components';
+import { Header, PriceComponent } from '../../components';
 const PricePage: FC = () => {
   return (
     <>
       <Header />
+      <PriceComponent />
     </>
   );
 };
