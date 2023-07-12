@@ -1,10 +1,10 @@
 import { FC } from 'react';
 
-import { MapComponent } from '../../components';
-
+import { MapComponent, Header } from '../../components';
 const MapPage: FC = () => {
   return (
     <div>
+      <Header />
       <MapComponent></MapComponent>
     </div>
   );

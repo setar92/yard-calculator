@@ -1,7 +1,13 @@
 import { FC } from 'react';
 
+import { Header } from '../../components';
+
 const CalculatorPage: FC = () => {
-  return <div>CalculatorPage</div>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 };
 
 export { CalculatorPage };
