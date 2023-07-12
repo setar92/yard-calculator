@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import uuid from 'react-uuid';
 
 import {
@@ -14,22 +14,41 @@ import {
   defaultOptions,
   libraries,
 } from '../../common/constants';
-import { CommonLocation } from '../../common/types';
+import {
+  CommonLocation,
+  IAllLocationsData,
+  ICoordinates,
+} from '../../common/types';
+import { filterData } from '../../helpers';
+import { useAppSelector } from '../../hooks/store/store.hooks';
 
 interface MapInterface {
   showData: (location: CommonLocation) => void;
 }
 
-const center = {
-  lat: 24.103152,
-  lng: 56.926608,
-};
-
-const MapComponent: React.FC<MapInterface> = () => {
+const MapComponent: React.FC<MapInterface> = ({ showData }) => {
+  const filterCriterions = useAppSelector((state) => state.filter);
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
     libraries,
   });
+  const [allLocations, setAllLocations] = useState<IAllLocationsData[]>([]);
+  const [position, setPosition] = useState<ICoordinates>({
+    lat: 56.951289,
+    lng: 24.125341,
+  });
+
+  useEffect(() => {
+    const locationsData = filterData(allLocationsData, filterCriterions);
+    setAllLocations(locationsData);
+  }, [filterCriterions]);
+  const choosePostMachineHandler = (location: CommonLocation): void => {
+    showData(location);
+    setPosition({
+      lat: location.latitude,
+      lng: location.longitude,
+    });
+  };
 
   if (!isLoaded) {
     return <Loader />;
@@ -38,14 +57,14 @@ const MapComponent: React.FC<MapInterface> = () => {
     <div className="flex justify-center">
       <GoogleMap
         mapContainerClassName="w-[100vw] h-[89vh]"
-        center={center}
+        center={position}
         zoom={8}
         options={defaultOptions}
       >
-        <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
+        <MarkerClusterer averageCenter enableRetinaIcons gridSize={30}>
           {(clusterer): JSX.Element => (
             <div>
-              {allLocationsData.map((locationData) => {
+              {allLocations.map((locationData) => {
                 return locationData.data.map((loc) => {
                   return (
                     <Marker
@@ -53,8 +72,10 @@ const MapComponent: React.FC<MapInterface> = () => {
                       position={{ lat: loc.latitude, lng: loc.longitude }}
                       clusterer={clusterer}
                       icon={{
-                        url: `${loc.iconUrl}`,
+                        url: `${locationData.marker}`,
+                        // scaledSize: new google.maps.Size(32, 48),
                       }}
+                      onClick={(): void => choosePostMachineHandler(loc)}
                     />
                   );
                 });
