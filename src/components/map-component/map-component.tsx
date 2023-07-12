@@ -8,7 +8,7 @@ import {
   useJsApiLoader,
 } from '@react-google-maps/api';
 
-import { allLocationsData } from '../../common/constants/locations';
+import { allLocationsData } from '../../common/constants';
 
 type librarieType =
   | 'places'
