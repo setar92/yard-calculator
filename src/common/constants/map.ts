@@ -7,4 +7,18 @@ export type librarieType =
 
 const libraries: librarieType[] = ['places'];
 
-export { libraries };
+const defaultOptions = {
+  panControl: true,
+  zoomControl: false,
+  mapTypeControl: false,
+  scaleControl: false,
+  streetViewControl: false,
+  rotateControl: false,
+  clickableIcons: false,
+  keyboardShortcurs: false,
+  scrollwheel: true,
+  disableDoubleClickZoom: false,
+  fullscreenControl: false,
+};
+
+export { libraries, defaultOptions };

@@ -1,4 +1,28 @@
-type Owner = 'Omniva';
+type Owner =
+  | 'Omniva'
+  | 'National'
+  | 'Venipak'
+  | 'uDrop'
+  | 'DPD'
+  | 'Stokker'
+  | 'LT-post';
+interface NationalPostlocation {
+  tmpLat: number;
+  tmpLong: number;
+  tmpName: string;
+  tmpNameFull: string;
+  tmpAddress: string;
+  tmpCategory: number;
+  tmpDistrict: string;
+  tmpPhone: null | string;
+  tmpService: string;
+  tmpImage?: null | string;
+  tmpWork: string | null;
+  tmpPayment: null | string;
+  tmpFilterOut: boolean;
+  tmpMarker?: null | string;
+  tmpInfo: null | string;
+}
 
 interface OmnivaLocation {
   id: string;
@@ -42,6 +66,32 @@ interface OmnivaLocation {
   long_waiting: boolean;
   real_type: string;
 }
+
+interface VenipakLocation {
+  id: number;
+  name: string;
+  code: string;
+  address: string;
+  city: string;
+  zip: string;
+  country: string;
+  terminal: string;
+  display_name: string;
+  description: string | null;
+  working_hours: string;
+  contact_t: string;
+  lat: string;
+  lng: string;
+  pick_up_enabled: number;
+  cod_enabled: number;
+  ldg_enabled: number;
+  size_limit: number;
+  type: number;
+  max_height: number;
+  max_width: number;
+  max_length: number;
+}
+
 interface CommonLocation {
   name: string;
   latitude: number;
@@ -52,6 +102,26 @@ interface CommonLocation {
   iconUrl: string;
   address: string;
   img?: string;
+}
+
+interface uDropLocation {
+  lat: number;
+  lng: number;
+  id: number;
+  country: string;
+  city: string;
+}
+interface LVPostLocation {
+  name: string;
+  addressText: string;
+  addressDetails: {
+    settlementName: string;
+    countryCode: string;
+  };
+  map: {
+    longitude: string;
+    latitude: string;
+  };
 }
 
 interface IAllLocationsData {
@@ -60,16 +130,13 @@ interface IAllLocationsData {
   data: CommonLocation[];
 }
 
-interface CommonLocation {
-  name: string;
-  latitude: number;
-  longitude: number;
-  city: Array<string | null>;
-  country: string;
-  owner: Owner;
-  iconUrl: string;
-  address: string;
-  img?: string;
-}
-
-export type { IAllLocationsData, OmnivaLocation, CommonLocation };
+export type {
+  CommonLocation,
+  NationalPostlocation,
+  OmnivaLocation,
+  VenipakLocation,
+  Owner,
+  IAllLocationsData,
+  uDropLocation,
+  LVPostLocation,
+};

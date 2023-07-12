@@ -8,49 +8,38 @@ import {
   useJsApiLoader,
 } from '@react-google-maps/api';
 
-import { allLocationsData } from '../../common/constants/locations';
+import { Loader } from '..';
+import {
+  allLocationsData,
+  defaultOptions,
+  libraries,
+} from '../../common/constants';
+import { CommonLocation } from '../../common/types';
 
-type librarieType =
-  | 'places'
-  | 'drawing'
-  | 'geometry'
-  | 'localContext'
-  | 'visualization';
-const libraries: librarieType[] = ['places'];
+interface MapInterface {
+  showData: (location: CommonLocation) => void;
+}
 
-const MapComponent: React.FC = () => {
-  const center = {
-    lat: 37.7749,
-    lng: -122.4194,
-  };
-  const defaultOptions = {
-    panControl: true,
-    zoomControl: false,
-    mapTypeControl: false,
-    scaleControl: false,
-    streetViewControl: false,
-    rotateControl: false,
-    clickableIcons: false,
-    keyboardShortcurs: false,
-    scrollwheel: true,
-    disableDoubleClickZoom: false,
-    fullscreenControl: false,
-  };
+const center = {
+  lat: 24.103152,
+  lng: 56.926608,
+};
 
+const MapComponent: React.FC<MapInterface> = () => {
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
     libraries,
   });
 
   if (!isLoaded) {
-    return <div>Map is loading...</div>;
+    return <Loader />;
   }
   return (
     <div className="flex justify-center">
       <GoogleMap
         mapContainerClassName="w-[100vw] h-[89vh]"
         center={center}
-        zoom={4}
+        zoom={8}
         options={defaultOptions}
       >
         <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
@@ -63,6 +52,9 @@ const MapComponent: React.FC = () => {
                       key={uuid()}
                       position={{ lat: loc.latitude, lng: loc.longitude }}
                       clusterer={clusterer}
+                      icon={{
+                        url: `${loc.iconUrl}`,
+                      }}
                     />
                   );
                 });
