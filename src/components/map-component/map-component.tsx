@@ -1,4 +1,5 @@
 import React from 'react';
+import uuid from 'react-uuid';
 
 import {
   GoogleMap,
@@ -6,6 +7,8 @@ import {
   MarkerClusterer,
   useJsApiLoader,
 } from '@react-google-maps/api';
+
+import { allLocationsData } from '../../common/constants/locations';
 
 type librarieType =
   | 'places'
@@ -16,29 +19,22 @@ type librarieType =
 const libraries: librarieType[] = ['places'];
 
 const MapComponent: React.FC = () => {
-  // Mocked locations data
-  const locations = [
-    { lat: 40.712776, lng: -74.0051, title: 'New York' },
-    { lat: 40.712111, lng: -74.0052, title: 'New York' },
-    { lat: 40.712222, lng: -74.0053, title: 'New York' },
-    { lat: 40.712333, lng: -74.0054, title: 'New York' },
-    { lat: 40.712444, lng: -74.0055, title: 'New York' },
-    { lat: 40.712555, lng: -74.0056, title: 'New York' },
-    { lat: 40.712666, lng: -74.0057, title: 'New York' },
-    { lat: 40.712776, lng: -74.005974, title: 'New York' },
-    { lat: 34.052235, lng: -118.243683, title: 'Los Angeles' },
-    { lat: 41.878113, lng: -87.629799, title: 'Chicago' },
-    // Add more locations here...
-  ];
-
-  const mapContainerStyle = {
-    width: '100%',
-    height: '400px',
-  };
-
   const center = {
     lat: 37.7749,
     lng: -122.4194,
+  };
+  const defaultOptions = {
+    panControl: true,
+    zoomControl: false,
+    mapTypeControl: false,
+    scaleControl: false,
+    streetViewControl: false,
+    rotateControl: false,
+    clickableIcons: false,
+    keyboardShortcurs: false,
+    scrollwheel: true,
+    disableDoubleClickZoom: false,
+    fullscreenControl: false,
   };
 
   const { isLoaded } = useJsApiLoader({
@@ -50,22 +46,32 @@ const MapComponent: React.FC = () => {
     return <div>Map is loading...</div>;
   }
   return (
-    <GoogleMap mapContainerStyle={mapContainerStyle} center={center} zoom={4}>
-      <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
-        {(clusterer): JSX.Element => (
-          <div>
-            {locations.map((location, index) => (
-              <Marker
-                key={index}
-                position={{ lat: location.lat, lng: location.lng }}
-                clusterer={clusterer}
-                title={location.title}
-              />
-            ))}
-          </div>
-        )}
-      </MarkerClusterer>
-    </GoogleMap>
+    <div className="flex justify-center">
+      <GoogleMap
+        mapContainerClassName="w-[100vw] h-[89vh]"
+        center={center}
+        zoom={4}
+        options={defaultOptions}
+      >
+        <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
+          {(clusterer): JSX.Element => (
+            <div>
+              {allLocationsData.map((locationData) => {
+                return locationData.data.map((loc) => {
+                  return (
+                    <Marker
+                      key={uuid()}
+                      position={{ lat: loc.latitude, lng: loc.longitude }}
+                      clusterer={clusterer}
+                    />
+                  );
+                });
+              })}
+            </div>
+          )}
+        </MarkerClusterer>
+      </GoogleMap>
+    </div>
   );
 };
 export { MapComponent };
