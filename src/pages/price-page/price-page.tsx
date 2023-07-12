@@ -1,7 +1,12 @@
 import { FC } from 'react';
 
+import { Header } from '../../components';
 const PricePage: FC = () => {
-  return <div>PricePage2</div>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 };
 
 export { PricePage };

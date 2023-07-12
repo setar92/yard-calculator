@@ -1,11 +1,11 @@
 import { FC } from 'react';
 
-import { MapPage } from './pages';
+import { Routing } from './navigation/routing/routing';
 
 const App: FC = () => {
   return (
     <div>
-      <MapPage></MapPage>
+      <Routing />
     </div>
   );
 };
