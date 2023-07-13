@@ -1,0 +1,2342 @@
+[
+  {
+    "name": "Paku Skapis VIRŠI Katrīnas dambis",
+    "latitude": 56.97398,
+    "longitude": 24.10295,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Katrīnas dambis 35",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Maxima XXX  Grostonas",
+    "latitude": 56.96437,
+    "longitude": 24.12029,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Grostonas iela 1",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Brīvības 78",
+    "latitude": 56.95879,
+    "longitude": 24.12557,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Brīvības iela 78a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Muitas",
+    "latitude": 56.95268,
+    "longitude": 24.10075,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Muitas iela 4",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis RIMI Briāna",
+    "latitude": 56.96574,
+    "longitude": 24.13106,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Krišjāņa Valdemāra iela 62a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "PS Rimi P.Brieža (NOSLOGOTS)",
+    "latitude": 56.96523,
+    "longitude": 24.10512,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pulkveža Brieža iela 33a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Barona Centrs",
+    "latitude": 56.95433,
+    "longitude": 24.12825,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Krišjāņa Barona iela 46",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Bērnu Pasaule",
+    "latitude": 56.95729,
+    "longitude": 24.13397,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Matīsa iela 25",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Galleria Riga",
+    "latitude": 56.9544,
+    "longitude": 24.12054,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dzirnavu iela 67",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Brīvības 44",
+    "latitude": 56.95467,
+    "longitude": 24.11954,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Brīvības iela 44",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Valdemāra",
+    "latitude": 56.97129,
+    "longitude": 24.13443,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Krišjāņa Valdemāra iela 104",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Miera 2",
+    "latitude": 56.96023,
+    "longitude": 24.12966,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Miera iela 2",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Valdemārs",
+    "latitude": 56.97437,
+    "longitude": 24.13589,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Krišjāņa Valdemāra iela 112",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Brīvības/Cēsu",
+    "latitude": 56.96617,
+    "longitude": 24.14578,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Brīvības iela 176a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Olimpia",
+    "latitude": 56.94996,
+    "longitude": 24.08124,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Āzenes iela 5",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Neste Dambja",
+    "latitude": 56.98784,
+    "longitude": 24.13043,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dambja iela 10",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Kurbada",
+    "latitude": 56.94761,
+    "longitude": 24.13651,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kurbada iela 8",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Pērnavas",
+    "latitude": 56.96445,
+    "longitude": 24.15059,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pērnavas iela 7",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis RIMI Tilta",
+    "latitude": 56.99527,
+    "longitude": 24.13056,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tilta iela 32",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis VIRŠI Arkādijs",
+    "latitude": 56.93817,
+    "longitude": 24.0897,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Uzvaras bulvāris 16",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Kalnciema",
+    "latitude": 56.94235,
+    "longitude": 24.06289,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kalnciema iela 41",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Dzelzavas",
+    "latitude": 56.96325,
+    "longitude": 24.1694,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dzelzavas iela 14",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Maxima X Āgenskalns",
+    "latitude": 56.93674,
+    "longitude": 24.07126,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pilsoņu iela 1 k-1",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Botānika",
+    "latitude": 56.95202,
+    "longitude": 24.05438,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jūrmalas gatve 5a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis TC Minska",
+    "latitude": 56.95929,
+    "longitude": 24.17261,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Nīcgales iela 2",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Iļģuciems",
+    "latitude": 56.95854,
+    "longitude": 24.05281,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dzirciema iela 40",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Mego Lidoņu",
+    "latitude": 56.9693,
+    "longitude": 24.05911,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Lidoņu iela 27 k-1",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Vaidelotes",
+    "latitude": 56.96587,
+    "longitude": 24.05261,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Vaidelotes iela 11a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Domina",
+    "latitude": 56.96697,
+    "longitude": 24.16147,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Ieriķu iela 3",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Jaunā Teika",
+    "latitude": 56.97701,
+    "longitude": 24.16528,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Gustava Zemgala gatve 78",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Dubulti",
+    "latitude": 56.96676,
+    "longitude": 23.76273,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dubultu prospekts 42a",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Jomas",
+    "latitude": 56.97208,
+    "longitude": 23.78863,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jomas iela 2",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Lielupe",
+    "latitude": 56.974707,
+    "longitude": 23.856782,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Viestura iela 22",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Kauguri",
+    "latitude": 56.96077,
+    "longitude": 23.61443,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Talsu šoseja 29",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Citro Sloka",
+    "latitude": 56.94725,
+    "longitude": 23.62107,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Ventspils šoseja 30a",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Elvi Piņķi",
+    "latitude": 56.94452,
+    "longitude": 23.90968,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Rīgas iela 8",
+    "city": [
+      "PIŅĶI",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis Maxima Engures",
+    "latitude": 56.96021,
+    "longitude": 23.59708,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Engures iela 3",
+    "city": [
+      "JŪRMALA",
+      "Jūrmala"
+    ]
+  },
+  {
+    "name": "Paku Skapis Elvi Babīte",
+    "latitude": 56.95621,
+    "longitude": 23.94852,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Liepu aleja 15a",
+    "city": [
+      "BABĪTE",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis VIRŠI Babīte",
+    "latitude": 56.95819,
+    "longitude": 23.95949,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Viršvidi",
+    "city": [
+      "SPILVE",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis Mego Kurzemes",
+    "latitude": 56.96152,
+    "longitude": 23.99877,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kurzemes prospekts 132a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis TC Venta",
+    "latitude": 56.94902,
+    "longitude": 23.99772,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Zolitūdes iela 34",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Mini Anniņmuiža",
+    "latitude": 56.95416,
+    "longitude": 24.00573,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Anniņmuižas bulvāris 90",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Anniņmuižas",
+    "latitude": 56.96048,
+    "longitude": 24.01035,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Anniņmuižas bulvāris 40a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Imanta",
+    "latitude": 56.95947,
+    "longitude": 24.01824,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Anniņmuižas bulvāris 25a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Business Garden Riga",
+    "latitude": 56.92633,
+    "longitude": 24.03684,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Malduguņu iela 4",
+    "city": [
+      "MĀRUPE",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis Spice",
+    "latitude": 56.92976,
+    "longitude": 24.0376,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Lielirbes iela 29",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Mego Kleistu",
+    "latitude": 56.96247,
+    "longitude": 24.02244,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kleistu iela 9",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Gramzdas",
+    "latitude": 56.94449,
+    "longitude": 24.01175,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Imantas 15. līnija 7",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis TOP Zalves",
+    "latitude": 56.9389,
+    "longitude": 24.03628,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Zalves iela 46a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Jaunmārupe",
+    "latitude": 56.87961,
+    "longitude": 23.94628,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Mazcenu aleja 5a",
+    "city": [
+      "JAUNMĀRUPE",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis Damme",
+    "latitude": 56.95403,
+    "longitude": 24.03817,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kurzemes prospekts 1a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Iļģuciems",
+    "latitude": 56.95854,
+    "longitude": 24.05281,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dzirciema iela 40",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Circle K Botānika",
+    "latitude": 56.95202,
+    "longitude": 24.05438,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jūrmalas gatve 5a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Vaidelotes",
+    "latitude": 56.96587,
+    "longitude": 24.05261,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Vaidelotes iela 11a",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Maxima X Āgenskalns",
+    "latitude": 56.93674,
+    "longitude": 24.07126,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pilsoņu iela 1 k-1",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Mego Lidoņu",
+    "latitude": 56.9693,
+    "longitude": 24.05911,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Lidoņu iela 27 k-1",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Kalnciema",
+    "latitude": 56.94235,
+    "longitude": 24.06289,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kalnciema iela 41",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Rimi Mārupe",
+    "latitude": 56.90446,
+    "longitude": 24.05232,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Daugavas iela 31",
+    "city": [
+      "MĀRUPE",
+      "null"
+    ]
+  },
+  {
+    "name": "Paku Skapis Mego Bolderāja",
+    "latitude": 57.03387,
+    "longitude": 24.04846,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Gobas iela 13",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Paku Skapis Maxima X Parādes",
+    "latitude": 57.04078,
+    "longitude": 24.02933,
+    "country": "LV",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Parādes iela 8",
+    "city": [
+      "RĪGA",
+      "Rīga"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Viru terminal",
+    "latitude": 59.43621,
+    "longitude": 24.75492,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Viru väljak 4",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Nautica keskus",
+    "latitude": 59.440732,
+    "longitude": 24.762282,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Ahtri 9",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Põhja Rimi",
+    "latitude": 59.444125,
+    "longitude": 24.743206,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Põhja pst 17",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Vineeri peatus",
+    "latitude": 59.42468,
+    "longitude": 24.74309,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pärnu mnt 67a",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Keskturu parkla",
+    "latitude": 59.43019,
+    "longitude": 24.76694,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Keldrimäe 9",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Torupilli Selver",
+    "latitude": 59.432063,
+    "longitude": 24.780328,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Vesivärava 37",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Narva mnt Selver",
+    "latitude": 59.43844,
+    "longitude": 24.76986,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Narva mnt 23",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Stockmann",
+    "latitude": 59.43148,
+    "longitude": 24.7608,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Liivalaia 53",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Balti jaam",
+    "latitude": 59.43999,
+    "longitude": 24.7377,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Toompuiestee 37",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Telliskivi Rimi",
+    "latitude": 59.44153,
+    "longitude": 24.73012,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Telliskivi 61",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Kristiine keskus",
+    "latitude": 59.42714,
+    "longitude": 24.7227,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Endla 45",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Ristiku Selver",
+    "latitude": 59.43579,
+    "longitude": 24.72072,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Telliskivi 24",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Magdaleena",
+    "latitude": 59.415134,
+    "longitude": 24.739126,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pärnu mnt 106",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Sikupilli keskus",
+    "latitude": 59.42608,
+    "longitude": 24.78452,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tartu mnt 87",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Pallasti Maxima",
+    "latitude": 59.429723,
+    "longitude": 24.791429,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pallasti 18",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Kotka Selver",
+    "latitude": 59.42039,
+    "longitude": 24.72842,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kotka 12",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Ülemiste keskus",
+    "latitude": 59.42289,
+    "longitude": 24.7947,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Suur-Sõjamäe 4",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Nõmme tee Maxima",
+    "latitude": 59.417982,
+    "longitude": 24.72139,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Nõmme tee 23a",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Sõpruse Rimi",
+    "latitude": 59.414748,
+    "longitude": 24.707221,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Sõpruse pst 174",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Tööstuse Rimi",
+    "latitude": 59.45338,
+    "longitude": 24.704802,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tööstuse 103",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Telia WoHo",
+    "latitude": 59.428147,
+    "longitude": 24.705561,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Mustamäe tee 3",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Paepargi Maxima",
+    "latitude": 59.43531,
+    "longitude": 24.811441,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Paepargi 57",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Arsenali keskus",
+    "latitude": 59.451866,
+    "longitude": 24.717973,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Erika 14",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Marienthal Selver",
+    "latitude": 59.422623,
+    "longitude": 24.696965,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Mustamäe tee 16",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Pelgulinna Selver",
+    "latitude": 59.44492,
+    "longitude": 24.70077,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Sõle 51",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Smuuli Maxima XX",
+    "latitude": 59.443339,
+    "longitude": 24.823332,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "J. Smuuli tee 9",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Kolde Selver",
+    "latitude": 59.43957,
+    "longitude": 24.706805,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Sõle 31",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Kopli Maxima X",
+    "latitude": 59.45439,
+    "longitude": 24.68998,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kopli 69b",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Stroomi keskus",
+    "latitude": 59.44741,
+    "longitude": 24.69268,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tuulemaa 20",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Automaat Tallinna Idakeskus",
+    "latitude": 59.432126,
+    "longitude": 24.823897,
+    "country": "EE",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Punane 16b",
+    "city": [
+      "TALLINN",
+      "Tallinn"
+    ]
+  },
+  {
+    "name": "Centro pasažo DPD paštomatas 300",
+    "latitude": 54.686603,
+    "longitude": 25.279706,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Gedimino pr. 16",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Jogailos DPD paštomatas 072",
+    "latitude": 54.686663,
+    "longitude": 25.278832,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jogailos g. 4",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "CUP DPD paštomatas 019",
+    "latitude": 54.693714,
+    "longitude": 25.276134,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Upės g. 9",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Quadrum DPD paštomatas 191",
+    "latitude": 54.698559,
+    "longitude": 25.270408,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Konstitucijos pr. 21C",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "DPD Lietuva Konarskio Siuntų taškas",
+    "latitude": 54.679991,
+    "longitude": 25.257854,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "S. Konarskio g.",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Rinktinės Lidl paštomatas 286",
+    "latitude": 54.703204,
+    "longitude": 25.285921,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Rinktinės g. 60",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Žirmūnų IKI DPD paštomatas 080",
+    "latitude": 54.697501,
+    "longitude": 25.299705,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žirmūnų g. 2",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Paupio DPD paštomatas 231",
+    "latitude": 54.679003,
+    "longitude": 25.304471,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Aukštaičių g. 7",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Tuskulėnų Maxima paštomatas 084",
+    "latitude": 54.702186,
+    "longitude": 25.289354,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tuskulėnų g. 66",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Mindaugo IKI DPD paštomatas 082",
+    "latitude": 54.673399,
+    "longitude": 25.274985,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Mindaugo g. 25",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Kęstučio Maxima DPD paštomatas 085",
+    "latitude": 54.693511,
+    "longitude": 25.251006,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kęstučio g. 37",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "PC Panorama DPD paštomatas 067",
+    "latitude": 54.69949,
+    "longitude": 25.257288,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Saltoniškių g. 9",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Savanorių RIMI DPD paštomatas 004",
+    "latitude": 54.67553,
+    "longitude": 25.25572,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kedrų g.4",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Žirmūnų Express DPD paštomatas 302",
+    "latitude": 54.702831,
+    "longitude": 25.303744,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žirmūnų g. 48A",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Linkmenų RIMI DPD paštomatas 005",
+    "latitude": 54.7057,
+    "longitude": 25.26796,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Linkmenų g. 22",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Kalvarijų Lidl DPD paštomatas 273",
+    "latitude": 54.713944,
+    "longitude": 25.286441,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kalvarijų g. 180",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Naugarduko Maxima paštomatas 128",
+    "latitude": 54.669557,
+    "longitude": 25.260262,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Naugarduko g. 84",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Užupio Rimi DPD paštomatas 088",
+    "latitude": 54.680969,
+    "longitude": 25.311971,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Zarasų g. 5A",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "PC Akropolis DPD paštomatas 118",
+    "latitude": 54.711256,
+    "longitude": 25.263177,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Ozo g. 25",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Naujininkų MAXIMA paštomatas 058",
+    "latitude": 54.661392,
+    "longitude": 25.272371,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šaltkalvių g. 2",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Kapsų Lidl DPD paštomatas 284",
+    "latitude": 54.661089,
+    "longitude": 25.274619,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kapsų g. 1",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Kareivių Rimi DPD paštomatas 087",
+    "latitude": 54.718027,
+    "longitude": 25.300495,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kareivių g. 11A",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Kalvarijų Norfa DPD paštomatas 101",
+    "latitude": 54.721674,
+    "longitude": 25.287876,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kalvarijų g. 151",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Žirmūnų RIMI DPD paštomatas 003",
+    "latitude": 54.71196,
+    "longitude": 25.30082,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žirmūnų g. 64",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "PC Eglutė DPD paštomatas 020",
+    "latitude": 54.714283,
+    "longitude": 25.316152,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Antakalnio g. 73",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "PC Ozas DPD paštomatas 270",
+    "latitude": 54.715111,
+    "longitude": 25.276632,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Ozo g. 18",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Dūkštų Lidl DPD paštomatas 297",
+    "latitude": 54.712161,
+    "longitude": 25.240606,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dūkštų g. 34",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Šeškinės IKI DPD paštomatas 086",
+    "latitude": 54.715016,
+    "longitude": 25.245372,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šeškinės g. 32",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Sausio Maxima DPD paštomatas 071",
+    "latitude": 54.69285,
+    "longitude": 25.220687,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Sausio 13-osios g. 2",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Nordika DPD paštomatas 169",
+    "latitude": 54.653283,
+    "longitude": 25.277712,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Vikingų g. 3",
+    "city": [
+      "VILNIUS",
+      "Vilnius"
+    ]
+  },
+  {
+    "name": "Savanorių IKI DPD paštomatas 008",
+    "latitude": 54.90454,
+    "longitude": 23.91607,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Savanorių pr. 111",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Lituanica IKI DPD paštomatas 170",
+    "latitude": 54.900894,
+    "longitude": 23.890893,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jonavos g. 3",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Jonavos g. Maxima paštomatas 011",
+    "latitude": 54.90399,
+    "longitude": 23.89843,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jonavos g. 60",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "PC Akropolis DPD paštomatas 119",
+    "latitude": 54.891564,
+    "longitude": 23.918374,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Karaliaus Mindaugo pr. 49",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Petrausko Express paštomatas 121",
+    "latitude": 54.908162,
+    "longitude": 23.928944,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "K. Petrausko g. 6",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Raudondvario Rimi paštomatas 069",
+    "latitude": 54.908855,
+    "longitude": 23.865782,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Raudondvario pl. 94b ",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Juozapavičiaus Norfa paštomat 098",
+    "latitude": 54.876061,
+    "longitude": 23.936182,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "A. Juozapavičiaus pr. 84",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Studentų Rimi DPD paštomatas 187",
+    "latitude": 54.908516,
+    "longitude": 23.951598,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Studentų g. 19",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Baltijos Rimi DPD paštomatas 095",
+    "latitude": 54.920658,
+    "longitude": 23.879891,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Baltijos g. 58",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Topolis IKI DPD paštomatas 100",
+    "latitude": 54.925012,
+    "longitude": 23.929392,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Sukilėlių pr. 84",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Savanorių Lidl paštomatas 288",
+    "latitude": 54.918852,
+    "longitude": 23.950351,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Savanorių pr. 315",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Naujakurių Maxima paštomatas 226",
+    "latitude": 54.916308,
+    "longitude": 23.865993,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Naujakurių g. 31",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Varnių Rimi DPD paštomatas 096",
+    "latitude": 54.915398,
+    "longitude": 23.902055,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Varnių g. 41",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Savanorių RIMI DPD paštomatas 010",
+    "latitude": 54.91972,
+    "longitude": 23.951,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Savanorių pr. 321",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Šilas Taikos DPD paštomatas 141",
+    "latitude": 54.911634,
+    "longitude": 23.947007,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 31A",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Veiverių Lidl DPD paštomatas 283",
+    "latitude": 54.869499,
+    "longitude": 23.887504,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Veiverių g. 146 ",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Europos RIMI DPD paštomatas 033",
+    "latitude": 54.875783,
+    "longitude": 23.912226,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Europos pr. 43",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "PC SAVAS DPD paštomatas 112",
+    "latitude": 54.921686,
+    "longitude": 23.963136,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Savanorių pr. 346",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Taikos IKI DPD paštomatas 195",
+    "latitude": 54.912324,
+    "longitude": 23.969701,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 81",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Šiaurės IKI DPD paštomatas 035",
+    "latitude": 54.930746,
+    "longitude": 23.93669,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šiaurės pr. 91",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Juozapavičiaus Rimi paštomatas 018",
+    "latitude": 54.865251,
+    "longitude": 23.945259,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "A. Juozapavičiaus pr. 11",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Baršausko Lidl paštomatas 292",
+    "latitude": 54.899046,
+    "longitude": 23.963551,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Baršausko g. 66C",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Dainavos Rimi DPD paštomatas 016",
+    "latitude": 54.917887,
+    "longitude": 23.967031,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "V. Krėvės pr. 43",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Girstupio IKI DPD paštomatas 126",
+    "latitude": 54.906088,
+    "longitude": 23.974776,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kovo 11-osios g. 22",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Taubūčių IKI DPD paštomatas 116",
+    "latitude": 54.930585,
+    "longitude": 23.897316,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Jotvingių g. 15",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Baltų Lidl DPD paštomatas 290",
+    "latitude": 54.931792,
+    "longitude": 23.887114,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Baltų pr. 10",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Baršausko Circle K paštomatas 083",
+    "latitude": 54.898966,
+    "longitude": 23.960261,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "K. Baršausko g. 57",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Žemaičių IKI DPD paštomatas 009",
+    "latitude": 54.9283,
+    "longitude": 23.88781,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žemaičių pl. 23",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "PC Mega DPD paštomatas 059",
+    "latitude": 54.939474,
+    "longitude": 23.893427,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Islandijos pl. 32",
+    "city": [
+      "KAUNAS",
+      "Kaunas"
+    ]
+  },
+  {
+    "name": "Noreikiškių Šilas paštomatas 201",
+    "latitude": 54.890331,
+    "longitude": 23.853373,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šiltnamių g. 19. Noreikiškės",
+    "city": [
+      "NOREIKIŠKĖS",
+      "null"
+    ]
+  },
+  {
+    "name": "Avitela DPD paštomatas 091",
+    "latitude": 55.703514,
+    "longitude": 21.144049,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 15",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Taikos Technorama paštomatas 303",
+    "latitude": 55.697862,
+    "longitude": 21.148747,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 39",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Tilžės Circle K DPD paštomatas 192",
+    "latitude": 55.704357,
+    "longitude": 21.160922,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Tilžės g. 56A",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC Akropolis DPD paštomatas 114",
+    "latitude": 55.694237,
+    "longitude": 21.156514,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 61",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Taikos PC Arena DPD paštomatas 012",
+    "latitude": 55.68687,
+    "longitude": 21.15603,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 64",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Šaulių IKI DPD paštomatas 036",
+    "latitude": 55.714788,
+    "longitude": 21.131356,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šaulių g. 11",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC Banginis DPD paštomatas 113",
+    "latitude": 55.692667,
+    "longitude": 21.182448,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šilutės pl. 35",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Šilutės pl. Maxima paštomatas 220",
+    "latitude": 55.687979,
+    "longitude": 21.178706,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šilutės pl. 40A",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Nidos g. IKI DPD paštomatas 224",
+    "latitude": 55.678813,
+    "longitude": 21.156586,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Nidos g. 5",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC Žardė DPD paštomatas 070",
+    "latitude": 55.671661,
+    "longitude": 21.171248,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 115",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC Luizė DPD paštomatas 120",
+    "latitude": 55.727338,
+    "longitude": 21.141319,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šiaurės pr. 15",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Liepų PC DPD paštomatas 155",
+    "latitude": 55.722874,
+    "longitude": 21.155039,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Liepų g. 81",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC Studlendas DPD paštomatas 060",
+    "latitude": 55.728611,
+    "longitude": 21.124577,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "H. Manto g. 90",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "PC MOLAS DPD paštomatas 013",
+    "latitude": 55.6653,
+    "longitude": 21.17616,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Taikos pr. 139",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Šilutės pl. MAXIMA paštomatas 062",
+    "latitude": 55.676613,
+    "longitude": 21.18899,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šilutės pl. 68",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Kretingos g. IKI paštomatas 263",
+    "latitude": 55.733977,
+    "longitude": 21.131977,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Kretingos g. 83",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Smiltelės Lidl DPD paštomatas 304",
+    "latitude": 55.669485,
+    "longitude": 21.193223,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Smiltelės g. 19",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Vingio RIMI DPD paštomatas 184",
+    "latitude": 55.667539,
+    "longitude": 21.196624,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Vingio g. 31",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Slengių Rimi DPD paštomatas 108",
+    "latitude": 55.736706,
+    "longitude": 21.191539,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Dangaus g. 34. Slengiai",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Liepojos Rimi DPD paštomatas 218",
+    "latitude": 55.751545,
+    "longitude": 21.130191,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Liepojos g. 27",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Klipščių Rimi DPD paštomatas 109",
+    "latitude": 55.752391,
+    "longitude": 21.175574,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žaliakelio g. 1. Slengiai",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Pajūrio Rimi DPD paštomatas 258",
+    "latitude": 55.753637,
+    "longitude": 21.151215,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pajūrio g. 5A",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Klaipėdos g. MAXIMA paštomatas 042",
+    "latitude": 55.712467,
+    "longitude": 21.384066,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Klaipėdos g. 37",
+    "city": [
+      "GARGŽDAI",
+      "null"
+    ]
+  },
+  {
+    "name": "Derceklių Rimi DPD paštomatas 130",
+    "latitude": 55.578629,
+    "longitude": 21.271731,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Nidos g. 1. Dercekliai",
+    "city": [
+      "KLAIPĖDA",
+      "Klaipėda"
+    ]
+  },
+  {
+    "name": "Gargždų IKI DPD paštomatas 181",
+    "latitude": 55.712291,
+    "longitude": 21.390286,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Klaipėdos g. 60",
+    "city": [
+      "GARGŽDAI",
+      "null"
+    ]
+  },
+  {
+    "name": "Priekulės Pepco DPD paštomatas 267",
+    "latitude": 55.561262,
+    "longitude": 21.311326,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Pasagos g. 1A",
+    "city": [
+      "PRIEKULĖ II",
+      "null"
+    ]
+  },
+  {
+    "name": "Šventosios g. Rimi paštomatas 244",
+    "latitude": 55.894918,
+    "longitude": 21.235433,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Šventosios g. 27B",
+    "city": [
+      "KRETINGA",
+      "null"
+    ]
+  },
+  {
+    "name": "Žemaitės MAXIMA DPD paštomatas 063",
+    "latitude": 55.893743,
+    "longitude": 21.262515,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Žemaitės al. 29",
+    "city": [
+      "KRETINGA",
+      "null"
+    ]
+  },
+  {
+    "name": "Klaipėdos Maxima paštomatas 153",
+    "latitude": 55.912846,
+    "longitude": 21.077574,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Klaipėdos pl. 42",
+    "city": [
+      "PALANGA",
+      "null"
+    ]
+  },
+  {
+    "name": "Plytų Maxima DPD paštomatas 221",
+    "latitude": 55.915526,
+    "longitude": 21.070588,
+    "country": "LT",
+    "iconUrl": "dpd.png",
+    "owner": "DPD",
+    "address": "Plytų g. 9A",
+    "city": [
+      "PALANGA",
+      "null"
+    ]
+  }
+]

@@ -61,7 +61,7 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
         zoom={8}
         options={defaultOptions}
       >
-        <MarkerClusterer averageCenter enableRetinaIcons gridSize={30}>
+        <MarkerClusterer averageCenter enableRetinaIcons gridSize={50}>
           {(clusterer): JSX.Element => (
             <div>
               {allLocations.map((locationData) => {
@@ -73,7 +73,6 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
                       clusterer={clusterer}
                       icon={{
                         url: `${locationData.marker}`,
-                        // scaledSize: new google.maps.Size(32, 48),
                       }}
                       onClick={(): void => choosePostMachineHandler(loc)}
                     />

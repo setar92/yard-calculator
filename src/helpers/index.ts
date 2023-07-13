@@ -1,11 +1,5 @@
 export { filterData } from './filter-logic';
 export {
-  mapNationalPostLocation,
-  mapOmnivaLocation,
-  mapVenipakLocation,
-  mapDataToCommonLocation,
-} from './convert-locations-data';
-export {
   commonNationalPost,
   commonOmnivaPost,
   commonVenipakPost,
