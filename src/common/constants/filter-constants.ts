@@ -34,7 +34,11 @@ const allLocationsData: IAllLocationsData[] = [
     marker: 'national-post.svg',
     data: commonNationalPost,
   },
-  { ownerName: 'Omniva', marker: 'Omniva.webp', data: commonOmnivaPost },
+  {
+    ownerName: 'Omniva',
+    marker: 'Omniva.png',
+    data: commonOmnivaPost,
+  },
   {
     ownerName: 'Venipak',
     marker: 'VenipakMarket.svg',
