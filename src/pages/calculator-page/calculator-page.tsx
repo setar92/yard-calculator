@@ -1,13 +1,12 @@
 import { FC } from 'react';
 
-import { Header } from '../../components';
+import { Header, CalculatorForm } from '../../components';
 
-const CalculatorPage: FC = () => {
+export const CalculatorPage: FC = () => {
   return (
-    <>
+    <div>
       <Header />
-    </>
+      <CalculatorForm />
+    </div>
   );
 };
-
-export { CalculatorPage };
