@@ -4,3 +4,4 @@ export { PriceComponent } from './price/price';
 export { Filter } from './filter/filter';
 export { Loader } from './loader/loader';
 export { AdditionalInfo } from './additionalInfo/additional-info';
+export { CalculatorForm } from './calculator-form/calculator-form';

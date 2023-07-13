@@ -61,7 +61,7 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
         zoom={8}
         options={defaultOptions}
       >
-        <MarkerClusterer averageCenter enableRetinaIcons gridSize={50}>
+        <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
           {(clusterer): JSX.Element => (
             <div>
               {allLocations.map((locationData) => {
