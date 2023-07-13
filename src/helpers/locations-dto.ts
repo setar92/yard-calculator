@@ -1,37 +1,20 @@
-import {
-  mapDPDLocation,
-  mapDataToCommonLocation,
-  mapLVPostLocation,
-  mapNationalPostLocation,
-  mapOmnivaLocation,
-  mapVenipakLocation,
-} from './convert-locations-data';
 import { CommonLocation } from '../common/types';
 import {
   locationsNationalPost,
   locationsOmniva,
   locationsVenipak,
   locationsuDrop,
-  infoDPD,
   locationsDPD,
   locationLVPost,
   // locationGLS,
 } from '../mock-data';
 
-const commonNationalPost = locationsNationalPost
-  .filter((loc) => loc.tmpCategory === 5)
-  .map((loc) => mapNationalPostLocation(loc));
-const commonOmnivaPost = locationsOmniva
-  .filter((loc) => loc.TYPE === '0')
-  .map((loc) => mapOmnivaLocation(loc));
-const commonVenipakPost = locationsVenipak.map((loc) =>
-  mapVenipakLocation(loc),
-);
-const commonuDropPost = locationsuDrop.map((loc) =>
-  mapDataToCommonLocation(loc),
-);
+const commonNationalPost = locationsNationalPost as CommonLocation[];
+const commonOmnivaPost = locationsOmniva as CommonLocation[];
+const commonVenipakPost = locationsVenipak as CommonLocation[];
+const commonuDropPost = locationsuDrop as CommonLocation[];
 
-const commonDPDPost = locationsDPD.map((loc) => mapDPDLocation(loc, infoDPD));
+const commonDPDPost = locationsDPD as CommonLocation[];
 const commonStokker: CommonLocation[] = [
   {
     address: 'Krasta iela 42, Latgales priekšpilsēta, Rīga, LV-1003, Латвія',
@@ -45,9 +28,7 @@ const commonStokker: CommonLocation[] = [
     img: 'stokker.jpg',
   },
 ];
-const commonLVPost: CommonLocation[] = locationLVPost.map((loc) =>
-  mapLVPostLocation(loc),
-);
+const commonLVPost = locationLVPost as CommonLocation[];
 
 export {
   commonNationalPost,

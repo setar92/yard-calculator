@@ -1,737 +1,1262 @@
 [
   {
+    "latitude": 54.723415,
+    "longitude": 25.240822,
+    "name": "1",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.723415,
-    "lng": 25.240822,
-    "id": 1
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 55.672695,
-    "lng": 21.201537,
-    "id": 2
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 55.719413,
-    "lng": 21.139752,
-    "id": 3
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 54.936039,
-    "lng": 23.895864,
-    "id": 4
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 55.679628,
-    "lng": 21.188725,
-    "id": 5
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 54.919177,
-    "lng": 23.82792,
-    "id": 6
-  },
-  {
-    "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.6781,
-    "lng": 25.2128,
-    "id": 7
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 55.672695,
+    "longitude": 21.201537,
+    "name": "2",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.731546,
-    "lng": 24.34266,
-    "id": 8
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 54.563523,
-    "lng": 23.34207,
-    "id": 9
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 55.719413,
+    "longitude": 21.139752,
+    "name": "3",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.560301,
-    "lng": 23.36126,
-    "id": 10
-  },
-  {
-    "country": "LT",
-    "city": "unknown",
-    "lat": 55.906784,
-    "lng": 23.325408,
-    "id": 11
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.936039,
+    "longitude": 23.895864,
+    "name": "4",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.92634,
-    "lng": 23.318397,
-    "id": 12
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 55.679628,
+    "longitude": 21.188725,
+    "name": "5",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.92634,
-    "lng": 23.318397,
-    "id": 13
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.919177,
+    "longitude": 23.82792,
+    "name": "6",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.911002,
-    "lng": 23.276309,
-    "id": 14
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.6781,
+    "longitude": 25.2128,
+    "name": "7",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.728707,
-    "lng": 24.324371,
-    "id": 15
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 55.731546,
+    "longitude": 24.34266,
+    "name": "8",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.725669,
-    "lng": 24.325572,
-    "id": 16
-  },
-  {
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.563523,
+    "longitude": 23.34207,
+    "name": "9",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.721891,
-    "lng": 24.33043,
-    "id": 17
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.560301,
+    "longitude": 23.36126,
+    "name": "10",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.68709,
-    "lng": 25.28154,
-    "id": 18
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.906784,
+    "longitude": 23.325408,
+    "name": "11",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.961938,
-    "lng": 23.907984,
-    "id": 19
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.92634,
+    "longitude": 23.318397,
+    "name": "12",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.712681,
-    "lng": 25.159891,
-    "id": 20
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.92634,
+    "longitude": 23.318397,
+    "name": "13",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.965779,
-    "lng": 24.056745,
-    "id": 21
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.911002,
+    "longitude": 23.276309,
+    "name": "14",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.870502,
-    "lng": 23.907984,
-    "id": 22
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.728707,
+    "longitude": 24.324371,
+    "name": "15",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.945441,
-    "lng": 23.82829,
-    "id": 23
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.725669,
+    "longitude": 24.325572,
+    "name": "16",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.771938,
-    "lng": 25.272278,
-    "id": 24
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.721891,
+    "longitude": 24.33043,
+    "name": "17",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.737043,
-    "lng": 25.267978,
-    "id": 25
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.68709,
+    "longitude": 25.28154,
+    "name": "18",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.6464048,
-    "lng": 25.051708,
-    "id": 26
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.961938,
+    "longitude": 23.907984,
+    "name": "19",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.241363,
-    "lng": 24.743702,
-    "id": 27
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.712681,
+    "longitude": 25.159891,
+    "name": "20",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.690608,
-    "lng": 21.152758,
-    "id": 28
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.965779,
+    "longitude": 24.056745,
+    "name": "21",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.6978895,
-    "lng": 25.277459,
-    "id": 29
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.870502,
+    "longitude": 23.907984,
+    "name": "22",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.712681,
-    "lng": 25.159891,
-    "id": 30
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.945441,
+    "longitude": 23.82829,
+    "name": "23",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.965779,
-    "lng": 24.056745,
-    "id": 31
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.771938,
+    "longitude": 25.272278,
+    "name": "24",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.771938,
-    "lng": 25.272278,
-    "id": 32
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.737043,
+    "longitude": 25.267978,
+    "name": "25",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.737043,
-    "lng": 25.267978,
-    "id": 33
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6464048,
+    "longitude": 25.051708,
+    "name": "26",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.6464048,
-    "lng": 25.051708,
-    "id": 34
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.241363,
+    "longitude": 24.743702,
+    "name": "27",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.241363,
-    "lng": 24.743702,
-    "id": 35
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.690608,
+    "longitude": 21.152758,
+    "name": "28",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.690608,
-    "lng": 21.152758,
-    "id": 36
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6978895,
+    "longitude": 25.277459,
+    "name": "29",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.703069,
-    "lng": 25.218908,
-    "id": 37
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.712681,
+    "longitude": 25.159891,
+    "name": "30",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.393372,
-    "lng": 24.017661,
-    "id": 38
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.965779,
+    "longitude": 24.056745,
+    "name": "31",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.70491,
-    "lng": 25.207717,
-    "id": 39
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.771938,
+    "longitude": 25.272278,
+    "name": "32",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 56.305619,
-    "lng": 22.352334,
-    "id": 40
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.737043,
+    "longitude": 25.267978,
+    "name": "33",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.726369,
-    "lng": 24.342675,
-    "id": 41
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6464048,
+    "longitude": 25.051708,
+    "name": "34",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.868611,
-    "lng": 23.888167,
-    "id": 42
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.241363,
+    "longitude": 24.743702,
+    "name": "35",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.716995,
-    "lng": 25.276395,
-    "id": 43
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.690608,
+    "longitude": 21.152758,
+    "name": "36",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.924154,
-    "lng": 23.940149,
-    "id": 44
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.703069,
+    "longitude": 25.218908,
+    "name": "37",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.91085,
-    "lng": 23.981137,
-    "id": 45
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.393372,
+    "longitude": 24.017661,
+    "name": "38",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.919779,
-    "lng": 23.950433,
-    "id": 46
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.70491,
+    "longitude": 25.207717,
+    "name": "39",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.407295,
-    "lng": 24.017122,
-    "id": 47
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 56.305619,
+    "longitude": 22.352334,
+    "name": "40",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.740215,
-    "lng": 25.225336,
-    "id": 48
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.726369,
+    "longitude": 24.342675,
+    "name": "41",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.708373,
-    "lng": 25.289437,
-    "id": 49
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.868611,
+    "longitude": 23.888167,
+    "name": "42",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.685255,
-    "lng": 25.424916,
-    "id": 50
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.716995,
+    "longitude": 25.276395,
+    "name": "43",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.703614,
-    "lng": 25.28224,
-    "id": 51
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.924154,
+    "longitude": 23.940149,
+    "name": "44",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.691929,
-    "lng": 25.287136,
-    "id": 52
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.91085,
+    "longitude": 23.981137,
+    "name": "45",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.723415,
-    "lng": 25.240822,
-    "id": 1
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.919779,
+    "longitude": 23.950433,
+    "name": "46",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Klaip\u0117da",
-    "lat": 55.672695,
-    "lng": 21.201537,
-    "id": 2
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.407295,
+    "longitude": 24.017122,
+    "name": "47",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Klaip\u0117da",
-    "lat": 55.719413,
-    "lng": 21.139752,
-    "id": 3
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.740215,
+    "longitude": 25.225336,
+    "name": "48",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.936039,
-    "lng": 23.895864,
-    "id": 4
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.708373,
+    "longitude": 25.289437,
+    "name": "49",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Klaip\u0117da",
-    "lat": 55.679628,
-    "lng": 21.188725,
-    "id": 5
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.685255,
+    "longitude": 25.424916,
+    "name": "50",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.919177,
-    "lng": 23.82792,
-    "id": 6
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.703614,
+    "longitude": 25.28224,
+    "name": "51",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.6781,
-    "lng": 25.2128,
-    "id": 7
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.691929,
+    "longitude": 25.287136,
+    "name": "52",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.731546,
-    "lng": 24.34266,
-    "id": 8
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.723415,
+    "longitude": 25.240822,
+    "name": "1",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.563523,
-    "lng": 23.34207,
-    "id": 9
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.672695,
+    "longitude": 21.201537,
+    "name": "2",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Klaipėda"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.560301,
-    "lng": 23.36126,
-    "id": 10
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.719413,
+    "longitude": 21.139752,
+    "name": "3",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Klaipėda"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.906784,
-    "lng": 23.325408,
-    "id": 11
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.936039,
+    "longitude": 23.895864,
+    "name": "4",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.92634,
-    "lng": 23.318397,
-    "id": 12
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.679628,
+    "longitude": 21.188725,
+    "name": "5",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Klaipėda"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.92634,
-    "lng": 23.318397,
-    "id": 13
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.919177,
+    "longitude": 23.82792,
+    "name": "6",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.911002,
-    "lng": 23.276309,
-    "id": 14
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6781,
+    "longitude": 25.2128,
+    "name": "7",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.728707,
-    "lng": 24.324371,
-    "id": 15
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.731546,
+    "longitude": 24.34266,
+    "name": "8",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.725669,
-    "lng": 24.325572,
-    "id": 16
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.563523,
+    "longitude": 23.34207,
+    "name": "9",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.721891,
-    "lng": 24.33043,
-    "id": 17
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.560301,
+    "longitude": 23.36126,
+    "name": "10",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.68709,
-    "lng": 25.28154,
-    "id": 18
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.906784,
+    "longitude": 23.325408,
+    "name": "11",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.961938,
-    "lng": 23.907984,
-    "id": 19
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.92634,
+    "longitude": 23.318397,
+    "name": "12",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.712681,
-    "lng": 25.159891,
-    "id": 20
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.92634,
+    "longitude": 23.318397,
+    "name": "13",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.965779,
-    "lng": 24.056745,
-    "id": 21
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.911002,
+    "longitude": 23.276309,
+    "name": "14",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.870502,
-    "lng": 23.907984,
-    "id": 22
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.728707,
+    "longitude": 24.324371,
+    "name": "15",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.945441,
-    "lng": 23.82829,
-    "id": 23
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.725669,
+    "longitude": 24.325572,
+    "name": "16",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.771938,
-    "lng": 25.272278,
-    "id": 24
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.721891,
+    "longitude": 24.33043,
+    "name": "17",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.737043,
-    "lng": 25.267978,
-    "id": 25
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.68709,
+    "longitude": 25.28154,
+    "name": "18",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.6464048,
-    "lng": 25.051708,
-    "id": 26
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.961938,
+    "longitude": 23.907984,
+    "name": "19",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.241363,
-    "lng": 24.743702,
-    "id": 27
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.712681,
+    "longitude": 25.159891,
+    "name": "20",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.690608,
-    "lng": 21.152758,
-    "id": 28
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.965779,
+    "longitude": 24.056745,
+    "name": "21",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.6978895,
-    "lng": 25.277459,
-    "id": 29
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.870502,
+    "longitude": 23.907984,
+    "name": "22",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.712681,
-    "lng": 25.159891,
-    "id": 30
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.945441,
+    "longitude": 23.82829,
+    "name": "23",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.965779,
-    "lng": 24.056745,
-    "id": 31
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.771938,
+    "longitude": 25.272278,
+    "name": "24",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.771938,
-    "lng": 25.272278,
-    "id": 32
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.737043,
+    "longitude": 25.267978,
+    "name": "25",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.737043,
-    "lng": 25.267978,
-    "id": 33
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6464048,
+    "longitude": 25.051708,
+    "name": "26",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.6464048,
-    "lng": 25.051708,
-    "id": 34
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.241363,
+    "longitude": 24.743702,
+    "name": "27",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.241363,
-    "lng": 24.743702,
-    "id": 35
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.690608,
+    "longitude": 21.152758,
+    "name": "28",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Klaip\u0117da",
-    "lat": 55.690608,
-    "lng": 21.152758,
-    "id": 36
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6978895,
+    "longitude": 25.277459,
+    "name": "29",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.703069,
-    "lng": 25.218908,
-    "id": 37
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.712681,
+    "longitude": 25.159891,
+    "name": "30",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.393372,
-    "lng": 24.017661,
-    "id": 38
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.965779,
+    "longitude": 24.056745,
+    "name": "31",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.70491,
-    "lng": 25.207717,
-    "id": 39
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.771938,
+    "longitude": 25.272278,
+    "name": "32",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 56.305619,
-    "lng": 22.352334,
-    "id": 40
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.737043,
+    "longitude": 25.267978,
+    "name": "33",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 55.726369,
-    "lng": 24.342675,
-    "id": 41
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.6464048,
+    "longitude": 25.051708,
+    "name": "34",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.868611,
-    "lng": 23.888167,
-    "id": 42
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.241363,
+    "longitude": 24.743702,
+    "name": "35",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.716995,
-    "lng": 25.276395,
-    "id": 43
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.690608,
+    "longitude": 21.152758,
+    "name": "36",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Klaipėda"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.924154,
-    "lng": 23.940149,
-    "id": 44
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.703069,
+    "longitude": 25.218908,
+    "name": "37",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.91085,
-    "lng": 23.981137,
-    "id": 45
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.393372,
+    "longitude": 24.017661,
+    "name": "38",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Kaunas",
-    "lat": 54.919779,
-    "lng": 23.950433,
-    "id": 46
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.70491,
+    "longitude": 25.207717,
+    "name": "39",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.407295,
-    "lng": 24.017122,
-    "id": 47
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 56.305619,
+    "longitude": 22.352334,
+    "name": "40",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.740215,
-    "lng": 25.225336,
-    "id": 48
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 55.726369,
+    "longitude": 24.342675,
+    "name": "41",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.708373,
-    "lng": 25.289437,
-    "id": 49
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.868611,
+    "longitude": 23.888167,
+    "name": "42",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.685255,
-    "lng": 25.424916,
-    "id": 50
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.716995,
+    "longitude": 25.276395,
+    "name": "43",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
     "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.703614,
-    "lng": 25.28224,
-    "id": 51
+    "iconUrl": "uDrop.svg"
   },
   {
+    "latitude": 54.924154,
+    "longitude": 23.940149,
+    "name": "44",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
     "country": "LT",
-    "city": "unknown",
-    "lat": 54.691929,
-    "lng": 25.287136,
-    "id": 52
+    "iconUrl": "uDrop.svg"
   },
   {
-    "country": "LT",
-    "city": "Vilnius",
-    "lat": 54.699805,
-    "lng": 25.264574,
-    "id": 53
+    "latitude": 54.91085,
+    "longitude": 23.981137,
+    "name": "45",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.919779,
+    "longitude": 23.950433,
+    "name": "46",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Kaunas"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.407295,
+    "longitude": 24.017122,
+    "name": "47",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.740215,
+    "longitude": 25.225336,
+    "name": "48",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.708373,
+    "longitude": 25.289437,
+    "name": "49",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.685255,
+    "longitude": 25.424916,
+    "name": "50",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.703614,
+    "longitude": 25.28224,
+    "name": "51",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.691929,
+    "longitude": 25.287136,
+    "name": "52",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "unknown"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
+  },
+  {
+    "latitude": 54.699805,
+    "longitude": 25.264574,
+    "name": "53",
+    "address": "Latvia",
+    "owner": "uDrop",
+    "city": [
+      "Vilnius"
+    ],
+    "country": "LT",
+    "iconUrl": "uDrop.svg"
   }
 ]

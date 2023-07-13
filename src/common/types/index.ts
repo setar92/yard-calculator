@@ -1,14 +1,5 @@
 export type { ICoordinates } from './coordinates';
-export type {
-  CommonLocation,
-  NationalPostlocation,
-  OmnivaLocation,
-  VenipakLocation,
-  Owner,
-  IAllLocationsData,
-  uDropLocation,
-  LVPostLocation,
-} from './locations';
+export type { CommonLocation, IAllLocationsData } from './locations';
 export type {
   FilterState,
   SetOwnerAction,
