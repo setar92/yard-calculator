@@ -1770,9 +1770,9 @@
         "country": "LT",
         "iconUrl": "VenipakMarket.svg",
         "owner": "Venipak",
-        "address": "Draugystės g. 13",
+        "address": "Bažnyčios g. 38",
         "city": [
-            "Elektrėnai"
+            "Marijampolė"
         ]
     },
     {
@@ -2469,18 +2469,6 @@
         "address": "Vilniaus g. 52A, Karmėlava",
         "city": [
             "Karmėlava"
-        ]
-    },
-    {
-        "name": "Venipak Pickup, Eurokos",
-        "latitude": 54.897632,
-        "longitude": 23.902688,
-        "country": "LT",
-        "iconUrl": "VenipakMarket.svg",
-        "owner": "Venipak",
-        "address": "Laisvės al. 97",
-        "city": [
-            "Kaunas"
         ]
     },
     {
@@ -4819,18 +4807,6 @@
         "iconUrl": "VenipakMarket.svg",
         "owner": "Venipak",
         "address": "Sporto g. 9b",
-        "city": [
-            "Marijampolė"
-        ]
-    },
-    {
-        "name": "Venipak Pickup, Eurokos",
-        "latitude": 54.556032,
-        "longitude": 23.345945,
-        "country": "LT",
-        "iconUrl": "VenipakMarket.svg",
-        "owner": "Venipak",
-        "address": "Bažnyčios g. 38",
         "city": [
             "Marijampolė"
         ]
@@ -11976,18 +11952,6 @@
         ]
     },
     {
-        "name": "Venipak Pickup, Virši DUS Cukurs",
-        "latitude": 56.5173381,
-        "longitude": 21.0192745,
-        "country": "LV",
-        "iconUrl": "VenipakMarket.svg",
-        "owner": "Venipak",
-        "address": "Cukura iela 29",
-        "city": [
-            "Liepāja"
-        ]
-    },
-    {
         "name": "Venipak Pickup, Virši DUS Liepāja",
         "latitude": 56.5173381,
         "longitude": 21.0192745,
@@ -13207,18 +13171,6 @@
         "iconUrl": "VenipakMarket.svg",
         "owner": "Venipak",
         "address": "Vienības gatve 194a",
-        "city": [
-            "Rīga"
-        ]
-    },
-    {
-        "name": "Venipak Pickup, Evelatus (E tunelis)",
-        "latitude": 56.9467831,
-        "longitude": 24.1197768,
-        "country": "LV",
-        "iconUrl": "VenipakMarket.svg",
-        "owner": "Venipak",
-        "address": "Stacijas laukums 2",
         "city": [
             "Rīga"
         ]

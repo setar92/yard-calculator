@@ -1,16 +1,13 @@
-import { FC, useState, useEffect } from 'react';
-import uuid from 'react-uuid';
+import { FC, useState, useEffect, useCallback } from 'react';
 
 import {
   useJsApiLoader,
   GoogleMap,
   DirectionsRenderer,
-  Marker,
-  MarkerClusterer,
 } from '@react-google-maps/api';
 
 import { ChooseWeight } from './choose-weight';
-import { Loader } from '..';
+import { Loader, MemoizedCluster } from '..';
 import {
   allLocationsData,
   libraries,
@@ -58,29 +55,31 @@ const CalculatorForm: FC = () => {
         : setPrice(prise);
     }
   }, [distance, weight]);
-  const choosePostMachineHandler = async (
-    location: CommonLocation,
-  ): Promise<void> => {
-    if (destination) {
-      clearRoute();
-    }
+  const choosePostMachineHandler = useCallback(
+    async (location: CommonLocation): Promise<void> => {
+      if (destination) {
+        clearRoute();
+      }
 
-    if (
-      origin?.latitude === destination?.latitude &&
-      origin?.longitude === destination?.longitude &&
-      origin?.latitude !== undefined
-    )
-      return;
-    if (!origin) {
-      setOrigin(location);
-    } else if (!destination) {
-      setDestination(location);
-    }
-    if (destination) {
-      setOrigin(location);
-      setDestination(null);
-    }
-  };
+      if (
+        origin?.latitude === destination?.latitude &&
+        origin?.longitude === destination?.longitude &&
+        origin?.latitude !== undefined
+      ) {
+        return;
+      }
+      if (!origin) {
+        setOrigin(location);
+      } else if (!destination) {
+        setDestination(location);
+      }
+      if (destination) {
+        setOrigin(location);
+        setDestination(null);
+      }
+    },
+    [origin, destination],
+  );
 
   async function calculateRoute(): Promise<void> {
     if (origin === null || destination === null) {
@@ -124,7 +123,7 @@ const CalculatorForm: FC = () => {
       <div className="w-[100%]">
         <GoogleMap
           center={center}
-          zoom={15}
+          zoom={10}
           mapContainerStyle={{ width: '100%', height: '650px' }}
           options={defaultOptions}
         >
@@ -139,29 +138,10 @@ const CalculatorForm: FC = () => {
               }}
             />
           )}
-          <MarkerClusterer averageCenter enableRetinaIcons gridSize={20}>
-            {(clusterer): JSX.Element => (
-              <div>
-                {allLocations.map((locationData) => {
-                  return locationData.data.map((loc) => {
-                    return (
-                      <Marker
-                        key={uuid()}
-                        position={{ lat: loc.latitude, lng: loc.longitude }}
-                        clusterer={clusterer}
-                        icon={{
-                          url: `${locationData.marker}`,
-                        }}
-                        onClick={(): Promise<void> =>
-                          choosePostMachineHandler(loc)
-                        }
-                      />
-                    );
-                  });
-                })}
-              </div>
-            )}
-          </MarkerClusterer>
+          <MemoizedCluster
+            allLocations={allLocations}
+            choosePostMachineHandler={choosePostMachineHandler}
+          />
         </GoogleMap>
       </div>
       <div className="absolute p-4 rounded-xl m-2 bg-white shadow-sm w-[350px] ml-auto mr-auto z-10 top-4 left-4 flex flex-col">
