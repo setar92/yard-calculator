@@ -672,7 +672,7 @@
         ]
     },
     {
-        "name": "LPP Ziemeļu (LV-6861) LPP Ziemeļu (6861)",
+        "name": "Testa Ziemeļu 6887 (LVP001) ",
         "latitude": 56.927952079808,
         "longitude": 23.987365526934,
         "country": "LV",
@@ -708,7 +708,7 @@
         ]
     },
     {
-        "name": "LPP 83. nodaļa Rīgas 83. pasta nodaļa",
+        "name": "LPP Maxima Dzirciema 6937 ",
         "latitude": 56.949690350329,
         "longitude": 24.0538880412,
         "country": "LV",
@@ -969,18 +969,6 @@
         "address": "Mārupes iela 10A, Rīga, LV-1002",
         "city": [
             "Rīga"
-        ]
-    },
-    {
-        "name": "Testa Ziemeļu 6887 (LVP001) ",
-        "latitude": 56.927952079808,
-        "longitude": 23.987365526934,
-        "country": "LV",
-        "iconUrl": "national-post.svg",
-        "owner": "National",
-        "address": "Ziemeļu iela 10, Lidosta Rīga, Mārupes pag., Mārupes nov., LV-1044",
-        "city": [
-            "Mārupes nov."
         ]
     },
     {
@@ -1545,18 +1533,6 @@
         "address": "Abavas iela 4B, Kandava, Tukuma nov., LV-3120",
         "city": [
             "Tukuma nov."
-        ]
-    },
-    {
-        "name": "LPP Maxima Dzirciema 6937 ",
-        "latitude": 56.949690350329,
-        "longitude": 24.0538880412,
-        "country": "LV",
-        "iconUrl": "national-post.svg",
-        "owner": "National",
-        "address": "Dzirciema iela 1A, Rīga, LV-1083",
-        "city": [
-            "Rīga"
         ]
     },
     {

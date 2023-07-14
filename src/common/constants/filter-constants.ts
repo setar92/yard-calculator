@@ -31,23 +31,23 @@ const countries = [
 const allLocationsData: IAllLocationsData[] = [
   {
     ownerName: 'National Post',
-    marker: 'national-post.svg',
+    marker: 'national.svg',
     data: commonNationalPost,
   },
   {
     ownerName: 'Omniva',
-    marker: 'Omniva.png',
+    marker: 'omniva.svg',
     data: commonOmnivaPost,
   },
   {
     ownerName: 'Venipak',
-    marker: 'VenipakMarket.svg',
+    marker: 'venipak.svg',
     data: commonVenipakPost,
   },
   { ownerName: 'uDrop', marker: 'uDrop.svg', data: commonuDropPost },
-  { ownerName: 'DPD', marker: 'dpd.png', data: commonDPDPost },
+  { ownerName: 'DPD', marker: 'dpd.svg', data: commonDPDPost },
   { ownerName: 'Stokker', marker: 'stokker.svg', data: commonStokker },
-  { ownerName: 'LT-post', marker: 'LT-post.svg', data: commonLVPost },
+  { ownerName: 'LT-post', marker: 'lt.svg', data: commonLVPost },
 ];
 
 export { cities, countries, allLocationsData };

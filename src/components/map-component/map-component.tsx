@@ -73,6 +73,7 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
                       clusterer={clusterer}
                       icon={{
                         url: `${locationData.marker}`,
+                        scaledSize: new google.maps.Size(40, 40),
                       }}
                       onClick={(): void => choosePostMachineHandler(loc)}
                     />

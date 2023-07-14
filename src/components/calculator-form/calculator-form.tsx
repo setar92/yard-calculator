@@ -1,16 +1,13 @@
 import { FC, useState, useEffect } from 'react';
-import uuid from 'react-uuid';
 
 import {
   useJsApiLoader,
   GoogleMap,
   DirectionsRenderer,
-  Marker,
-  MarkerClusterer,
 } from '@react-google-maps/api';
 
 import { ChooseWeight } from './choose-weight';
-import { Loader } from '..';
+import { Loader, MemoizedCluster } from '..';
 import {
   allLocationsData,
   libraries,
@@ -22,6 +19,7 @@ import { filterData } from '../../helpers/filter-logic';
 import { useAppSelector } from '../../hooks/store/store.hooks';
 
 const center = { lat: 56.940763, lng: 24.138074 };
+const mapContainerStyle = { width: '100%', height: '650px' };
 
 const CalculatorForm: FC = () => {
   const { isLoaded } = useJsApiLoader({
@@ -69,8 +67,9 @@ const CalculatorForm: FC = () => {
       origin?.latitude === destination?.latitude &&
       origin?.longitude === destination?.longitude &&
       origin?.latitude !== undefined
-    )
+    ) {
       return;
+    }
     if (!origin) {
       setOrigin(location);
     } else if (!destination) {
@@ -82,7 +81,7 @@ const CalculatorForm: FC = () => {
     }
   };
 
-  async function calculateRoute(): Promise<void> {
+  const calculateRoute = async function (): Promise<void> {
     if (origin === null || destination === null) {
       return;
     }
@@ -104,7 +103,7 @@ const CalculatorForm: FC = () => {
       results.routes[0].legs[0] &&
       results.routes[0].legs[0].distance &&
       setDistance(results?.routes[0]?.legs[0]?.distance.text);
-  }
+  };
 
   function clearRoute(): void {
     setDirectionsResponse(null);
@@ -124,8 +123,8 @@ const CalculatorForm: FC = () => {
       <div className="w-[100%]">
         <GoogleMap
           center={center}
-          zoom={15}
-          mapContainerStyle={{ width: '100%', height: '650px' }}
+          zoom={10}
+          mapContainerStyle={mapContainerStyle}
           options={defaultOptions}
         >
           {directionsResponse && (
@@ -139,29 +138,10 @@ const CalculatorForm: FC = () => {
               }}
             />
           )}
-          <MarkerClusterer averageCenter enableRetinaIcons gridSize={20}>
-            {(clusterer): JSX.Element => (
-              <div>
-                {allLocations.map((locationData) => {
-                  return locationData.data.map((loc) => {
-                    return (
-                      <Marker
-                        key={uuid()}
-                        position={{ lat: loc.latitude, lng: loc.longitude }}
-                        clusterer={clusterer}
-                        icon={{
-                          url: `${locationData.marker}`,
-                        }}
-                        onClick={(): Promise<void> =>
-                          choosePostMachineHandler(loc)
-                        }
-                      />
-                    );
-                  });
-                })}
-              </div>
-            )}
-          </MarkerClusterer>
+          <MemoizedCluster
+            allLocations={allLocations}
+            choosePostMachineHandler={choosePostMachineHandler}
+          />
         </GoogleMap>
       </div>
       <div className="absolute p-4 rounded-xl m-2 bg-white shadow-sm w-[350px] ml-auto mr-auto z-10 top-4 left-4 flex flex-col">
