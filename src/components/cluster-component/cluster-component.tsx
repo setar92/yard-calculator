@@ -27,6 +27,7 @@ const ClusterComponent: FC<FormMapProps> = ({
                     clusterer={clusterer}
                     icon={{
                       url: `${locationData.marker}`,
+                      scaledSize: new google.maps.Size(40, 40),
                     }}
                     onClick={(): Promise<void> => choosePostMachineHandler(loc)}
                   />

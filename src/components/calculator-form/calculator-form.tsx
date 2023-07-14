@@ -1,4 +1,4 @@
-import { FC, useState, useEffect, useCallback } from 'react';
+import { FC, useState, useEffect } from 'react';
 
 import {
   useJsApiLoader,
@@ -19,6 +19,7 @@ import { filterData } from '../../helpers/filter-logic';
 import { useAppSelector } from '../../hooks/store/store.hooks';
 
 const center = { lat: 56.940763, lng: 24.138074 };
+const mapContainerStyle = { width: '100%', height: '650px' };
 
 const CalculatorForm: FC = () => {
   const { isLoaded } = useJsApiLoader({
@@ -55,33 +56,32 @@ const CalculatorForm: FC = () => {
         : setPrice(prise);
     }
   }, [distance, weight]);
-  const choosePostMachineHandler = useCallback(
-    async (location: CommonLocation): Promise<void> => {
-      if (destination) {
-        clearRoute();
-      }
+  const choosePostMachineHandler = async (
+    location: CommonLocation,
+  ): Promise<void> => {
+    if (destination) {
+      clearRoute();
+    }
 
-      if (
-        origin?.latitude === destination?.latitude &&
-        origin?.longitude === destination?.longitude &&
-        origin?.latitude !== undefined
-      ) {
-        return;
-      }
-      if (!origin) {
-        setOrigin(location);
-      } else if (!destination) {
-        setDestination(location);
-      }
-      if (destination) {
-        setOrigin(location);
-        setDestination(null);
-      }
-    },
-    [origin, destination],
-  );
+    if (
+      origin?.latitude === destination?.latitude &&
+      origin?.longitude === destination?.longitude &&
+      origin?.latitude !== undefined
+    ) {
+      return;
+    }
+    if (!origin) {
+      setOrigin(location);
+    } else if (!destination) {
+      setDestination(location);
+    }
+    if (destination) {
+      setOrigin(location);
+      setDestination(null);
+    }
+  };
 
-  async function calculateRoute(): Promise<void> {
+  const calculateRoute = async function (): Promise<void> {
     if (origin === null || destination === null) {
       return;
     }
@@ -103,7 +103,7 @@ const CalculatorForm: FC = () => {
       results.routes[0].legs[0] &&
       results.routes[0].legs[0].distance &&
       setDistance(results?.routes[0]?.legs[0]?.distance.text);
-  }
+  };
 
   function clearRoute(): void {
     setDirectionsResponse(null);
@@ -124,7 +124,7 @@ const CalculatorForm: FC = () => {
         <GoogleMap
           center={center}
           zoom={10}
-          mapContainerStyle={{ width: '100%', height: '650px' }}
+          mapContainerStyle={mapContainerStyle}
           options={defaultOptions}
         >
           {directionsResponse && (
