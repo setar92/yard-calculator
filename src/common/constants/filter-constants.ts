@@ -1,12 +1,16 @@
 import {
-  commonNationalPost,
-  commonOmnivaPost,
-  commonVenipakPost,
-  commonuDropPost,
-  commonDPDPost,
-  commonStokker,
-  commonLVPost,
-} from '../../helpers/locations-dto';
+  locationsNationalPost,
+  locationsOmniva,
+  locationsVenipak,
+  locationsuDrop,
+  locationsDPD,
+  locationLVPost,
+  locationsDHL,
+  locationsStokker,
+  locationsBudbee,
+  locationsGLS,
+  locationsSameDay,
+} from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
 const cities = [
@@ -26,28 +30,36 @@ const countries = [
   ['Estonia', 'EE'],
   ['Lithuania', 'LT'],
   ['Hungary', 'HU'],
+  ['Poland', 'PL'],
+  ['Netherlands', 'NL'],
+  ['Romania', 'RM'],
+  ['Bulgaria', 'BG'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
   {
     ownerName: 'National Post',
     marker: 'national.svg',
-    data: commonNationalPost,
+    data: locationsNationalPost,
   },
   {
     ownerName: 'Omniva',
     marker: 'omniva.svg',
-    data: commonOmnivaPost,
+    data: locationsOmniva,
   },
   {
     ownerName: 'Venipak',
     marker: 'venipak.svg',
-    data: commonVenipakPost,
+    data: locationsVenipak,
   },
-  { ownerName: 'uDrop', marker: 'uDrop.svg', data: commonuDropPost },
-  { ownerName: 'DPD', marker: 'dpd.svg', data: commonDPDPost },
-  { ownerName: 'Stokker', marker: 'stokker.svg', data: commonStokker },
-  { ownerName: 'LT-post', marker: 'lt.svg', data: commonLVPost },
+  { ownerName: 'uDrop', marker: 'uDrop.svg', data: locationsuDrop },
+  { ownerName: 'DPD', marker: 'dpd.svg', data: locationsDPD },
+  { ownerName: 'Stokker', marker: 'stokker.svg', data: locationsStokker },
+  { ownerName: 'LT-post', marker: 'lt.svg', data: locationLVPost },
+  { ownerName: 'DHL', marker: 'dhl.png', data: locationsDHL },
+  { ownerName: 'budbee', marker: 'budbee.png', data: locationsBudbee },
+  { ownerName: 'GLS', marker: 'GLS.svg', data: locationsGLS },
+  { ownerName: 'same day', marker: 'sameday.png', data: locationsSameDay },
 ];
 
 export { cities, countries, allLocationsData };
