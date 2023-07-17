@@ -1,10 +1,9 @@
 import { pricesC2C } from '../common/constants';
 const calculatePrice = (distance: number, weight: number): number => {
-  let price = 0;
+  let price: number;
 
   const dataForCarrentWeight = pricesC2C[weight - 1];
-
-  if (distance < 3) {
+  if (distance < 3 || isNaN(distance)) {
     price = dataForCarrentWeight[0] as number;
   } else if (distance < 6) {
     price = dataForCarrentWeight[1] as number;

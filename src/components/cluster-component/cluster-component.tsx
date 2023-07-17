@@ -3,16 +3,15 @@ import uuid from 'react-uuid';
 
 import { Marker, MarkerClusterer } from '@react-google-maps/api';
 
-import { CommonLocation, IAllLocationsData } from '../../common/types';
-
+import { CommonLocation } from '../../common/types';
+import { useAppSelector } from '../../hooks/store/store.hooks';
+import { selectFilteredLocations } from '../../store/selectors/filtered-locations';
 interface FormMapProps {
-  allLocations: IAllLocationsData[];
   choosePostMachineHandler: (location: CommonLocation) => Promise<void>;
 }
-const ClusterComponent: FC<FormMapProps> = ({
-  allLocations,
-  choosePostMachineHandler,
-}) => {
+const ClusterComponent: FC<FormMapProps> = ({ choosePostMachineHandler }) => {
+  const allLocations = useAppSelector(selectFilteredLocations);
+
   return (
     <>
       <MarkerClusterer averageCenter enableRetinaIcons gridSize={15}>

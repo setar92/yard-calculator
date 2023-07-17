@@ -1,15 +1,20 @@
-import { IAllLocationsData, FilterState } from '../common/types';
+import { EmptyObject, createSelector } from '@reduxjs/toolkit';
 
-const filterData = (
-  data: IAllLocationsData[],
-  filterCriterions: FilterState,
-): IAllLocationsData[] => {
-  const owners = filterCriterions.owners;
-  const filteredByOwners = data.filter((loc) => owners.includes(loc.ownerName));
+import { allLocationsData } from '../../common/constants';
+import { FilterState, IAllLocationsData } from '../../common/types';
+const selectFilters = (
+  state: EmptyObject & { filter: FilterState },
+): FilterState => state.filter;
+const selectFilteredLocations = createSelector([selectFilters], (filters) => {
+  const { cities, countries, owners } = filters;
 
+  if (!cities || !countries || !owners) return [];
+  const filteredByOwners = allLocationsData.filter((loc) =>
+    owners.includes(loc.ownerName),
+  );
   let filteredByCity: IAllLocationsData[] = [];
-  if (!filterCriterions.cities.includes('All')) {
-    filterCriterions.cities.forEach((city) => {
+  if (!cities.includes('All')) {
+    cities.forEach((city) => {
       filteredByOwners.map((locations) => {
         const filteredData = locations.data.filter((loc) =>
           loc.city.includes(city),
@@ -26,8 +31,8 @@ const filterData = (
   }
 
   let filteredByCountry: IAllLocationsData[] = [];
-  if (!filterCriterions.countries.includes('All')) {
-    filterCriterions.countries.forEach((country) => {
+  if (!countries.includes('All')) {
+    countries.forEach((country) => {
       filteredByOwners.map((locations) => {
         const filteredData = locations.data.filter(
           (loc) => loc.country === country,
@@ -42,7 +47,7 @@ const filterData = (
   } else {
     filteredByCountry = filteredByOwners;
   }
-  return filterCriterions.countries.length ? filteredByCountry : filteredByCity;
-};
+  return countries.length ? filteredByCountry : filteredByCity;
+});
 
-export { filterData };
+export { selectFilteredLocations };
