@@ -1,4 +1,4 @@
-import { FC, useState, useEffect } from 'react';
+import { FC, useState, useEffect, useCallback } from 'react';
 
 import {
   useJsApiLoader,
@@ -8,15 +8,9 @@ import {
 
 import { ChooseWeight } from './choose-weight';
 import { Loader, MemoizedCluster } from '..';
-import {
-  allLocationsData,
-  libraries,
-  defaultOptions,
-} from '../../common/constants';
-import { CommonLocation, IAllLocationsData } from '../../common/types';
+import { libraries, defaultOptions } from '../../common/constants';
+import { CommonLocation } from '../../common/types';
 import { calculatePrice } from '../../helpers';
-import { filterData } from '../../helpers/filter-logic';
-import { useAppSelector } from '../../hooks/store/store.hooks';
 
 const center = { lat: 56.940763, lng: 24.138074 };
 const mapContainerStyle = { width: '100%', height: '650px' };
@@ -26,9 +20,6 @@ const CalculatorForm: FC = () => {
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
     libraries,
   });
-
-  const [allLocations, setAllLocations] = useState<IAllLocationsData[]>([]);
-
   const [directionsResponse, setDirectionsResponse] =
     useState<google.maps.DirectionsResult | null>(null);
   const [distance, setDistance] = useState('');
@@ -36,13 +27,6 @@ const CalculatorForm: FC = () => {
   const [destination, setDestination] = useState<CommonLocation | null>(null);
   const [price, setPrice] = useState<number | string>(0);
   const [weight, setWeight] = useState<number>(1);
-
-  const filterCriterions = useAppSelector((state) => state.filter);
-
-  useEffect(() => {
-    const locationsData = filterData(allLocationsData, filterCriterions);
-    setAllLocations(locationsData);
-  }, [filterCriterions]);
 
   useEffect(() => {
     if (distance) {
@@ -56,30 +40,31 @@ const CalculatorForm: FC = () => {
         : setPrice(prise);
     }
   }, [distance, weight]);
-  const choosePostMachineHandler = async (
-    location: CommonLocation,
-  ): Promise<void> => {
-    if (destination) {
-      clearRoute();
-    }
+  const choosePostMachineHandler = useCallback(
+    async (location: CommonLocation): Promise<void> => {
+      if (destination) {
+        clearRoute();
+      }
 
-    if (
-      origin?.latitude === destination?.latitude &&
-      origin?.longitude === destination?.longitude &&
-      origin?.latitude !== undefined
-    ) {
-      return;
-    }
-    if (!origin) {
-      setOrigin(location);
-    } else if (!destination) {
-      setDestination(location);
-    }
-    if (destination) {
-      setOrigin(location);
-      setDestination(null);
-    }
-  };
+      if (
+        origin?.latitude === destination?.latitude &&
+        origin?.longitude === destination?.longitude &&
+        origin?.latitude !== undefined
+      ) {
+        return;
+      }
+
+      if (!origin) {
+        setOrigin(location);
+      } else if (!destination) {
+        setDestination(location);
+      } else {
+        setOrigin(location);
+        setDestination(null);
+      }
+    },
+    [origin, destination],
+  );
 
   const calculateRoute = async function (): Promise<void> {
     if (origin === null || destination === null) {
@@ -97,7 +82,6 @@ const CalculatorForm: FC = () => {
     });
     setDirectionsResponse(() => null);
     setDirectionsResponse(() => results);
-    setAllLocations([]);
     results &&
       results.routes[0] &&
       results.routes[0].legs[0] &&
@@ -111,8 +95,6 @@ const CalculatorForm: FC = () => {
     setOrigin(null);
     setDestination(null);
     setPrice(0);
-    const locationsData = filterData(allLocationsData, filterCriterions);
-    setAllLocations(locationsData);
   }
 
   if (!isLoaded) {
@@ -139,7 +121,6 @@ const CalculatorForm: FC = () => {
             />
           )}
           <MemoizedCluster
-            allLocations={allLocations}
             choosePostMachineHandler={choosePostMachineHandler}
           />
         </GoogleMap>

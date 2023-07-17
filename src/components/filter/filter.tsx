@@ -41,6 +41,7 @@ const Filter: FC = () => {
                   name={owner.ownerName}
                   onChange={chooseOwnerHandler}
                   checked={filterCriterions.owners.includes(owner.ownerName)}
+                  className="cursor-pointer"
                 />
                 <label className="ml-2" htmlFor="City">
                   {owner.ownerName}
@@ -62,6 +63,7 @@ const Filter: FC = () => {
                   name={city[1]}
                   onChange={chooseCityHandler}
                   checked={filterCriterions.cities.includes(city[1])}
+                  className="cursor-pointer"
                 />
                 <label className="ml-2" htmlFor={city[1]}>
                   {city[0]}
@@ -83,6 +85,7 @@ const Filter: FC = () => {
                   name={country[1]}
                   onChange={chooseCountryHandler}
                   checked={filterCriterions.countries.includes(country[1])}
+                  className="cursor-pointer"
                 />
                 <label className="ml-2" htmlFor={country[1]}>
                   {country[0]}

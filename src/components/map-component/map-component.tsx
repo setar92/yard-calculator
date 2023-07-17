@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
+import {} from 'react-redux';
 import uuid from 'react-uuid';
 
 import {
@@ -9,39 +10,26 @@ import {
 } from '@react-google-maps/api';
 
 import { Loader } from '..';
-import {
-  allLocationsData,
-  defaultOptions,
-  libraries,
-} from '../../common/constants';
-import {
-  CommonLocation,
-  IAllLocationsData,
-  ICoordinates,
-} from '../../common/types';
-import { filterData } from '../../helpers';
+import { defaultOptions, libraries } from '../../common/constants';
+import { CommonLocation, ICoordinates } from '../../common/types';
 import { useAppSelector } from '../../hooks/store/store.hooks';
+import { selectFilteredLocations } from '../../store/selectors/filtered-locations';
 
 interface MapInterface {
   showData: (location: CommonLocation) => void;
 }
 
 const MapComponent: React.FC<MapInterface> = ({ showData }) => {
-  const filterCriterions = useAppSelector((state) => state.filter);
+  const allLocations = useAppSelector(selectFilteredLocations);
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
     libraries,
   });
-  const [allLocations, setAllLocations] = useState<IAllLocationsData[]>([]);
   const [position, setPosition] = useState<ICoordinates>({
     lat: 56.951289,
     lng: 24.125341,
   });
 
-  useEffect(() => {
-    const locationsData = filterData(allLocationsData, filterCriterions);
-    setAllLocations(locationsData);
-  }, [filterCriterions]);
   const choosePostMachineHandler = (location: CommonLocation): void => {
     showData(location);
     setPosition({
