@@ -1,6 +1,7 @@
 import locationsBudbee from './budbee.json';
 import locationsDHL from './DHL.json';
 import locationsDPD from './DPD.json';
+import locationsGLSGermany from './GLS-G.json';
 import locationsGLS from './GLS.json';
 import locationLVPost from './LV-post.json';
 import locationsNationalPost from './NationalPost.json';
@@ -36,4 +37,5 @@ export {
   locationsStokker,
   locationsBudbee,
   locationsSameDay,
+  locationsGLSGermany,
 };
