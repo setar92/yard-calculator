@@ -10,6 +10,7 @@ import {
   locationsBudbee,
   locationsGLS,
   locationsSameDay,
+  locationsGLSGermany,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -34,6 +35,7 @@ const countries = [
   ['Netherlands', 'NL'],
   ['Romania', 'RM'],
   ['Bulgaria', 'BG'],
+  ['Germany', 'DE'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
@@ -60,6 +62,7 @@ const allLocationsData: IAllLocationsData[] = [
   { ownerName: 'budbee', marker: 'budbee.png', data: locationsBudbee },
   { ownerName: 'GLS', marker: 'GLS.svg', data: locationsGLS },
   { ownerName: 'same day', marker: 'sameday.png', data: locationsSameDay },
+  { ownerName: 'GLS-G', marker: 'gls german.svg', data: locationsGLSGermany },
 ];
 
 export { cities, countries, allLocationsData };
