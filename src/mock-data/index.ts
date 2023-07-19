@@ -3,7 +3,9 @@ import locationsDHL from './DHL.json';
 import locationsDPD from './DPD.json';
 import locationsGLSGermany from './GLS-G.json';
 import locationsGLS from './GLS.json';
+import locationsInpost from './inpost.json';
 import locationLVPost from './LV-post.json';
+import locationsNacex from './Nacex.json';
 import locationsNationalPost from './NationalPost.json';
 import locationsOmniva from './Omniva.json';
 import locationsPostNL from './postNL.json';
@@ -40,4 +42,6 @@ export {
   locationsSameDay,
   locationsGLSGermany,
   locationsPostNL,
+  locationsInpost,
+  locationsNacex,
 };

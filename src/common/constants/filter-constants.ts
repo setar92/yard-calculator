@@ -12,6 +12,8 @@ import {
   locationsSameDay,
   locationsGLSGermany,
   locationsPostNL,
+  locationsInpost,
+  locationsNacex,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -37,6 +39,7 @@ const countries = [
   ['Romania', 'RM'],
   ['Bulgaria', 'BG'],
   ['Germany', 'DE'],
+  ['Spain', 'ES'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
@@ -65,6 +68,8 @@ const allLocationsData: IAllLocationsData[] = [
   { ownerName: 'same day', marker: 'sameday.png', data: locationsSameDay },
   { ownerName: 'GLS-G', marker: 'gls german.svg', data: locationsGLSGermany },
   { ownerName: 'Post-NL', marker: 'postnl.png', data: locationsPostNL },
+  { ownerName: 'Inpost', marker: 'inpost.png', data: locationsInpost },
+  { ownerName: 'Nacex', marker: 'NACEX.png', data: locationsNacex },
 ];
 
 export { cities, countries, allLocationsData };
