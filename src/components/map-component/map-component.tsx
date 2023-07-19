@@ -1,15 +1,13 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import {} from 'react-redux';
-import uuid from 'react-uuid';
 
 import {
   GoogleMap,
-  Marker,
   MarkerClusterer,
   useJsApiLoader,
 } from '@react-google-maps/api';
 
-import { Loader } from '..';
+import { Loader, MemoizedMarker } from '..';
 import { defaultOptions, libraries } from '../../common/constants';
 import { CommonLocation, ICoordinates } from '../../common/types';
 import { useAppSelector } from '../../hooks/store/store.hooks';
@@ -30,13 +28,16 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
     lng: 24.125341,
   });
 
-  const choosePostMachineHandler = (location: CommonLocation): void => {
-    showData(location);
-    setPosition({
-      lat: location.latitude,
-      lng: location.longitude,
-    });
-  };
+  const choosePostMachineHandler = useCallback(
+    (location: CommonLocation): void => {
+      showData(location);
+      setPosition({
+        lat: location.latitude,
+        lng: location.longitude,
+      });
+    },
+    [],
+  );
 
   if (!isLoaded) {
     return <Loader />;
@@ -52,19 +53,26 @@ const MapComponent: React.FC<MapInterface> = ({ showData }) => {
         <MarkerClusterer averageCenter enableRetinaIcons gridSize={60}>
           {(clusterer): JSX.Element => (
             <div>
-              {allLocations.map((locationData) => {
-                return locationData.data.map((loc) => {
+              {allLocations.map((locationData, index) => {
+                return locationData.data.map((loc, ind) => {
                   return (
-                    <Marker
-                      key={uuid()}
-                      position={{ lat: loc.latitude, lng: loc.longitude }}
+                    <MemoizedMarker
+                      choosePostMachineHandler={choosePostMachineHandler}
                       clusterer={clusterer}
-                      icon={{
-                        url: `${locationData.marker}`,
-                        scaledSize: new google.maps.Size(40, 40),
-                      }}
-                      onClick={(): void => choosePostMachineHandler(loc)}
+                      location={loc}
+                      markerUrl={locationData.marker}
+                      key={ind + index}
                     />
+                    // <Marker
+                    //   key={uuid()}
+                    //   position={{ lat: loc.latitude, lng: loc.longitude }}
+                    //   clusterer={clusterer}
+                    //   icon={{
+                    //     url: `${locationData.marker}`,
+                    //     scaledSize: new google.maps.Size(40, 40),
+                    //   }}
+                    //   onClick={(): void => choosePostMachineHandler(loc)}
+                    // />
                   );
                 });
               })}

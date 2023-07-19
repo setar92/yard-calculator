@@ -1,0 +1,2378 @@
+[
+    {
+        "name": "Pakket- en Briefautomaat",
+        "latitude": 52.34979883,
+        "longitude": 4.920927875,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "James Wattstraat 84 1097DM",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.35398578,
+        "longitude": 4.889692619,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Eerste Jan Steenstraat 53 1072NB",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.36795073,
+        "longitude": 4.948282111,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Cruquiusweg 86 1019AJ",
+        "city": [
+            "AMSTERDAM"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.33582642,
+        "longitude": 4.88872231,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Barbara Strozzilaan 342 1083HN",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.36821507,
+        "longitude": 4.871194009,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Bilderdijkstraat 126 1053KZ",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.33639638,
+        "longitude": 4.874865119,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leo Smitstraat 2 1082MP",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.33718102,
+        "longitude": 4.871349286,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Aaron Coplandstraat 8 1082MG",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.32623982,
+        "longitude": 4.883152965,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kastelenstraat 70 1083CD",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.32706564,
+        "longitude": 4.970675453,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Provincialeweg 6 1112XT",
+        "city": [
+            "DIEMEN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.39758214,
+        "longitude": 4.908597696,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Klaprozenweg 31 1032KK",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.33158885,
+        "longitude": 4.979098071,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Sniep 28 1112AH",
+        "city": [
+            "Diemen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.39921771,
+        "longitude": 4.908550648,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Klimopweg 65 1032HZ",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.34482658,
+        "longitude": 4.842584981,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Anthony Fokkerweg 3 1059CM",
+        "city": [
+            "AMSTERDAM"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.30495797,
+        "longitude": 4.922996528,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Burgemeester Stramanweg 98 1191EA",
+        "city": [
+            "OUDERKERK AAN DE AMSTEL"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.3941747520379,
+        "longitude": 4.86576447857668,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nieuwe Hemweg 1 1013BG",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.34669205,
+        "longitude": 4.832054149,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Aletta Jacobslaan 5 1066BP",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.40711392,
+        "longitude": 4.903160156,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Boomgaardlaan 100 1036KJ",
+        "city": [
+            "AMSTERDAM"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.34612416,
+        "longitude": 4.825985503,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Louwesweg 1 1066EA",
+        "city": [
+            "AMSTERDAM"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.38751223,
+        "longitude": 4.839299096,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Teleportboulevard 100 1043EJ",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.29535609,
+        "longitude": 4.943311343,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Sijsjesbergweg 10 1105AL",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.3034582861496,
+        "longitude": 4.85902912926812,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Rembrandthof 57 1181ZL",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.30160769114,
+        "longitude": 4.863273482627,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Buitenplein 84 1181ZE",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.41876401,
+        "longitude": 4.890640992,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Stellingweg 355 1035EV",
+        "city": [
+            "AMSTERDAM"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.2920707145433,
+        "longitude": 4.85503090289943,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Van der Hooplaan 180 1185GK",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.29161557,
+        "longitude": 4.841932368,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Noorddammerlaan 11 1185XZ",
+        "city": [
+            "AMSTELVEEN"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.3497769,
+        "longitude": 4.786458308,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Pieter Calandlaan 808 1060TZ",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat-",
+        "latitude": 52.432216937345,
+        "longitude": 4.87549184501497,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Skoon 2 1511HV",
+        "city": [
+            "Oostzaan"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.26958876,
+        "longitude": 4.970700862,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Proostdijstraat 20 1391VA",
+        "city": [
+            "Abcoude"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.44186358,
+        "longitude": 4.876174532,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hannie Schaftplein 1 1511VT",
+        "city": [
+            "Oostzaan"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.31261769,
+        "longitude": 5.051172258,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nijverheidslaan 1 1382LE",
+        "city": [
+            "WEESP"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.42814786,
+        "longitude": 4.820682402,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Stormhoek 21 1506SW",
+        "city": [
+            "Zaandam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.4393223,
+        "longitude": 4.830169,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Prinsenstraat 35 1501NR",
+        "city": [
+            "Zaandam"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.44408272,
+        "longitude": 4.83781942,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Vermiljoenweg 11 1503MN",
+        "city": [
+            "Zaandam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.43810838,
+        "longitude": 4.817393099,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hermitage 142 1506TX",
+        "city": [
+            "Zaandam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.27137622,
+        "longitude": 5.046092239,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Reeweg 10 1394JD",
+        "city": [
+            "NEDERHORST DEN BERG"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.9711661810529,
+        "longitude": 4.22556646007367,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leehove 7 2678MA",
+        "city": [
+            "De Lier"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.89997792,
+        "longitude": 4.332841121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Deltaweg 82 3133KM",
+        "city": [
+            "VLAARDINGEN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83806108,
+        "longitude": 4.168431948,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Einsteinweg 8 3225LT",
+        "city": [
+            "Hellevoetssluis"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9115419747438,
+        "longitude": 4.34238057585206,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Gedempte Biersloot 7 3131HJ",
+        "city": [
+            "Vlaardingen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00296919,
+        "longitude": 4.210192756,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Gildestraat 102 2671BV",
+        "city": [
+            "Naaldwijk"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.83294339,
+        "longitude": 4.165566962,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Forel 2 3225PA",
+        "city": [
+            "Hellevoetsluis"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.00175101469,
+        "longitude": 4.159585944356,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "van Geeststraat 31 2692AC",
+        "city": [
+            "'s-Gravenzande"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.97625219,
+        "longitude": 4.317308846,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Keenenburgweg 15 2636GK",
+        "city": [
+            "Schipluiden"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83739567,
+        "longitude": 4.131737536,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Karel de Stoutestraat 37 3222CN",
+        "city": [
+            "HELLEVOETSLUIS"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.93092879,
+        "longitude": 4.35638309,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Reigerlaan 34 3136JK",
+        "city": [
+            "Vlaardingen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.91463122,
+        "longitude": 4.360405253,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "van Hogendorplaan 921 3135BK",
+        "city": [
+            "VLAARDINGEN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.84210099,
+        "longitude": 4.330176416,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Mizarstraat 2 3204VG",
+        "city": [
+            "SPIJKENISSE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00375936,
+        "longitude": 4.319434197,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Heernesse 10 2635DK",
+        "city": [
+            "Den Hoorn"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.83978005,
+        "longitude": 4.337994375,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Groenewoud 6 3203AM",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83602522,
+        "longitude": 4.332263321,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hekelingseweg 19 3206LA",
+        "city": [
+            "Spijkernisse"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.87009318,
+        "longitude": 4.372007306,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nieuwe Langeweg 30 3194DB",
+        "city": [
+            "Hoogvliet Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.82843746,
+        "longitude": 4.327160222,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Rozemarijndonk 33 3206PM",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00086787,
+        "longitude": 4.350930709,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Westlandseweg 119 2624AD",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.99967798,
+        "longitude": 4.360802727,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leeuwenstein 35 2627AM",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.9711661810529,
+        "longitude": 4.22556646007367,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leehove 7 2678MA",
+        "city": [
+            "De Lier"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83806108,
+        "longitude": 4.168431948,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Einsteinweg 8 3225LT",
+        "city": [
+            "Hellevoetssluis"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.83294339,
+        "longitude": 4.165566962,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Forel 2 3225PA",
+        "city": [
+            "Hellevoetsluis"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83739567,
+        "longitude": 4.131737536,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Karel de Stoutestraat 37 3222CN",
+        "city": [
+            "HELLEVOETSLUIS"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.89997792,
+        "longitude": 4.332841121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Deltaweg 82 3133KM",
+        "city": [
+            "VLAARDINGEN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.97625219,
+        "longitude": 4.317308846,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Keenenburgweg 15 2636GK",
+        "city": [
+            "Schipluiden"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.84210099,
+        "longitude": 4.330176416,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Mizarstraat 2 3204VG",
+        "city": [
+            "SPIJKENISSE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.83602522,
+        "longitude": 4.332263321,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hekelingseweg 19 3206LA",
+        "city": [
+            "Spijkernisse"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.83978005,
+        "longitude": 4.337994375,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Groenewoud 6 3203AM",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0280056,
+        "longitude": 5.084651029,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Raadstede 73 3431HA",
+        "city": [
+            "NIEUWEGEIN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02725675,
+        "longitude": 5.047354491,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Clinckhoeff 2 3402GB",
+        "city": [
+            "IJsselstein (UT)"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.97499325,
+        "longitude": 4.950223903,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kon Willem-Alexanderpln 8 3411BG",
+        "city": [
+            "Lopik"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9493741327771,
+        "longitude": 5.20577842644188,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Koopmansgildeplein 16 4105TX",
+        "city": [
+            "Culemborg"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9880127482916,
+        "longitude": 5.11604608223708,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Brink 2 4125TR",
+        "city": [
+            "Hoef En Haag"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02725675,
+        "longitude": 5.047354491,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Clinckhoeff 2 3402GB",
+        "city": [
+            "IJsselstein (UT)"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.97499325,
+        "longitude": 4.950223903,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kon Willem-Alexanderpln 8 3411BG",
+        "city": [
+            "Lopik"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0280056,
+        "longitude": 5.084651029,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Raadstede 73 3431HA",
+        "city": [
+            "NIEUWEGEIN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.03808217,
+        "longitude": 5.088503513,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nedereind winkelcentrum 10 3431ER",
+        "city": [
+            "Nieuwegein"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.047227046479,
+        "longitude": 4.95137061722953,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Boslaan 40 3417AB",
+        "city": [
+            "Montfoort"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.88971964,
+        "longitude": 5.080540599,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Meidoornplein 2 4142WM",
+        "city": [
+            "Leerdam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06668909,
+        "longitude": 5.109619526,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Beneluxlaan 1001 3526KK",
+        "city": [
+            "UTRECHT"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9493741327771,
+        "longitude": 5.20577842644188,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Koopmansgildeplein 16 4105TX",
+        "city": [
+            "Culemborg"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02500946174,
+        "longitude": 4.86750136461,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Joostenplein 35 3421TC",
+        "city": [
+            "Oudewater"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.9480616983579,
+        "longitude": 5.22409607667607,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Parallelweg West 5 4104AX",
+        "city": [
+            "Culemborg"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 51.9522331682013,
+        "longitude": 5.23836560176175,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Chopinplein 10 4102CV",
+        "city": [
+            "Culemborg"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0752605,
+        "longitude": 4.315962887,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Amsterdamse Veerkade 30 2512AJ",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.07828114,
+        "longitude": 4.316999279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kalvermarkt 32 2511CB",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06295438,
+        "longitude": 4.314915791,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Van der Kunstraat 130 2521AW",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06954353,
+        "longitude": 4.293448121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Uitenhagestraat 87 2571PV",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.08606135,
+        "longitude": 4.308671261,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nassaulaan 4 2514JS",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06303976,
+        "longitude": 4.286169424,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Schaarsbergenstraat 57 2573BN",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07970727,
+        "longitude": 4.342700149,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Anna van Hannoverstraat 4 2595BJ",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04508345,
+        "longitude": 4.288447814,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loevesteinlaan 887 2533BW",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04098024,
+        "longitude": 4.334216403,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Verrijn Stuartlaan 32 2288EL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06178055,
+        "longitude": 4.256669273,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Haagweg 507 2552GG",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.03622749,
+        "longitude": 4.312582483,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "J.C. van Markenlaan 1 2285VL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09498569,
+        "longitude": 4.266133174,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dr. Lelykade 220 2583CP",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.10121463,
+        "longitude": 4.275595815,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Duinstraat 30 2584AZ",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.06662615,
+        "longitude": 4.245549834,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Savornin Lohmanplein 22 2566AC",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04575573,
+        "longitude": 4.254099997,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Meppelweg 1381 2544CX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11148859,
+        "longitude": 4.285151105,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Badhuisweg 8 2587CG",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04478852,
+        "longitude": 4.242389354,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dekkershoek 171 2552DD",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02592381,
+        "longitude": 4.271723291,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hofpark 2 2291CT",
+        "city": [
+            "Wateringen"
+        ]
+    },
+    {
+        "name": "Pakket- en Briefautomaat",
+        "latitude": 52.02815202,
+        "longitude": 4.362598513,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Brasserskade 225 2497NX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01854248,
+        "longitude": 4.335020523,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Laan van 't Haantje 22 2288GT",
+        "city": [
+            "Rijswijk (ZH)"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07373838,
+        "longitude": 4.399991251,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Middenweg 185 2491AE",
+        "city": [
+            "''s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02179856,
+        "longitude": 4.218061535,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Rijsenburgerweg 28 2685EB",
+        "city": [
+            "POELDIJK"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01583902,
+        "longitude": 4.416883914,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Delftsestraatweg 26 2641NB",
+        "city": [
+            "Pijnacker"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06954353,
+        "longitude": 4.293448121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Uitenhagestraat 87 2571PV",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06303976,
+        "longitude": 4.286169424,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Schaarsbergenstraat 57 2573BN",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0752605,
+        "longitude": 4.315962887,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Amsterdamse Veerkade 30 2512AJ",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06295438,
+        "longitude": 4.314915791,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Van der Kunstraat 130 2521AW",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.07828114,
+        "longitude": 4.316999279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kalvermarkt 32 2511CB",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.08606135,
+        "longitude": 4.308671261,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nassaulaan 4 2514JS",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04508345,
+        "longitude": 4.288447814,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loevesteinlaan 887 2533BW",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06178055,
+        "longitude": 4.256669273,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Haagweg 507 2552GG",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07970727,
+        "longitude": 4.342700149,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Anna van Hannoverstraat 4 2595BJ",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09498569,
+        "longitude": 4.266133174,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dr. Lelykade 220 2583CP",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.06662615,
+        "longitude": 4.245549834,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Savornin Lohmanplein 22 2566AC",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.10121463,
+        "longitude": 4.275595815,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Duinstraat 30 2584AZ",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.03622749,
+        "longitude": 4.312582483,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "J.C. van Markenlaan 1 2285VL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04575573,
+        "longitude": 4.254099997,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Meppelweg 1381 2544CX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04098024,
+        "longitude": 4.334216403,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Verrijn Stuartlaan 32 2288EL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11148859,
+        "longitude": 4.285151105,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Badhuisweg 8 2587CG",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04478852,
+        "longitude": 4.242389354,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dekkershoek 171 2552DD",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02592381,
+        "longitude": 4.271723291,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hofpark 2 2291CT",
+        "city": [
+            "Wateringen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01854248,
+        "longitude": 4.335020523,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Laan van 't Haantje 22 2288GT",
+        "city": [
+            "Rijswijk (ZH)"
+        ]
+    },
+    {
+        "name": "Pakket- en Briefautomaat",
+        "latitude": 52.02815202,
+        "longitude": 4.362598513,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Brasserskade 225 2497NX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07373838,
+        "longitude": 4.399991251,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Middenweg 185 2491AE",
+        "city": [
+            "''s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00375936,
+        "longitude": 4.319434197,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Heernesse 10 2635DK",
+        "city": [
+            "Den Hoorn"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02179856,
+        "longitude": 4.218061535,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Rijsenburgerweg 28 2685EB",
+        "city": [
+            "POELDIJK"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00086787,
+        "longitude": 4.350930709,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Westlandseweg 119 2624AD",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.99967798,
+        "longitude": 4.360802727,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leeuwenstein 35 2627AM",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00296919,
+        "longitude": 4.210192756,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Gildestraat 102 2671BV",
+        "city": [
+            "Naaldwijk"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01583902,
+        "longitude": 4.416883914,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Delftsestraatweg 26 2641NB",
+        "city": [
+            "Pijnacker"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.00175101469,
+        "longitude": 4.159585944356,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "van Geeststraat 31 2692AC",
+        "city": [
+            "'s-Gravenzande"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09451792,
+        "longitude": 4.470968279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hoefblad 22 2266JE",
+        "city": [
+            "Leidschendam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11989087,
+        "longitude": 4.496570669,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loethe 1 2381BK",
+        "city": [
+            "Zoeterwoude"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06303976,
+        "longitude": 4.286169424,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Schaarsbergenstraat 57 2573BN",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06954353,
+        "longitude": 4.293448121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Uitenhagestraat 87 2571PV",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06178055,
+        "longitude": 4.256669273,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Haagweg 507 2552GG",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06295438,
+        "longitude": 4.314915791,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Van der Kunstraat 130 2521AW",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0752605,
+        "longitude": 4.315962887,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Amsterdamse Veerkade 30 2512AJ",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.07828114,
+        "longitude": 4.316999279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kalvermarkt 32 2511CB",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.06662615,
+        "longitude": 4.245549834,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Savornin Lohmanplein 22 2566AC",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.08606135,
+        "longitude": 4.308671261,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nassaulaan 4 2514JS",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04508345,
+        "longitude": 4.288447814,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loevesteinlaan 887 2533BW",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09498569,
+        "longitude": 4.266133174,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dr. Lelykade 220 2583CP",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04575573,
+        "longitude": 4.254099997,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Meppelweg 1381 2544CX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.10121463,
+        "longitude": 4.275595815,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Duinstraat 30 2584AZ",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04478852,
+        "longitude": 4.242389354,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dekkershoek 171 2552DD",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.03622749,
+        "longitude": 4.312582483,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "J.C. van Markenlaan 1 2285VL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07970727,
+        "longitude": 4.342700149,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Anna van Hannoverstraat 4 2595BJ",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04098024,
+        "longitude": 4.334216403,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Verrijn Stuartlaan 32 2288EL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11148859,
+        "longitude": 4.285151105,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Badhuisweg 8 2587CG",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02592381,
+        "longitude": 4.271723291,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hofpark 2 2291CT",
+        "city": [
+            "Wateringen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01854248,
+        "longitude": 4.335020523,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Laan van 't Haantje 22 2288GT",
+        "city": [
+            "Rijswijk (ZH)"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02179856,
+        "longitude": 4.218061535,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Rijsenburgerweg 28 2685EB",
+        "city": [
+            "POELDIJK"
+        ]
+    },
+    {
+        "name": "Pakket- en Briefautomaat",
+        "latitude": 52.02815202,
+        "longitude": 4.362598513,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Brasserskade 225 2497NX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00375936,
+        "longitude": 4.319434197,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Heernesse 10 2635DK",
+        "city": [
+            "Den Hoorn"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07373838,
+        "longitude": 4.399991251,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Middenweg 185 2491AE",
+        "city": [
+            "''s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00086787,
+        "longitude": 4.350930709,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Westlandseweg 119 2624AD",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.00296919,
+        "longitude": 4.210192756,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Gildestraat 102 2671BV",
+        "city": [
+            "Naaldwijk"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.99967798,
+        "longitude": 4.360802727,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leeuwenstein 35 2627AM",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.97625219,
+        "longitude": 4.317308846,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Keenenburgweg 15 2636GK",
+        "city": [
+            "Schipluiden"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01583902,
+        "longitude": 4.416883914,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Delftsestraatweg 26 2641NB",
+        "city": [
+            "Pijnacker"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.00175101469,
+        "longitude": 4.159585944356,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "van Geeststraat 31 2692AC",
+        "city": [
+            "'s-Gravenzande"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.9711661810529,
+        "longitude": 4.22556646007367,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Leehove 7 2678MA",
+        "city": [
+            "De Lier"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09451792,
+        "longitude": 4.470968279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hoefblad 22 2266JE",
+        "city": [
+            "Leidschendam"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.99026558,
+        "longitude": 4.454608134,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Westpolderplein 46 2652KV",
+        "city": [
+            "BERKEL EN RODENRIJS"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11989087,
+        "longitude": 4.496570669,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loethe 1 2381BK",
+        "city": [
+            "Zoeterwoude"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 51.99000069,
+        "longitude": 4.474705816,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Berkelse Poort 1 2651JX",
+        "city": [
+            "BERKEL EN RODENRIJS"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.14588979,
+        "longitude": 4.493582916,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Betaplein 22 2321KS",
+        "city": [
+            "Leiden"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.1550672914028,
+        "longitude": 4.49958060660669,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Levendaal 140 2311JP",
+        "city": [
+            "Leiden"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.1632612,
+        "longitude": 4.490794178,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Langegracht 3 2312NV",
+        "city": [
+            "Leiden"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.059349862873,
+        "longitude": 4.54121540843498,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oosterheemplein 548 2721NJ",
+        "city": [
+            "Zoetermeer"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.15526051,
+        "longitude": 4.504969097,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hoge Rijndijk 5 2313KE",
+        "city": [
+            "LEIDEN"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.16365367,
+        "longitude": 4.516802978,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Vlasbaan 17 2352AH",
+        "city": [
+            "Leiderdorp"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.1585141494735,
+        "longitude": 4.52685562360434,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Laan van Ouderzorg 2 2352HT",
+        "city": [
+            "Leiderdorp"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06954353,
+        "longitude": 4.293448121,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Uitenhagestraat 87 2571PV",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06295438,
+        "longitude": 4.314915791,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Van der Kunstraat 130 2521AW",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06303976,
+        "longitude": 4.286169424,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Schaarsbergenstraat 57 2573BN",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.0752605,
+        "longitude": 4.315962887,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Amsterdamse Veerkade 30 2512AJ",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.07828114,
+        "longitude": 4.316999279,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Kalvermarkt 32 2511CB",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Don't know",
+        "latitude": 52.08606135,
+        "longitude": 4.308671261,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Nassaulaan 4 2514JS",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04508345,
+        "longitude": 4.288447814,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Loevesteinlaan 887 2533BW",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.06178055,
+        "longitude": 4.256669273,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Oude Haagweg 507 2552GG",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.07970727,
+        "longitude": 4.342700149,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Anna van Hannoverstraat 4 2595BJ",
+        "city": [
+            "'S-GRAVENHAGE"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.03622749,
+        "longitude": 4.312582483,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "J.C. van Markenlaan 1 2285VL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04098024,
+        "longitude": 4.334216403,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Verrijn Stuartlaan 32 2288EL",
+        "city": [
+            "RIJSWIJK ZH"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.06662615,
+        "longitude": 4.245549834,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "De Savornin Lohmanplein 22 2566AC",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakketautomaat",
+        "latitude": 52.09498569,
+        "longitude": 4.266133174,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dr. Lelykade 220 2583CP",
+        "city": [
+            "s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.10121463,
+        "longitude": 4.275595815,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Duinstraat 30 2584AZ",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04575573,
+        "longitude": 4.254099997,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Meppelweg 1381 2544CX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.04478852,
+        "longitude": 4.242389354,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Dekkershoek 171 2552DD",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.11148859,
+        "longitude": 4.285151105,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Badhuisweg 8 2587CG",
+        "city": [
+            "'s-Gravenhage"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.02592381,
+        "longitude": 4.271723291,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Hofpark 2 2291CT",
+        "city": [
+            "Wateringen"
+        ]
+    },
+    {
+        "name": "Pakket- en briefautomaat",
+        "latitude": 52.01854248,
+        "longitude": 4.335020523,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Laan van 't Haantje 22 2288GT",
+        "city": [
+            "Rijswijk (ZH)"
+        ]
+    },
+    {
+        "name": "Pakket- en Briefautomaat",
+        "latitude": 52.02815202,
+        "longitude": 4.362598513,
+        "country": "NL",
+        "iconUrl": "postnl.png",
+        "owner": "Post NL",
+        "address": "Brasserskade 225 2497NX",
+        "city": [
+            "'S-Gravenhage"
+        ]
+    }
+]

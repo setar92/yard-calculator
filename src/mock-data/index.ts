@@ -6,6 +6,7 @@ import locationsGLS from './GLS.json';
 import locationLVPost from './LV-post.json';
 import locationsNationalPost from './NationalPost.json';
 import locationsOmniva from './Omniva.json';
+import locationsPostNL from './postNL.json';
 import locationsSameDay from './sameday.json';
 import locationsuDrop from './uDrop.json';
 import locationsVenipak from './Venipak.json';
@@ -38,4 +39,5 @@ export {
   locationsBudbee,
   locationsSameDay,
   locationsGLSGermany,
+  locationsPostNL,
 };

@@ -1,21 +1,27 @@
 import { FC, useState, useEffect, useCallback } from 'react';
+import uuid from 'react-uuid';
 
 import {
   useJsApiLoader,
   GoogleMap,
   DirectionsRenderer,
+  MarkerClusterer,
+  Marker,
 } from '@react-google-maps/api';
 
-import { ChooseWeight } from './choose-weight';
-import { Loader, MemoizedCluster } from '..';
+import { Loader, ChooseWeight } from '..';
 import { libraries, defaultOptions } from '../../common/constants';
 import { CommonLocation } from '../../common/types';
 import { calculatePrice } from '../../helpers';
+import { useAppSelector } from '../../hooks/store/store.hooks';
+import { selectFilteredLocations } from '../../store/selectors/filtered-locations';
 
 const center = { lat: 56.940763, lng: 24.138074 };
 const mapContainerStyle = { width: '100%', height: '650px' };
 
 const CalculatorForm: FC = () => {
+  const allLocations = useAppSelector(selectFilteredLocations);
+
   const { isLoaded } = useJsApiLoader({
     googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
     libraries,
@@ -41,7 +47,11 @@ const CalculatorForm: FC = () => {
     }
   }, [distance, weight]);
   const choosePostMachineHandler = useCallback(
-    async (location: CommonLocation): Promise<void> => {
+    async (
+      location: CommonLocation,
+      origin: CommonLocation | null,
+      destination: CommonLocation | null,
+    ): Promise<void> => {
       if (destination) {
         clearRoute();
       }
@@ -63,7 +73,7 @@ const CalculatorForm: FC = () => {
         setDestination(null);
       }
     },
-    [origin, destination],
+    [],
   );
 
   const calculateRoute = async function (): Promise<void> {
@@ -120,9 +130,30 @@ const CalculatorForm: FC = () => {
               }}
             />
           )}
-          <MemoizedCluster
-            choosePostMachineHandler={choosePostMachineHandler}
-          />
+          <MarkerClusterer averageCenter enableRetinaIcons gridSize={15}>
+            {(clusterer): JSX.Element => (
+              <div>
+                {allLocations.map((locationData) => {
+                  return locationData.data.map((loc) => {
+                    return (
+                      <Marker
+                        key={uuid()}
+                        position={{ lat: loc.latitude, lng: loc.longitude }}
+                        clusterer={clusterer}
+                        icon={{
+                          url: `${locationData.marker}`,
+                          scaledSize: new google.maps.Size(40, 40),
+                        }}
+                        onClick={(): Promise<void> =>
+                          choosePostMachineHandler(loc, origin, destination)
+                        }
+                      />
+                    );
+                  });
+                })}
+              </div>
+            )}
+          </MarkerClusterer>
         </GoogleMap>
       </div>
       <div className="absolute p-4 rounded-xl m-2 bg-white shadow-sm w-[350px] ml-auto mr-auto z-10 top-4 left-4 flex flex-col">
@@ -160,7 +191,7 @@ const CalculatorForm: FC = () => {
         </div>
         <div
           className="max-w bg-primery text-2xl font-semibold text-white rounded-md text-center py-2 mt-3 cursor-pointer"
-          onClick={calculateRoute}
+          onClick={(): Promise<void> => calculateRoute()}
         >
           Calculate
         </div>
