@@ -11,6 +11,7 @@ import {
   locationsGLS,
   locationsSameDay,
   locationsGLSGermany,
+  locationsPostNL,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -63,6 +64,7 @@ const allLocationsData: IAllLocationsData[] = [
   { ownerName: 'GLS', marker: 'GLS.svg', data: locationsGLS },
   { ownerName: 'same day', marker: 'sameday.png', data: locationsSameDay },
   { ownerName: 'GLS-G', marker: 'gls german.svg', data: locationsGLSGermany },
+  { ownerName: 'Post-NL', marker: 'postnl.png', data: locationsPostNL },
 ];
 
 export { cities, countries, allLocationsData };

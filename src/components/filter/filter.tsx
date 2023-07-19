@@ -1,4 +1,5 @@
 import { ChangeEvent, FC } from 'react';
+// import { useNavigate } from 'react-router-dom';
 
 import {
   cities,
@@ -9,6 +10,7 @@ import { useAppDispatch, useAppSelector } from '../../hooks/store/store.hooks';
 import { setOwner, setCity, setCountry } from '../../store/filter/slice';
 
 const Filter: FC = () => {
+  // const navigate = useNavigate();
   const dispatch = useAppDispatch();
   const filterCriterions = useAppSelector((state) => state.filter);
 
@@ -16,16 +18,19 @@ const Filter: FC = () => {
     const owner = event.target.name;
     const turn = event.target.checked;
     dispatch(setOwner({ owner, turn }));
+    // navigate(0);
   };
   const chooseCityHandler = (event: ChangeEvent<HTMLInputElement>): void => {
     const city = event.target.name;
     const turn = event.target.checked;
     dispatch(setCity({ city, turn }));
+    // navigate(0);
   };
   const chooseCountryHandler = (event: ChangeEvent<HTMLInputElement>): void => {
     const country = event.target.name;
     const turn = event.target.checked;
     dispatch(setCountry({ country, turn }));
+    // navigate(0);
   };
 
   return (

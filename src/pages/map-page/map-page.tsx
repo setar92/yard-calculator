@@ -1,21 +1,9 @@
 import { FC, useState } from 'react';
 
-import { useJsApiLoader } from '@react-google-maps/api';
-
 import { CommonLocation } from '../../common/types';
-import {
-  Loader,
-  MapComponent,
-  AdditionalInfo,
-  Filter,
-  Header,
-} from '../../components';
+import { MapComponent, AdditionalInfo, Filter, Header } from '../../components';
 
 const MapPage: FC = () => {
-  const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAP as string,
-    libraries: ['places'],
-  });
   const [location, setLocation] = useState<CommonLocation>();
 
   const hideInformation = (): void => {
@@ -34,7 +22,7 @@ const MapPage: FC = () => {
             location={location}
           />
         )}
-        {isLoaded ? <MapComponent showData={setLocation} /> : <Loader />}
+        {<MapComponent showData={setLocation} />}
         <Filter />
       </div>
     </div>

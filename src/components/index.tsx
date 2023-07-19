@@ -6,3 +6,5 @@ export { Loader } from './loader/loader';
 export { AdditionalInfo } from './additionalInfo/additional-info';
 export { CalculatorForm } from './calculator-form/calculator-form';
 export { MemoizedCluster } from './cluster-component/cluster-component';
+export { ChooseWeight } from './choose-weight/choose-weight-component';
+export { MemoizedMarker } from './my-marker/my-marker-component';
