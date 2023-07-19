@@ -6248,5 +6248,1097 @@
         "owner": "DHL",
         "address": "Poland",
         "city": []
+    },
+    {
+        "name": "Pakketautomaat Lidl Leeuwerikplein",
+        "latitude": 52.520062,
+        "longitude": 4.961307,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Purmerend Leeuwerikplein 27postalCode1444HX",
+        "city": [
+            "Purmerend"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Kemphaanstraat",
+        "latitude": 52.498783,
+        "longitude": 4.810097,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Wormer Kemphaanstraat 2postalCode1531VE",
+        "city": [
+            "Wormer"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Alkmaar",
+        "latitude": 52.618658,
+        "longitude": 4.747835,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Alkmaar Boendalestraat 6postalCode1813BT",
+        "city": [
+            "Alkmaar"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Jonkerplein",
+        "latitude": 52.461191,
+        "longitude": 4.816841,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Zaandam Boere Jonkerplein 1postalCode1508HA",
+        "city": [
+            "Zaandam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat WC Middenwaard",
+        "latitude": 52.662964,
+        "longitude": 4.829755,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Heerhugowaard Middenwaard 2postalCode1703SE",
+        "city": [
+            "Heerhugowaard"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Wieringenlaan",
+        "latitude": 52.510054,
+        "longitude": 5.073521,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Volendam Wieringenlaan 1postalCode1132MB",
+        "city": [
+            "Volendam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Hoorn",
+        "latitude": 52.644624,
+        "longitude": 5.080557,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Hoorn Clausplein 28postalCode1623KD",
+        "city": [
+            "Hoorn"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Grootzeil",
+        "latitude": 52.388654,
+        "longitude": 5.178093,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Almere Grootzeil 52postalCode1319AS",
+        "city": [
+            "Almere"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Prozastraat",
+        "latitude": 52.35759,
+        "longitude": 5.183109,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Almere Prozastraat 111postalCode1321GZ",
+        "city": [
+            "Almere"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Oosterwold",
+        "latitude": 52.375876,
+        "longitude": 5.292611,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Almere Daniel Goedkoopstraat 21postalCode1349GJ",
+        "city": [
+            "Almere"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Huizen",
+        "latitude": 52.304841,
+        "longitude": 5.237571,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Huizen Warandebergstraat 47postalCode1271ZC",
+        "city": [
+            "Huizen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Hilversum",
+        "latitude": 52.227346,
+        "longitude": 5.189653,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Hilversum Lorentzweg 59postalCode1221EE",
+        "city": [
+            "Hilversum"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Total Kromwijkdreef",
+        "latitude": 52.315044,
+        "longitude": 4.981837,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amsterdam Kromwijkdreef 20postalCode1104KM",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Shell IKEA",
+        "latitude": 52.302763,
+        "longitude": 4.947633,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amsterdam Laarderhoogtweg 5postalCode1101DZ",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Bijlmerplein",
+        "latitude": 52.313965,
+        "longitude": 4.951174,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amsterdam Bijlmerplein 94postalCode1102DA",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lindeboom",
+        "latitude": 52.208189,
+        "longitude": 4.867221,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Mijdrecht Lindeboom 25postalCode3641EX",
+        "city": [
+            "Mijdrecht"
+        ]
+    },
+    {
+        "name": "Pakketautomaat DHL Binnen",
+        "latitude": 52.104981,
+        "longitude": 5.064085,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Utrecht Reactorweg 25postalCode3542AD",
+        "city": [
+            "Utrecht"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Keizer Karelweg",
+        "latitude": 52.303077,
+        "longitude": 4.856755,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amstelveen Keizer Karelweg 223postalCode1181RC",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Aalsmeer",
+        "latitude": 52.266432,
+        "longitude": 4.748896,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Aalsmeer Stationsweg 8postalCode1431EG",
+        "city": [
+            "Aalsmeer"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Amsterdamseweg",
+        "latitude": 52.311601,
+        "longitude": 4.847873,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amstelveen Amsterdamseweg 188postalCode1182HL",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Uilenstede",
+        "latitude": 52.321094,
+        "longitude": 4.874624,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Amstelveen Uilenstede 356postalCode1183DB",
+        "city": [
+            "Amstelveen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Hoofddorp",
+        "latitude": 52.305331,
+        "longitude": 4.694387,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Hoofddorp Marktplein 15postalCode2132DA",
+        "city": [
+            "Hoofddorp"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Laan v Wickevoort",
+        "latitude": 52.333035,
+        "longitude": 4.650198,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Cruquius Laan van Wickevoort 1postalCode2142GC",
+        "city": [
+            "Cruquius"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Da Vinci plein",
+        "latitude": 52.355554,
+        "longitude": 4.663653,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Haarlem Leonarde Da Vinciplein 4postalCode2037RR",
+        "city": [
+            "Haarlem"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Stephensonstraat",
+        "latitude": 52.369366,
+        "longitude": 4.61367,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Haarlem Stephensonstraat 50postalCode2014KD",
+        "city": [
+            "Haarlem"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Total Vlaamseweg",
+        "latitude": 52.381046,
+        "longitude": 4.611511,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Haarlem Vlaamseweg 2postalCode2015GA",
+        "city": [
+            "Haarlem"
+        ]
+    },
+    {
+        "name": "Pakketautomaat WC Spaarneboog",
+        "latitude": 52.390827,
+        "longitude": 4.648902,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Haarlem Paul Krugerkade 26postalCode2021BN",
+        "city": [
+            "Haarlem"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Zeewijk-passage",
+        "latitude": 52.449369,
+        "longitude": 4.596318,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "IJmuiden Zeewijkplein 1postalCode1974PA",
+        "city": [
+            "IJmuiden"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Apotheek Donker",
+        "latitude": 52.472379,
+        "longitude": 4.645394,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Velsen-Noord Wijkerstraatweg 171postalCode1951ED",
+        "city": [
+            "Velsen-Noord"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Beverwijk",
+        "latitude": 52.484658,
+        "longitude": 4.665924,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Beverwijk Spoorsingel 21postalCode1947LA",
+        "city": [
+            "Beverwijk"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Assendelft",
+        "latitude": 52.466205,
+        "longitude": 4.740705,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Assendelft Dorpsstraat 387postalCode1566BE",
+        "city": [
+            "Assendelft"
+        ]
+    },
+    {
+        "name": "Pakketautomaat WC Geesterduin",
+        "latitude": 52.550478,
+        "longitude": 4.673303,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Castricum Geesterduin 36postalCode1902EL",
+        "city": [
+            "Castricum"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Stationsplein",
+        "latitude": 52.599866,
+        "longitude": 4.701448,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Heiloo Stationsplein 34postalCode1851LN",
+        "city": [
+            "Heiloo"
+        ]
+    },
+    {
+        "name": "Pakketautomaat All4running",
+        "latitude": 52.631354,
+        "longitude": 4.746235,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Alkmaar Breedstraat 38postalCode1811HG",
+        "city": [
+            "Alkmaar"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Total de Hoef",
+        "latitude": 52.633705,
+        "longitude": 4.72606,
+        "country": "NL",
+        "iconUrl": "DHL.svg",
+        "owner": "GHL ",
+        "address": "Alkmaar Blanckerhofweg 1postalCode1816HG",
+        "city": [
+            "Alkmaar"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Zuideinde",
+        "latitude": 52.422646,
+        "longitude": 4.890537,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Amsterdam Zuideinde 280postalCode1035PM",
+        "city": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Shell",
+        "latitude": 52.082177,
+        "longitude": 5.003359,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Harmelen Veldhuizerweg 2postalCode3481ZZ",
+        "city": [
+            "Harmelen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Woerden",
+        "latitude": 52.08171,
+        "longitude": 4.876446,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Woerden Lepenlaan 1postalCode3442EK",
+        "city": [
+            "Woerden"
+        ]
+    },
+    {
+        "name": "Pakketautomaat De Aarhof",
+        "latitude": 52.129558,
+        "longitude": 4.665017,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Alphen aan den Rijn De Aarhof 46postalCode2406BT",
+        "city": [
+            "Alphen aan den Rijn"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Mr Sam Supermarkt",
+        "latitude": 52.101826,
+        "longitude": 4.426816,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Vissershavenweg 61postalCode2583DL",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Westwaarts",
+        "latitude": 52.060929,
+        "longitude": 4.486553,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Zoetermeer Westwaarts 41postalCode2711AD",
+        "city": [
+            "Zoetermeer"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Zaaijerplein",
+        "latitude": 52.169728,
+        "longitude": 4.476403,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Leiden Zaaijerplein 2postalCode2333BG",
+        "city": [
+            "Leiden"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Aldi Voorburg",
+        "latitude": 52.08055,
+        "longitude": 4.362663,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Voorburg Monseigneur van Steelaan 205postalCode2273EM",
+        "city": [
+            "Voorburg"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Gouda",
+        "latitude": 52.009515,
+        "longitude": 4.700659,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Gouda Westerkade 4postalCode2802SL",
+        "city": [
+            "Gouda"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Boons Dagmarkt",
+        "latitude": 51.984898,
+        "longitude": 4.676383,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Gouderak Kranepoort 14postalCode2831AK",
+        "city": [
+            "Gouderak"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Picassopassage",
+        "latitude": 51.952779,
+        "longitude": 4.58452,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Capelle aan den IJssel Picassopassage 38postalCode2907ME",
+        "city": [
+            "Capelle aan den IJssel"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Jumbo de Korf",
+        "latitude": 51.922458,
+        "longitude": 4.611355,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Krimpen aan den IJssel De Korf 8postalCode2924AH",
+        "city": [
+            "Krimpen aan den IJssel"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Jumbo Ernst Dijkman",
+        "latitude": 51.914746,
+        "longitude": 4.617872,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Krimpen aan den IJssel De Olm 8postalCode2925CJ",
+        "city": [
+            "Krimpen aan den IJssel"
+        ]
+    },
+    {
+        "name": "Pakketautomaat AH Planetenlaan",
+        "latitude": 51.885292,
+        "longitude": 4.668314,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Nieuw-Lekkerland Planetenlaan 35postalCode2957SL",
+        "city": [
+            "Nieuw-Lekkerland"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Hoogambacht",
+        "latitude": 51.83485,
+        "longitude": 4.646024,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Hendrik-Ido-Ambacht Sophiapromenade 74postalCode3344PM",
+        "city": [
+            "Hendrik-Ido-Ambacht"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Veer Apotheek",
+        "latitude": 51.816038,
+        "longitude": 4.640274,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Zwijndrecht Stationsplein 2postalCode3331LL",
+        "city": [
+            "Zwijndrecht"
+        ]
+    },
+    {
+        "name": "Pakketautomaat PA de Kok plein",
+        "latitude": 51.785372,
+        "longitude": 4.676561,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Dordrecht P.A. de Kok-Plein 173postalCode3318JW",
+        "city": [
+            "Dordrecht"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Oud-Beijerland",
+        "latitude": 51.810676,
+        "longitude": 4.434451,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Oud-Beijerland Polderlaan 6postalCode3261ZA",
+        "city": [
+            "Oud-Beijerland"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Ooltgensplaat",
+        "latitude": 51.684418,
+        "longitude": 4.340932,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Ooltgensplaat Langeweg 100postalCode3257KD",
+        "city": [
+            "Ooltgensplaat"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Spijkenisse",
+        "latitude": 51.83401,
+        "longitude": 4.361877,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Spijkenisse Hadewychplaats 18postalCode3207KG",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Hongerlandsedijk",
+        "latitude": 51.854481,
+        "longitude": 4.341105,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Spijkenisse Hongerlandsedijk 1postalCode3201LW",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Boyleweg",
+        "latitude": 51.854695,
+        "longitude": 4.302931,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Spijkenisse Boyleweg 6postalCode3208KA",
+        "city": [
+            "Spijkenisse"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Hellevoetsluis",
+        "latitude": 51.831653,
+        "longitude": 4.147253,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Hellevoetsluis Struytse Hoeck 59postalCode3224HA",
+        "city": [
+            "Hellevoetsluis"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Maassluis",
+        "latitude": 51.937244,
+        "longitude": 4.227649,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Maassluis Westeinde 32postalCode3146BZ",
+        "city": [
+            "Maassluis"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat BP Tankst.",
+        "latitude": 52.013861,
+        "longitude": 4.280469,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Wateringen Wippolderlaan 1postalCode2291HG",
+        "city": [
+            "Wateringen"
+        ]
+    },
+    {
+        "name": "Pakketautomaat WC Buitenhof",
+        "latitude": 51.98788,
+        "longitude": 4.346224,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Delft Vrijheidslaan 22postalCode2625RD",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Delft",
+        "latitude": 51.995747,
+        "longitude": 4.341711,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Delft Griegstraat 275postalCode2625AN",
+        "city": [
+            "Delft"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl De Stede",
+        "latitude": 52.043916,
+        "longitude": 4.259504,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag De Stede 19postalCode2543BG",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Diepenbrockhof",
+        "latitude": 52.059455,
+        "longitude": 4.230617,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Alphons Diepenbrockhof 47postalCode2551KH",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Almeloplein",
+        "latitude": 52.055386,
+        "longitude": 4.275112,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Almeloplein 75postalCode2533AD",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat HEMA Rijswijk",
+        "latitude": 52.036987,
+        "longitude": 4.315418,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rijswijk Prins Willem Alexander Promenade 18postalCode2284DG",
+        "city": [
+            "Rijswijk"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Kalvermarkt",
+        "latitude": 52.078362,
+        "longitude": 4.318512,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Kalvermarkt 53postalCode2511CB",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Scheveningseweg",
+        "latitude": 52.096954,
+        "longitude": 4.284421,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Scheveningseweg 54postalCode2517KW",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Ypenburg",
+        "latitude": 52.041136,
+        "longitude": 4.358454,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Den Haag Laan van Waalhaven 10postalCode2497GJ",
+        "city": [
+            "Den Haag"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Katwijk a. Zee",
+        "latitude": 52.209644,
+        "longitude": 4.409715,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Katwijk aan zee Melkweg 149postalCode2221NP",
+        "city": [
+            "Katwijk aan zee"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Abswoude",
+        "latitude": 52.234085,
+        "longitude": 4.451821,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Noordwijk Nieuwe Offemweg 6postalCode2201AP",
+        "city": [
+            "Noordwijk"
+        ]
+    },
+    {
+        "name": "Pakketautomaat PLUS Voorhout",
+        "latitude": 52.221045,
+        "longitude": 4.481637,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Voorhout Herenstraat 45postalCode2215KD",
+        "city": [
+            "Voorhout"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat RET Hessepl.",
+        "latitude": 51.962878,
+        "longitude": 4.552504,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Spittelerplaats 60postalCode3069EB",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl WC Binnenhof",
+        "latitude": 51.959396,
+        "longitude": 4.534077,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Niels Bohrplaats 25postalCode3068JK",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat Shell Roosev",
+        "latitude": 51.955384,
+        "longitude": 4.524727,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam President Rooseveltweg 751postalCode3056JZ",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat  RET Oosterfl",
+        "latitude": 51.945717,
+        "longitude": 4.554027,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Prins Alexanderlaan 110postalCode3066LK",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat P-Garage Lusthof",
+        "latitude": 51.925692,
+        "longitude": 4.509837,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Chris Bennekerslaan 25postalCode3061EB",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat WC Crimpenhof",
+        "latitude": 51.915073,
+        "longitude": 4.589527,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Krimpen aan den IJssel Raadhuisplein 58postalCode2922AH",
+        "city": [
+            "Krimpen aan den IJssel"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Bergweg",
+        "latitude": 51.940103,
+        "longitude": 4.479584,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Bergweg 26postalCode3036BA",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Excelsior P1",
+        "latitude": 51.917056,
+        "longitude": 4.518916,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Honingerdijk 110postalCode3062NX",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Slaak",
+        "latitude": 51.924088,
+        "longitude": 4.499017,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Slaak 36postalCode3061CS",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Lidl Amsteldiep",
+        "latitude": 51.90986,
+        "longitude": 4.56731,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Capelle aan den IJssel Amsteldiep 27postalCode2904EA",
+        "city": [
+            "Capelle aan den IJssel"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Fietsenst Lijnbaan",
+        "latitude": 51.923341,
+        "longitude": 4.475748,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Lijnbaan 30postalCode3012EP",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat RET Beurs",
+        "latitude": 51.918106,
+        "longitude": 4.481027,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Coolsingel 130postalCode3011AG",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "DHL - Pakketautomaat RET Rdam CS",
+        "latitude": 51.923951,
+        "longitude": 4.469904,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Stationsplein 1postalCode3013AJ",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Kruisplein",
+        "latitude": 51.920866,
+        "longitude": 4.472215,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Kruisplein 770postalCode3012CC",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Wilhelminaplein",
+        "latitude": 51.907976,
+        "longitude": 4.492578,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Wilhelminaplein 1postalCode3072DE",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat P Erasmusbrug",
+        "latitude": 51.91098,
+        "longitude": 4.481001,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Gedempte Zalmhaven 1postalCode3011BT",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat P Museumpark",
+        "latitude": 51.913674,
+        "longitude": 4.470578,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Museumpark 32postalCode3015CX",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat P Colosseumweg",
+        "latitude": 51.898685,
+        "longitude": 4.514184,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Vredesplein 13postalCode3074SN",
+        "city": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "name": "Pakketautomaat Westzeedijk",
+        "latitude": 51.906367,
+        "longitude": 4.461965,
+        "country": "NL",
+        "iconUrl": "ghlN.svg",
+        "owner": "GHL Netherland",
+        "address": "Rotterdam Westzeedijk 387postalCode3024EK",
+        "city": [
+            "Rotterdam"
+        ]
     }
 ]
