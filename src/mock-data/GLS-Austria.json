@@ -1,0 +1,1751 @@
+[
+    {
+        "name": "A1 Paketstation 1068",
+        "latitude": 48.07275,
+        "longitude": 16.35497,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Herbert Rauch Gasse",
+        "city": [
+            "Laxenburg"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0161",
+        "latitude": 48.13847,
+        "longitude": 16.46801,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gladbeckstraße",
+        "city": [
+            "Schwechat"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0110",
+        "latitude": 48.1407589,
+        "longitude": 16.4711098,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Brauhausstraße",
+        "city": [
+            "Schwechat"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0334",
+        "latitude": 48.14194,
+        "longitude": 16.47828,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Anton Figdor-Weg",
+        "city": [
+            "Schwechat"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0023",
+        "latitude": 48.14663,
+        "longitude": 16.46049,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Awarenstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0265",
+        "latitude": 48.15122,
+        "longitude": 16.45703,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Josef-Haas-Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0040",
+        "latitude": 48.1518,
+        "longitude": 16.46526,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Etrichstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0300",
+        "latitude": 48.13618,
+        "longitude": 16.39482,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Hintere Liesingbachstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0248",
+        "latitude": 48.16093,
+        "longitude": 16.4706,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Zinnergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0314",
+        "latitude": 48.15994,
+        "longitude": 16.45771,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kaiser-Ebersdorfer-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0104",
+        "latitude": 48.15884,
+        "longitude": 16.43515,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Simmeringer Hauptstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1056",
+        "latitude": 48.16354,
+        "longitude": 16.43883,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kaiser Ebersdorferstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0387",
+        "latitude": 48.16196,
+        "longitude": 16.42219,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Am Kanal",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1035",
+        "latitude": 48.14813,
+        "longitude": 16.3963,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Alaudagasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0222",
+        "latitude": 48.16624,
+        "longitude": 16.43101,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kaiser-Ebersdorfer-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0252",
+        "latitude": 48.11612,
+        "longitude": 16.35041,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Ortsstraße",
+        "city": [
+            "Vösendorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0039",
+        "latitude": 48.1355,
+        "longitude": 16.32458,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Triester Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0019",
+        "latitude": 48.14018,
+        "longitude": 16.32368,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Altmannsdorfer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0324",
+        "latitude": 48.13871,
+        "longitude": 16.31668,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Dernjacgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0084",
+        "latitude": 48.14868,
+        "longitude": 16.34502,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Sterngasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0247",
+        "latitude": 48.12914,
+        "longitude": 16.30579,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kopallikgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0014",
+        "latitude": 48.1465616,
+        "longitude": 16.331067,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kinskygasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0356",
+        "latitude": 48.1108,
+        "longitude": 16.29919,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Max Schrems-Gasse",
+        "city": [
+            "Brunn am Gebirge"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0323",
+        "latitude": 48.15373,
+        "longitude": 16.35121,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Baron-Karl-Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0213",
+        "latitude": 48.0868136,
+        "longitude": 16.3076901,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Neudorfer Straße",
+        "city": [
+            "Mödling"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1034",
+        "latitude": 48.15634,
+        "longitude": 16.36031,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bleigasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0080",
+        "latitude": 48.152,
+        "longitude": 16.38315,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Favoritenstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0245",
+        "latitude": 48.14192,
+        "longitude": 16.30401,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Eduard- Kittenberger- Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0112",
+        "latitude": 48.1402578,
+        "longitude": 16.2912122,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenfurter Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0417",
+        "latitude": 48.15398,
+        "longitude": 16.31144,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Karl-Heinz-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0083",
+        "latitude": 48.1504,
+        "longitude": 16.30153,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenfurter Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0244",
+        "latitude": 48.14026,
+        "longitude": 16.28483,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Dirmhirngasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0233",
+        "latitude": 48.14353,
+        "longitude": 16.27755,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Binagasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0018",
+        "latitude": 48.14869,
+        "longitude": 16.27748,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Endresstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0262",
+        "latitude": 48.13608,
+        "longitude": 16.283,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Drimhirngasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1058",
+        "latitude": 48.15234,
+        "longitude": 16.27121,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kanitzgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0337",
+        "latitude": 48.13655,
+        "longitude": 16.26798,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kerngasse",
+        "city": [
+            "Wíen"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0242",
+        "latitude": 48.1512,
+        "longitude": 16.29265,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Scherbangasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0052",
+        "latitude": 48.13789,
+        "longitude": 16.25759,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenfurter Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0082",
+        "latitude": 48.16059,
+        "longitude": 16.27752,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Speisinger Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0266",
+        "latitude": 48.14961,
+        "longitude": 16.25622,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Maurer Lange Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0102",
+        "latitude": 48.1587,
+        "longitude": 16.29809,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wildgartenallee",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0367",
+        "latitude": 48.17457,
+        "longitude": 16.26976,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Joseph-Lister-Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0154",
+        "latitude": 48.15612,
+        "longitude": 16.30294,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenfurter Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0131",
+        "latitude": 48.18146,
+        "longitude": 16.26303,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Veitingergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0088",
+        "latitude": 48.20026,
+        "longitude": 16.25574,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bergmillergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0310",
+        "latitude": 48.19262,
+        "longitude": 16.27749,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Hadikgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0267",
+        "latitude": 48.20298,
+        "longitude": 16.24898,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Utendorfgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1030",
+        "latitude": 48.18466,
+        "longitude": 16.29303,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kupelwiesergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0317",
+        "latitude": 48.1934351,
+        "longitude": 16.30181,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Linzer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0302",
+        "latitude": 48.17064,
+        "longitude": 16.30612,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Am Fasangarten",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0175",
+        "latitude": 48.17356,
+        "longitude": 16.31684,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Hohenfelsplatz",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0282",
+        "latitude": 48.17581,
+        "longitude": 16.3284,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Tanbruckgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0038",
+        "latitude": 48.17022,
+        "longitude": 16.34257,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wienerbergstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0034",
+        "latitude": 48.16232,
+        "longitude": 16.31567,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Sagedergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0064",
+        "latitude": 48.16705,
+        "longitude": 16.35874,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gussriegelstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0045",
+        "latitude": 48.16281,
+        "longitude": 16.3796,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Grenzackerstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0041",
+        "latitude": 48.16671,
+        "longitude": 16.38681,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Absberggasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0050",
+        "latitude": 48.17126,
+        "longitude": 16.38873,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Absberggasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0020",
+        "latitude": 48.15393,
+        "longitude": 16.39432,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Holzknechtstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0035",
+        "latitude": 48.16328,
+        "longitude": 16.36803,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Laxenburger Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0081",
+        "latitude": 48.17225,
+        "longitude": 16.3718,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Laxenburger Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0211",
+        "latitude": 48.1774955,
+        "longitude": 16.3828642,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gudrunstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0303",
+        "latitude": 48.17762,
+        "longitude": 16.39276,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Arsenalstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0326",
+        "latitude": 48.16965,
+        "longitude": 16.36258,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Fernkorngasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0085",
+        "latitude": 48.16654,
+        "longitude": 16.41221,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Swatoschgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0371",
+        "latitude": 48.05147,
+        "longitude": 16.30729,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kammeringstrasse",
+        "city": [
+            "Guntramsdorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0204",
+        "latitude": 48.11848,
+        "longitude": 16.6113,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Am Straßfeld",
+        "city": [
+            "Fischamend"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0168",
+        "latitude": 48.2057329,
+        "longitude": 16.5475463,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wiener Straße",
+        "city": [
+            "Groß-Enzersdorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0197",
+        "latitude": 48.21507,
+        "longitude": 16.52588,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gartenheimstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0025",
+        "latitude": 48.22476,
+        "longitude": 16.50735,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wangari-Maathai-Platz",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0307",
+        "latitude": 48.22045,
+        "longitude": 16.47993,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Erzherzog-Karl-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0275",
+        "latitude": 48.22953,
+        "longitude": 16.50858,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Barbara-Prammer-Allee",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0278",
+        "latitude": 48.2303,
+        "longitude": 16.50821,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Ilse-Buck-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0335",
+        "latitude": 48.21818,
+        "longitude": 16.472,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Langobardenstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0330",
+        "latitude": 48.22051,
+        "longitude": 16.46791,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gußriegelstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0235",
+        "latitude": 48.22402,
+        "longitude": 16.4699,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Erzherzog-Karl-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0264",
+        "latitude": 48.21562,
+        "longitude": 16.45641,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Hardeggasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0061",
+        "latitude": 48.23757,
+        "longitude": 16.47781,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Quadenstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0246",
+        "latitude": 48.2474,
+        "longitude": 16.47449,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Jutegasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0182",
+        "latitude": 48.23042,
+        "longitude": 16.46032,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Adelheid-Popp-Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0194",
+        "latitude": 48.25131,
+        "longitude": 16.47834,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenleerstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0295",
+        "latitude": 48.236,
+        "longitude": 16.45312,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Polgarstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0343",
+        "latitude": 48.24844,
+        "longitude": 16.45239,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Breitenleer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0044",
+        "latitude": 48.25266,
+        "longitude": 16.45364,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bertha-von-Suttner-Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0294",
+        "latitude": 48.2360497,
+        "longitude": 16.4433618,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Düsseldorfstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0336",
+        "latitude": 48.2473,
+        "longitude": 16.44237,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Meißàuergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1033",
+        "latitude": 48.24115,
+        "longitude": 16.43713,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Schrödingerplatz",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0037-",
+        "latitude": 48.26108,
+        "longitude": 16.45281,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Lieblgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0384",
+        "latitude": 48.24807,
+        "longitude": 16.43401,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Attemsgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0276",
+        "latitude": 48.254,
+        "longitude": 16.43467,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Doeltergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0327",
+        "latitude": 48.24946,
+        "longitude": 16.4134,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Floridusgasse",
+        "city": [
+            "WIen"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0280",
+        "latitude": 48.25271,
+        "longitude": 16.40663,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Scheffelstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0005",
+        "latitude": 48.23561,
+        "longitude": 16.41138,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Leonard-Bernstein-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0024",
+        "latitude": 48.23378,
+        "longitude": 16.39374,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Innstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0256",
+        "latitude": 48.24632,
+        "longitude": 16.38088,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Friedrich-Engels-Platz",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0089",
+        "latitude": 48.25968,
+        "longitude": 16.38812,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Jedleseer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0036",
+        "latitude": 48.26268,
+        "longitude": 16.42891,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Leopoldauer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0340",
+        "latitude": 48.22684,
+        "longitude": 16.39798,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Vorgartenstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1032",
+        "latitude": 48.26279,
+        "longitude": 16.42974,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Leopoldauerstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0304",
+        "latitude": 48.24098,
+        "longitude": 16.37478,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Dresdnerstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0176",
+        "latitude": 48.24326,
+        "longitude": 16.36997,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Spielmanngasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0331",
+        "latitude": 48.25063,
+        "longitude": 16.3628,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Heiligenstädter Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0329",
+        "latitude": 48.25492,
+        "longitude": 16.36586,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Grinzingerstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0043",
+        "latitude": 48.26588,
+        "longitude": 16.38741,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Christian Bucher Gasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1046",
+        "latitude": 48.26958,
+        "longitude": 16.43076,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Paukerwerkstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0243",
+        "latitude": 48.2720865,
+        "longitude": 16.421684,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Thayagasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0060",
+        "latitude": 48.27044,
+        "longitude": 16.40969,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Shuttleworthstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0158",
+        "latitude": 48.26216,
+        "longitude": 16.44001,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Novigasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0241",
+        "latitude": 48.27491,
+        "longitude": 16.41107,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Siemensstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0274",
+        "latitude": 48.27434,
+        "longitude": 16.39734,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Ottilie-Bondy-Promenade",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1012",
+        "latitude": 48.27782,
+        "longitude": 16.45354,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Schererstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0328",
+        "latitude": 48.28397,
+        "longitude": 16.41738,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gerasdorferstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0042",
+        "latitude": 48.26713,
+        "longitude": 16.45626,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Seyringer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0054",
+        "latitude": 48.28216,
+        "longitude": 16.41082,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Gerasdorfer Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0416",
+        "latitude": 48.29594,
+        "longitude": 16.4124,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Edi-Finger-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0139",
+        "latitude": 48.32308,
+        "longitude": 16.44349,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Karl Praunseys Straße",
+        "city": [
+            "Gerasdorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0015",
+        "latitude": 48.33938,
+        "longitude": 16.46332,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Holz-Steiner-Str.",
+        "city": [
+            "Gerasdorf bei Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0255",
+        "latitude": 48.30001,
+        "longitude": 16.37174,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Meisengasse",
+        "city": [
+            "Langenersdorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0048",
+        "latitude": 48.27643,
+        "longitude": 16.38811,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Prager Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0150",
+        "latitude": 48.29908,
+        "longitude": 16.33345,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wienerstraße",
+        "city": [
+            "Klosterneuburg"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0142",
+        "latitude": 48.3206813,
+        "longitude": 16.3072103,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Martinstraße",
+        "city": [
+            "Klosterneuburg"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1029",
+        "latitude": 48.25128,
+        "longitude": 16.34098,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Aslangasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0046",
+        "latitude": 48.2456411,
+        "longitude": 16.3161305,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Krottenbachstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0170",
+        "latitude": 48.24109,
+        "longitude": 16.33906,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Flotowgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0316",
+        "latitude": 48.24036,
+        "longitude": 16.34164,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Krottenbachstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0145",
+        "latitude": 48.35942,
+        "longitude": 16.3116,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Stockerauer Straße",
+        "city": [
+            "Korneuburg"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0216",
+        "latitude": 48.38637,
+        "longitude": 16.23182,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wiener Straße",
+        "city": [
+            "Stockerau"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1016",
+        "latitude": 48.38237,
+        "longitude": 16.21498,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "P&R Bahnhof Stockerau",
+        "city": [
+            "Stockerau"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0240",
+        "latitude": 48.22115,
+        "longitude": 16.30371,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Baumeistergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1015",
+        "latitude": 48.327368,
+        "longitude": 16.064204,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bahnhofstraße",
+        "city": [
+            "Tulln an der Donau"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0138",
+        "latitude": 48.31859,
+        "longitude": 16.05803,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Ignaz-Josef-Pleyel-Straße",
+        "city": [
+            "Tulln"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0218",
+        "latitude": 48.326957,
+        "longitude": 16.058416,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bahnhofstrasse",
+        "city": [
+            "Tulln an der Donau"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1020",
+        "latitude": 48.28444,
+        "longitude": 16.01103,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "P&R Bahnhof Tullnerfeld",
+        "city": [
+            "Judenau"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0144",
+        "latitude": 48.32332,
+        "longitude": 16.0286,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Reitherstraße",
+        "city": [
+            "Tulln"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0385",
+        "latitude": 48.12548,
+        "longitude": 16.22477,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Kaltenleutgebner Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0422",
+        "latitude": 48.38253,
+        "longitude": 16.51623,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Hofgartenstraße",
+        "city": [
+            "Wolkersdorf"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1017",
+        "latitude": 48.38298,
+        "longitude": 16.51989,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "P&R Bahnhof Wolkersdorf",
+        "city": [
+            "Wolkersdorf im Weinviertel"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0415",
+        "latitude": 48.21044,
+        "longitude": 16.42194,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Olympiaplatz",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0011",
+        "latitude": 48.21399,
+        "longitude": 16.41517,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Trabrennstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0137",
+        "latitude": 48.20507,
+        "longitude": 16.43219,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wehlistraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0305",
+        "latitude": 48.20119,
+        "longitude": 16.40358,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Erdbergerlände",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0306",
+        "latitude": 48.19322,
+        "longitude": 16.41036,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Erdbergstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0174",
+        "latitude": 48.22004,
+        "longitude": 16.40903,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Engerthstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0272",
+        "latitude": 48.18547,
+        "longitude": 16.41142,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Leopold-Kohr-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1022",
+        "latitude": 48.22278,
+        "longitude": 16.39864,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Lassallestraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0325",
+        "latitude": 48.18252,
+        "longitude": 16.41147,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Dopplergasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0273",
+        "latitude": 48.17531,
+        "longitude": 16.41559,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Simmeringer Hauptstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0279",
+        "latitude": 48.17926,
+        "longitude": 16.4244,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Rappachgasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0260",
+        "latitude": 48.176821,
+        "longitude": 16.4072212,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Leberstraße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0200",
+        "latitude": 48.18161,
+        "longitude": 16.42158,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Nussbaumallee",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0177",
+        "latitude": 48.18146,
+        "longitude": 16.41626,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Lorenz-Reiter-Straße",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0413",
+        "latitude": 48.02793,
+        "longitude": 16.78117,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Pachfurther Straße",
+        "city": [
+            "Bruck an der Leitha"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1008",
+        "latitude": 48.01925,
+        "longitude": 16.77919,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Bahnhofplatz",
+        "city": [
+            "Bruckneudorf"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0321",
+        "latitude": 48.02138,
+        "longitude": 16.29819,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Wienerstraße",
+        "city": [
+            "Traiskirchen"
+        ]
+    },
+    {
+        "name": "MYFLEXBOX 0391",
+        "latitude": 48.01725,
+        "longitude": 16.29065,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Karl-Hilberstraße",
+        "city": [
+            "Traiskirchen"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1045",
+        "latitude": 48.197,
+        "longitude": 16.3612,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Rechte Wienzeile",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1003",
+        "latitude": 48.19117,
+        "longitude": 16.35826,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Margaretenstrasse",
+        "city": [
+            "Wien"
+        ]
+    },
+    {
+        "name": "A1 Paketstation 1001",
+        "latitude": 48.19193,
+        "longitude": 16.3561,
+        "iconUrl": "gls-Austria.png",
+        "owner": "GLS-Austria",
+        "address": "Schönbrunnerstrasse",
+        "city": [
+            "Wien"
+        ]
+    }
+]
