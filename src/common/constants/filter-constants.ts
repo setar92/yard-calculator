@@ -18,6 +18,7 @@ import {
   locationsGlsChzech,
   locationsBalíkoBOX,
   // locationsSlovakService,
+  locationsPaketa,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -86,6 +87,8 @@ const allLocationsData: IAllLocationsData[] = [
     data: locationsGlsChzech,
   },
   { ownerName: 'BalikoBOX', marker: 'BalíkoBOX.jpg', data: locationsBalíkoBOX },
+  { ownerName: 'Paketa-SK', marker: 'paketa.svg', data: locationsPaketa },
+
   // {
   //   ownerName: 'SlovakService',
   //   marker: 'slovakparcel.svg',
