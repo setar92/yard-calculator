@@ -1,0 +1,1862 @@
+[
+    {
+        "name": "BalíkoBOX LIDL, Svätoplukova",
+        "latitude": 48.726301,
+        "longitude": 18.252219,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Svätoplukova 1661/1 | 959 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri Pošte 11",
+        "latitude": 48.760195,
+        "longitude": 19.166104,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Rudohorská 27 | 978 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Zv. cesta",
+        "latitude": 48.712741,
+        "longitude": 19.1372,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Zvolenská cesta 8 | 978 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 4, Kyjevské námestie",
+        "latitude": 48.727239,
+        "longitude": 19.120074,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Kyjevské námestie 6293/6 | 978 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Slovenská pošta",
+        "latitude": 48.739984,
+        "longitude": 19.16162,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Partizánska cesta 9 | 978 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Nad plážou",
+        "latitude": 48.738601,
+        "longitude": 19.127762,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Nad plážou 6704/2 | 978 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Kolpašská",
+        "latitude": 48.449203,
+        "longitude": 18.910057,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Kolpašská 2754 | 969 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Pod Vinbargom",
+        "latitude": 49.302099,
+        "longitude": 21.280865,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Pod Vinbargom 3696 | 086 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa Bernolákovo",
+        "latitude": 48.191134,
+        "longitude": 17.290927,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Slnečnicová 5694 | 900 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC EUROVEA",
+        "latitude": 48.140336,
+        "longitude": 17.122468,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Pribinova 10 | 818 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Internáty",
+        "latitude": 48.160089,
+        "longitude": 17.066259,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Staré Grunty 211/36 | 840 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri Pošte 214",
+        "latitude": 48.133676,
+        "longitude": 17.20667,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Uzbecká 4 | 822 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX KRAJ, Jána Kostru",
+        "latitude": 48.206159,
+        "longitude": 16.977987,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Jána Kostru č.1, Devínska Nová Ves | 841 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kraj, Pekná cesta",
+        "latitude": 48.196161,
+        "longitude": 17.142452,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Pekná cesta 2A | 831 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri Pošte Bratislava 3",
+        "latitude": 48.170394,
+        "longitude": 17.1471,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Tomášikova 54 | 831 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri Pošte Čachtická",
+        "latitude": 48.210359,
+        "longitude": 17.153538,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Čachtická 35 | 831 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "Bratislava – BalíkoBOX YIT",
+        "latitude": 48.144681,
+        "longitude": 17.159101,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Mlynské Nivy 82 | 831 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Slnečnice Z. Chalupovej",
+        "latitude": 48.092548,
+        "longitude": 17.118133,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Jasovská 3A | 850 98",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX BBC 5",
+        "latitude": 48.145099,
+        "longitude": 17.142404,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Plynárenská 7/A | 820 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Račianska",
+        "latitude": 48.177667,
+        "longitude": 17.129028,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Račianska 12101/64A | 831 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Saratovská",
+        "latitude": 48.185306,
+        "longitude": 17.036583,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Saratovská 3361/1A | 841 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Trenčianska",
+        "latitude": 48.154333,
+        "longitude": 17.143833,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Trenčianska 16260/57A | 820 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Eisnerova",
+        "latitude": 48.204796,
+        "longitude": 16.986491,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Eisnerova 6964/40 | 841 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Jirásková",
+        "latitude": 48.112985,
+        "longitude": 17.100821,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Jiráskova 363 | 850 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Vrakúňska",
+        "latitude": 48.136351,
+        "longitude": 17.203021,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Vrakúňska 11935/12 | 820 97",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Tržnica, Trnavské mýto",
+        "latitude": 48.157076,
+        "longitude": 17.125982,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Šancová 3132/112 | 831 96",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX AVION, Ivanská cesta",
+        "latitude": 48.165516,
+        "longitude": 17.182618,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Ivanská cesta 16 | 820 96",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa, Pri Vápenickom Potoku",
+        "latitude": 48.236028,
+        "longitude": 17.034969,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Pri Vápenickom potoku 24 | 841 96",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa – Segnerova",
+        "latitude": 48.154194,
+        "longitude": 17.059695,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Segnerova 4 | 841 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OD PRIOR, Kamenné nám.",
+        "latitude": 48.145262,
+        "longitude": 17.115028,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Kamenné námestie 2392/1 | 810 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TPD, Farského",
+        "latitude": 48.127556,
+        "longitude": 17.115435,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Farského 26 | 850 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 213, Čiernovodská",
+        "latitude": 48.138197,
+        "longitude": 17.212287,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Čiernovodská 25 | 822 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Betliarska",
+        "latitude": 48.099183,
+        "longitude": 17.110716,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Betliarska 2 | 850 97",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Retro, Nevädzová",
+        "latitude": 48.151503,
+        "longitude": 17.157088,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Nevädzová 17212/6 | 820 98",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 59, Balkánska",
+        "latitude": 48.054329,
+        "longitude": 17.147435,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Balkánska 107/102 | 850 99",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Lamačská cesta",
+        "latitude": 48.176717,
+        "longitude": 17.06508,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Lamačská cesta 5959/1 | 841 98",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Dubrawa, Pri Hrubej Lúke",
+        "latitude": 48.197833,
+        "longitude": 17.034042,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Pri Hrubej lúke 2 | 841 97",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OMV, Einsteinova",
+        "latitude": 48.132182,
+        "longitude": 17.111587,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Einsteinova 3402/16 | 850 96",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX VIVO, Vajnorská",
+        "latitude": 48.1682349,
+        "longitude": 17.1384092,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Vajnorská 10645/100 | 831 97",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX STOP SHOP, Púchovská",
+        "latitude": 48.213391,
+        "longitude": 17.161496,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Púchovská 6850/10 | 831 98",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Stanica Nivy, Mlynské Nivy",
+        "latitude": 48.145211,
+        "longitude": 17.129072,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Mlynské Nivy | 820 99",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Gagarinova",
+        "latitude": 48.150969,
+        "longitude": 17.171643,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Gagarinova 16657/5A | 820 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Petržalská tržnica",
+        "latitude": 48.111119,
+        "longitude": 17.098967,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Bratská 3 | 850 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Zlaté piesky",
+        "latitude": 48.186488,
+        "longitude": 17.177817,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Cesta na Senec 1862/2 | 820 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX ROSUM, Bajkalská",
+        "latitude": 48.154963,
+        "longitude": 17.146673,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Bajkalská 19B | 822 93",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Ružinovská",
+        "latitude": 48.159144,
+        "longitude": 17.174326,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Ružinovská 17596/1F | 820 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Mamateyova",
+        "latitude": 48.125548,
+        "longitude": 17.123926,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Mamateyova 3678/2 | 850 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Hodonínska",
+        "latitude": 48.199445,
+        "longitude": 17.043681,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Hodonínska 6704 | 841 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Ametystová",
+        "latitude": 48.116569,
+        "longitude": 17.217272,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Ametystová 25369/6 | 822 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Plus Centrum, Panónska cesta",
+        "latitude": 48.121844,
+        "longitude": 17.101921,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Panónska cesta 3539/9 | 858 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Bory",
+        "latitude": 48.207452,
+        "longitude": 17.017164,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Ulica Tomislava P. Kolakovičova, Devínska Nová Ves | 841 99",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Trnavská cesta",
+        "latitude": 48.164586,
+        "longitude": 17.14617,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Trnavská cesta 41/A | 831 99",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC BORY MALL",
+        "latitude": 48.206978,
+        "longitude": 17.03265,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Lamač 6780 | 841 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa, Nám. Hraničiarov",
+        "latitude": 48.12229,
+        "longitude": 17.114905,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Nám. Hraničiarov 3964/6 | 850 94",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Cubicon, Staré Grunty",
+        "latitude": 48.158193,
+        "longitude": 17.069133,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Staré Grunty 6209/24 | 840 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Viladomy, Béžová",
+        "latitude": 48.088271,
+        "longitude": 17.124845,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Béžová 4038/1 | 858 91",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Karloveská",
+        "latitude": 48.149516,
+        "longitude": 17.064071,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Karloveská 6183 | 840 92",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Českoslov. armády",
+        "latitude": 48.807507,
+        "longitude": 19.626579,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Československej armády 68 | 977 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 1",
+        "latitude": 49.437282,
+        "longitude": 18.788921,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Námestie slobody 101/1 | 025 90",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Monar",
+        "latitude": 48.233657,
+        "longitude": 17.250388,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Rubínová 3134/1 | 900 95",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, M. R. Štefánika",
+        "latitude": 48.539186,
+        "longitude": 19.407345,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Aleja Slobody",
+        "latitude": 49.213487,
+        "longitude": 19.298112,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 48.963184,
+        "longitude": 18.179908,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO Galéria",
+        "latitude": 47.988579,
+        "longitude": 17.633257,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri Pošte Galanta 1",
+        "latitude": 48.189624,
+        "longitude": 17.733189,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta, Nám.baníkov",
+        "latitude": 48.728523,
+        "longitude": 18.761067,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Nitrianska",
+        "latitude": 48.42017,
+        "longitude": 17.815118,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Mierová",
+        "latitude": 48.933756,
+        "longitude": 21.885756,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri pošte",
+        "latitude": 48.188328,
+        "longitude": 17.257265,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Slavkovská",
+        "latitude": 49.138355,
+        "longitude": 20.423925,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX M-Market, Eötvösova",
+        "latitude": 47.762521,
+        "longitude": 18.113726,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Autobusová stanica",
+        "latitude": 48.72149,
+        "longitude": 21.267977,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC OPTIMA",
+        "latitude": 48.694093,
+        "longitude": 21.238174,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Trolejbusová",
+        "latitude": 48.74101,
+        "longitude": 21.265975,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX KVP",
+        "latitude": 48.711064,
+        "longitude": 21.210997,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX FRESH, Bukovecká",
+        "latitude": 48.696468,
+        "longitude": 21.281709,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Herlianska",
+        "latitude": 48.728112,
+        "longitude": 21.29293,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Arm. gen. Svobodu",
+        "latitude": 48.742408,
+        "longitude": 21.278982,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX FRESH, Važecká",
+        "latitude": 48.67655,
+        "longitude": 21.299607,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Klas, Požiarnická",
+        "latitude": 48.713233,
+        "longitude": 21.264327,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Popradská",
+        "latitude": 48.712697,
+        "longitude": 21.227623,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Klas, Cesta pod Hradovou",
+        "latitude": 48.747725,
+        "longitude": 21.246517,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa, Americká trieda",
+        "latitude": 48.754855,
+        "longitude": 21.267189,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 5",
+        "latitude": 48.204468,
+        "longitude": 18.611125,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Komenského",
+        "latitude": 48.21541,
+        "longitude": 18.607233,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Popradská cesta",
+        "latitude": 49.01852,
+        "longitude": 20.580912,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 49.080601,
+        "longitude": 19.601197,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Revolučná",
+        "latitude": 49.092152,
+        "longitude": 19.599015,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 48.332122,
+        "longitude": 19.656002,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 48.442662,
+        "longitude": 17.010953,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC Campo di Martin",
+        "latitude": 49.088646,
+        "longitude": 18.930676,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC Tulip",
+        "latitude": 49.085537,
+        "longitude": 18.924067,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Sobranecká",
+        "latitude": 48.744325,
+        "longitude": 21.917457,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pri OU Miloslavov",
+        "latitude": 48.086317,
+        "longitude": 17.314797,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa",
+        "latitude": 48.145606,
+        "longitude": 17.289176,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "Bratislavská 2020 | 900 97",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta, Nám. A.Bernoláka",
+        "latitude": 49.408734,
+        "longitude": 19.481669,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Bratislavská",
+        "latitude": 48.310964,
+        "longitude": 18.070123,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Hviezdoslavova trieda",
+        "latitude": 48.300904,
+        "longitude": 18.061615,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Fatranská",
+        "latitude": 48.309089,
+        "longitude": 18.109057,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta 1, Fraňa Mojtu",
+        "latitude": 48.310917,
+        "longitude": 18.088518,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Malinovského",
+        "latitude": 48.753121,
+        "longitude": 17.835595,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, MasarykovaBalíkoBOX LIDL, NitrianskaBalíkoBOX LIDL, Okružná",
+        "latitude": 47.992538,
+        "longitude": 18.166217,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Nitrianska",
+        "latitude": 48.626207,
+        "longitude": 18.361801,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Okružná",
+        "latitude": 48.279122,
+        "longitude": 17.255694,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 48.580595,
+        "longitude": 17.81238,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC MAX",
+        "latitude": 49.049448,
+        "longitude": 20.291202,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa – Wolkerova",
+        "latitude": 49.059363,
+        "longitude": 20.289402,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OD PRIOR",
+        "latitude": 49.115731,
+        "longitude": 18.445665,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa – Čergovská",
+        "latitude": 48.99699,
+        "longitude": 21.270376,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Volgogradská",
+        "latitude": 49.008671,
+        "longitude": 21.21992,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Shopping Park Solivaria",
+        "latitude": 48.983914,
+        "longitude": 21.252909,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC Prievidza",
+        "latitude": 48.786467,
+        "longitude": 18.62849,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Mierové nám.",
+        "latitude": 48.771061,
+        "longitude": 18.611364,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Okružná",
+        "latitude": 49.131181,
+        "longitude": 18.331553,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, 1.Mája",
+        "latitude": 49.117525,
+        "longitude": 18.316192,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, M.R. Štefánika",
+        "latitude": 48.68231,
+        "longitude": 20.115374,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Cukrovarská",
+        "latitude": 48.38478,
+        "longitude": 20.011331,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX CITY PARK",
+        "latitude": 48.093288,
+        "longitude": 17.241344,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Bystrická cesta",
+        "latitude": 49.075145,
+        "longitude": 19.317016,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa, Plavisko",
+        "latitude": 49.078529,
+        "longitude": 19.304551,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Námestie Slobody",
+        "latitude": 49.100941,
+        "longitude": 21.101628,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta, Bratislavská",
+        "latitude": 48.219476,
+        "longitude": 17.395898,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Boldocká",
+        "latitude": 48.223585,
+        "longitude": 17.405432,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland",
+        "latitude": 48.686592,
+        "longitude": 17.364566,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Námestie Slobody",
+        "latitude": 48.286143,
+        "longitude": 17.74301,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Školská",
+        "latitude": 48.844811,
+        "longitude": 17.222294,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta, Fučíkova",
+        "latitude": 48.203881,
+        "longitude": 17.640068,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC MADARAS",
+        "latitude": 48.935436,
+        "longitude": 20.573953,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Popradská",
+        "latitude": 49.304059,
+        "longitude": 20.688517,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Pošta, Stropkovská",
+        "latitude": 49.304822,
+        "longitude": 21.569862,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX pošta, Štúrova",
+        "latitude": 48.152161,
+        "longitude": 17.872918,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Bratislavská",
+        "latitude": 48.035222,
+        "longitude": 17.302722,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Billa, Hlavná",
+        "latitude": 48.270834,
+        "longitude": 17.031199,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "Štúrovo – BalíkoBOX Pošta 1",
+        "latitude": 47.799256,
+        "longitude": 18.716718,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Streďanská",
+        "latitude": 48.554039,
+        "longitude": 18.173349,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Komenského",
+        "latitude": 48.630068,
+        "longitude": 21.714688,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC MAX",
+        "latitude": 48.890547,
+        "longitude": 18.05709,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC Južanka",
+        "latitude": 48.874356,
+        "longitude": 18.045645,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Bratislavská",
+        "latitude": 48.896995,
+        "longitude": 18.009297,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC MAX",
+        "latitude": 48.369875,
+        "longitude": 17.579192,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Veterná",
+        "latitude": 48.387694,
+        "longitude": 17.60053,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX CITY PARK",
+        "latitude": 48.385815,
+        "longitude": 17.573342,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX CITY Aréna, Kollárová",
+        "latitude": 48.373585,
+        "longitude": 17.593226,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Hviezdoslavova",
+        "latitude": 49.332613,
+        "longitude": 19.554032,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX OC Kocka",
+        "latitude": 48.206635,
+        "longitude": 19.34734,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Duk.hrdinov",
+        "latitude": 48.886226,
+        "longitude": 21.678339,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Zálesie",
+        "latitude": 48.168728,
+        "longitude": 17.276247,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Továrenská",
+        "latitude": 48.391323,
+        "longitude": 18.393474,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Retail Park",
+        "latitude": 48.584822,
+        "longitude": 19.107108,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Sokolská",
+        "latitude": 48.575549,
+        "longitude": 19.150056,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, SNP",
+        "latitude": 48.596722,
+        "longitude": 18.849022,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX TESCO, Košická cesta",
+        "latitude": 49.221573,
+        "longitude": 18.75828,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Bajzova",
+        "latitude": 49.203479,
+        "longitude": 18.734489,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX Kaufland, Vysokoškolákov",
+        "latitude": 49.21233,
+        "longitude": 18.755996,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    },
+    {
+        "name": "BalíkoBOX LIDL, Kysucká",
+        "latitude": 49.229238,
+        "longitude": 18.739413,
+        "country": "SK",
+        "iconUrl": "BalíkoBOX.jpg",
+        "owner": "BalikoBox",
+        "address": "",
+        "city": [
+            "SK"
+        ]
+    }
+]

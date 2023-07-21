@@ -1,9 +1,11 @@
+import locationsBalíkoBOX from './BalíkoBOX.json';
 import locationsBudbee from './budbee.json';
 import locationsDHL from './DHL.json';
 import locationsDPD from './DPD.json';
 import locationsGLSAustria from './GLS-Austria.json';
 import locationsGLSGermany from './GLS-G.json';
 import locationsGLS from './GLS.json';
+import locationsGlsChzech from './GLSChzech.json';
 import locationsInpost from './inpost.json';
 import locationLVPost from './LV-post.json';
 import locationsNacex from './Nacex.json';
@@ -11,6 +13,7 @@ import locationsNationalPost from './NationalPost.json';
 import locationsOmniva from './Omniva.json';
 import locationsPostNL from './postNL.json';
 import locationsSameDay from './sameday.json';
+import locationsSlovakService from './SlovakService.json';
 import locationsuDrop from './uDrop.json';
 import locationsVenipak from './Venipak.json';
 import { CommonLocation } from '../common/types';
@@ -46,4 +49,7 @@ export {
   locationsInpost,
   locationsNacex,
   locationsGLSAustria,
+  locationsGlsChzech,
+  locationsBalíkoBOX,
+  locationsSlovakService,
 };
