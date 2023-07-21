@@ -15,6 +15,9 @@ import {
   // locationsInpost,
   locationsNacex,
   locationsGLSAustria,
+  locationsGlsChzech,
+  locationsBalíkoBOX,
+  // locationsSlovakService,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -41,6 +44,7 @@ const countries = [
   ['Bulgaria', 'BG'],
   ['Germany', 'DE'],
   ['Spain', 'ES'],
+  ['Slovak Republic', 'SK'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
@@ -76,6 +80,17 @@ const allLocationsData: IAllLocationsData[] = [
     marker: 'gls-Austria.png',
     data: locationsGLSAustria,
   },
+  {
+    ownerName: 'GLS-Chzech',
+    marker: 'gls-Austria.png',
+    data: locationsGlsChzech,
+  },
+  { ownerName: 'BalikoBOX', marker: 'BalíkoBOX.jpg', data: locationsBalíkoBOX },
+  // {
+  //   ownerName: 'SlovakService',
+  //   marker: 'slovakparcel.svg',
+  //   data: locationsSlovakService,
+  // },
 ];
 
 export { cities, countries, allLocationsData };
