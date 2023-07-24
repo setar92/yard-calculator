@@ -2,6 +2,7 @@ import locationsBalíkoBOX from './BalíkoBOX.json';
 import locationsBudbee from './budbee.json';
 import locationsDHL from './DHL.json';
 import locationsDPD from './DPD.json';
+import locationsFANBox from './FANbox.json';
 import locationsGLSAustria from './GLS-Austria.json';
 import locationsGLSGermany from './GLS-G.json';
 import locationsGLS from './GLS.json';
@@ -54,4 +55,5 @@ export {
   locationsBalíkoBOX,
   locationsSlovakService,
   locationsPaketa,
+  locationsFANBox,
 };

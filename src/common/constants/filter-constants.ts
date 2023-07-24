@@ -19,6 +19,7 @@ import {
   locationsBalíkoBOX,
   // locationsSlovakService,
   locationsPaketa,
+  locationsFANBox,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -46,6 +47,7 @@ const countries = [
   ['Germany', 'DE'],
   ['Spain', 'ES'],
   ['Slovak Republic', 'SK'],
+  ['Romania', 'RO'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
@@ -88,6 +90,7 @@ const allLocationsData: IAllLocationsData[] = [
   },
   { ownerName: 'BalikoBOX', marker: 'BalíkoBOX.jpg', data: locationsBalíkoBOX },
   { ownerName: 'Paketa-SK', marker: 'paketa.svg', data: locationsPaketa },
+  { ownerName: 'FANbox', marker: 'FANbox.png', data: locationsFANBox },
 
   // {
   //   ownerName: 'SlovakService',
