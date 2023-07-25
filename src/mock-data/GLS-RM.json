@@ -1,0 +1,3290 @@
+[
+    {
+        "name": "Locker 1185 MOL Romania Ion Mihalache 176",
+        "latitude": 44.4719,
+        "longitude": 26.0501,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Ion Mihalache 176",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1268 Greenfield Baneasa- Al. Teisani, nr. 292",
+        "latitude": 44.5376,
+        "longitude": 26.0941,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Al Teisani, nr.292",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1082 Mol Romania",
+        "latitude": 44.4339,
+        "longitude": 26.0416,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str.Iuliu Maniu, nr. 15B",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1148 Supermarket Paco Petresti",
+        "latitude": 45.7107,
+        "longitude": 27.1993,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Cuza-Vodă, nr. 86",
+        "city": [
+            "Focsani"
+        ]
+    },
+    {
+        "name": " Locker 1026 Carrefour Gen.Magheru 12-15",
+        "latitude": 45.1052,
+        "longitude": 24.366,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " Str. Gen. Magheru, nr. 13-15",
+        "city": [
+            "Ramnicu-Valcea"
+        ]
+    },
+    {
+        "name": "Locker 1101 Rik Sulmona 9",
+        "latitude": 44.1755,
+        "longitude": 28.6571,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Sulmona, nr. 9",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Locker 1132 Benzinaria RO - strada Doinei  1D",
+        "latitude": 46.0735,
+        "longitude": 23.5768,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str.Doinei 1D",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": "Locker 1015 Spalatorie Auto Calea Plevnei 68",
+        "latitude": 44.4372,
+        "longitude": 26.0801,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Plevnei, nr 68, Bucuresti",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1087 Pensiunea Ando",
+        "latitude": 47.1527,
+        "longitude": 27.62,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Gradinari, nr.27",
+        "city": [
+            "Dancu"
+        ]
+    },
+    {
+        "name": "Locker 1002 Carrefour Drumul Taberei",
+        "latitude": 44.4187,
+        "longitude": 26.036,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Brașov nr.23A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": " Locker 1028 Select str. Alba Iulia",
+        "latitude": 45.7925,
+        "longitude": 24.1342,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Șoseaua Alba Iulia 49, Sibiu",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1107 Mol Romania",
+        "latitude": 45.4428,
+        "longitude": 28.0367,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str.Teodor Neculuta, nr. 24",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1225 str. Avrig, nr. 35A",
+        "latitude": 44.4441,
+        "longitude": 26.1324,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Avrig nr. 35A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1051 Magazin Apicol Rudului 12",
+        "latitude": 44.9367,
+        "longitude": 26.0212,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Rudului nr.12",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": "Locker 1050 Baia Mare Value Centre",
+        "latitude": 47.6469,
+        "longitude": 23.5387,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul București nr. 53",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1147 Jet-on Aurel Persu nr 2-18 ",
+        "latitude": 44.3753,
+        "longitude": 26.1129,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Aurel Persu nr 2-18",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1127 str. Frumoasa, nr.6",
+        "latitude": 47.1434,
+        "longitude": 27.5823,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Frumoasa, nr. 6",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1019 Centru de Afaceri Sibiu",
+        "latitude": 45.7835,
+        "longitude": 24.1466,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Nicolaus Olahus, nr.5",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1126 FLAWLESS (Race Carwash)",
+        "latitude": 45.1301,
+        "longitude": 25.7498,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Ecaterina Teodoroiu 26",
+        "city": [
+            "Campina"
+        ]
+    },
+    {
+        "name": "Locker 1079 Zalau Value Centre",
+        "latitude": 47.2029,
+        "longitude": 23.0536,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul Mihai Viteazul 58B",
+        "city": [
+            "Zalau"
+        ]
+    },
+    {
+        "name": "Locker 1035 Supeco M.Viteazu",
+        "latitude": 45.7629,
+        "longitude": 22.9108,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " Str. Mihai Viteazu, nr. 1",
+        "city": [
+            "Hunedoara"
+        ]
+    },
+    {
+        "name": "Locker 1245-  B-dul Republicii, nr.27 ",
+        "latitude": 46.0823,
+        "longitude": 23.5769,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "B-dul Republicii nr.27",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": " Locker 1034 Militari Shopping Center",
+        "latitude": 44.4392,
+        "longitude": 25.9825,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul Iuliu Maniu 560A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1230 Piata Agro Alimentara",
+        "latitude": 45.8417,
+        "longitude": 24.9727,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Nicolae Balcescu nr. 25",
+        "city": [
+            "Fagaras"
+        ]
+    },
+    {
+        "name": "Locker 1180 Mol Romania N.Caramfil ",
+        "latitude": 44.4869,
+        "longitude": 26.0924,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Nicolae Caramfil 76-80",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1017 Mega Image Turnu Magurele 250-270",
+        "latitude": 44.379,
+        "longitude": 26.1276,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Turnu Magurele, nr. 250-270, s4",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1172 str. Pancota 38A",
+        "latitude": 44.4613,
+        "longitude": 26.1352,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Pancota, nr. 38A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1171 Liviu Rebreanu, 85",
+        "latitude": 47.8021,
+        "longitude": 22.8626,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Liviu Rebreanu, nr 85",
+        "city": [
+            "Satu"
+        ]
+    },
+    {
+        "name": "Locker 1266- str. Revolutiei, nr. 53",
+        "latitude": 46.3442,
+        "longitude": 21.3066,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Revolutiei nr. 53",
+        "city": [
+            "Curtici"
+        ]
+    },
+    {
+        "name": "Locker 1110 Profi Steagului",
+        "latitude": 46.1394,
+        "longitude": 21.3447,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Steagului ",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1212 JYSK - str. Babadag, nr. 183",
+        "latitude": 44.8913,
+        "longitude": 28.7172,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Babadag nr. 183",
+        "city": [
+            "Tulcea"
+        ]
+    },
+    {
+        "name": "Locker 1109 Asociatie Soseaua Colentina",
+        "latitude": 44.4582,
+        "longitude": 26.1336,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "sos. Colentina, nr. 16, sect. 2, Bucuresti",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1105 Mol Romania",
+        "latitude": 47.6506,
+        "longitude": 23.5487,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Bucuresti 40A",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1157 Jet-on Prelungirea Ghencea",
+        "latitude": 44.4109,
+        "longitude": 26.0082,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Prelungirea Ghencea nr 123-133",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1176 Str. Golia Nr 2 iasi ",
+        "latitude": 47.1636,
+        "longitude": 27.5908,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Golia nr. 2",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1234 Colomade Construct- str. Mihai Viteazu",
+        "latitude": 45.6747,
+        "longitude": 26.034,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Mihai Viteazu nr.190",
+        "city": [
+            "Intorsura"
+        ]
+    },
+    {
+        "name": "Locker 1004 Carrefour Alexandru Vlahuta",
+        "latitude": 45.6535,
+        "longitude": 25.6253,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Alexandru Vlahuta nr 10",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1263- ADIVIN, str. Gheorghe Economu, 2A",
+        "latitude": 44.209,
+        "longitude": 28.6466,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Gheorghe Economu, 2A",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": " Locker 1008 Carrefour Stefan cel Mare",
+        "latitude": 46.581,
+        "longitude": 26.9145,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Stefan Cel Mare, Nr. 28A",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "Locker 1165 Piata I.L. Caragiale 20",
+        "latitude": 45.8663,
+        "longitude": 22.9144,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "I.L. Caragiale 20",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": "Locker 1116 Iassium Residence (Garebet Ibraileanu3)",
+        "latitude": 47.1713,
+        "longitude": 27.5744,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "bvd. Copou, Nr. 3",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1239 Hotel Dragana- Al. Sahia, nr. 20",
+        "latitude": 45.8425,
+        "longitude": 23.3612,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Hotel Dragana - Al. Sahia nr.20",
+        "city": [
+            "Cugir"
+        ]
+    },
+    {
+        "name": "Locker 1049 Coral Center",
+        "latitude": 44.8523,
+        "longitude": 24.8771,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Craiovei, nr. 30",
+        "city": [
+            "Pitesti"
+        ]
+    },
+    {
+        "name": "Locker 1175 MOL Romania, Sos. Virtutii",
+        "latitude": 44.4452,
+        "longitude": 26.0379,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Locker 1175 MOL Romania, Sos. Virtutii",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1173 str. Milcov 112C",
+        "latitude": 46.555,
+        "longitude": 26.9224,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Milcov 112C",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "Locker 1196 Partenie Cosma 27",
+        "latitude": 45.7998,
+        "longitude": 24.1344,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Partenie Cosma nr 27",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1073 700 Office",
+        "latitude": 45.7579,
+        "longitude": 21.2232,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Gheorghe Lazar nr. 9",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1095 Mol Romania",
+        "latitude": 45.118,
+        "longitude": 24.3638,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea lui Traian nr. 166",
+        "city": [
+            "Ramnicu-Valcea"
+        ]
+    },
+    {
+        "name": "Locker 1265- MOL Romania-sos. Pacurari 97-99",
+        "latitude": 47.1731,
+        "longitude": 27.5344,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "sos.Pacurari 97-99",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1269, str. Aurel Cozma, nr. 34",
+        "latitude": 45.7358,
+        "longitude": 21.3302,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Aurel Cozma nr.34",
+        "city": [
+            "Mosnita"
+        ]
+    },
+    {
+        "name": "Locker 1161 Turquoise Boutique Navodari",
+        "latitude": 44.3014,
+        "longitude": 28.6203,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. D1, nr. 59",
+        "city": [
+            "Navodari-CT"
+        ]
+    },
+    {
+        "name": "Locker 1062 Crisul Supermarket",
+        "latitude": 47.0621,
+        "longitude": 21.9379,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Republicii, nr. 30 ",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": "Locker 1120 Calea Aradului 87",
+        "latitude": 45.7739,
+        "longitude": 21.2214,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Aradului 85-87",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1059 Mega Image Industriilor",
+        "latitude": 44.4297,
+        "longitude": 26.2004,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Industriilor nr. 28",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1078 Maros Bike",
+        "latitude": 46.7809,
+        "longitude": 23.6256,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Aurel Vlaicu, nr. 25",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1231 Piata Micro 17",
+        "latitude": 45.4204,
+        "longitude": 28.0123,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str Galatii Noi nr. 6 ",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1198 Kronstadt - Orhideei nr 1- Ghimbav",
+        "latitude": 45.6588,
+        "longitude": 25.5091,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Orhideei, nr.1",
+        "city": [
+            "Ghimbav"
+        ]
+    },
+    {
+        "name": "Locker 1246 Flavianda Market, str. Dorobantilor 57B",
+        "latitude": 46.7734,
+        "longitude": 23.6066,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Dorobantilor 57B",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1224 Simpa Calea Poplacii",
+        "latitude": 45.776,
+        "longitude": 24.1311,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Poplacii, nr. 44",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1037 23 Aug. 204",
+        "latitude": 44.555,
+        "longitude": 26.096,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. 23 August nr 204",
+        "city": [
+            "Otopeni"
+        ]
+    },
+    {
+        "name": "Locker 1216 MOL Romania Calea Calarasilor",
+        "latitude": 45.2393,
+        "longitude": 27.9438,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Calarasilor",
+        "city": [
+            "Braila"
+        ]
+    },
+    {
+        "name": "Locker 1142 Vox C. Torontalului 69",
+        "latitude": 45.7751,
+        "longitude": 21.2136,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Torontalului nr 69",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1122 Galeriile  Kronstadt. Uranus,1",
+        "latitude": 45.6423,
+        "longitude": 25.629,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Uranus, nr.1",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1242 Supermarket TRITON, Cart. Micro XIV",
+        "latitude": 45.1528,
+        "longitude": 26.7956,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Cart. Micro XIV, Aleea Centrala",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1205 str. Tufanele, nr. 35, Craiova",
+        "latitude": 44.3326,
+        "longitude": 23.7781,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Tufanele, nr. 35",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1151 Eso Petrol Holdelor",
+        "latitude": 45.7761,
+        "longitude": 21.2399,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Holdelor",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1244 Bella Bike- str. Teodor Mihaly, nr.50",
+        "latitude": 46.7757,
+        "longitude": 23.6208,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " str. Teodor Mihaly nr. 50 ",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1112 Boul Rosu",
+        "latitude": 46.1678,
+        "longitude": 21.3191,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Tribunul Dobra, Nr. 18-22",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1121 Mol Romania",
+        "latitude": 44.4343,
+        "longitude": 25.9903,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd Iuliu Maniu nr. 205-215",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1123 Carrefour Cornisei 11C",
+        "latitude": 44.4374,
+        "longitude": 24.3705,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Cornisei, nr. 11C",
+        "city": [
+            "Slatina"
+        ]
+    },
+    {
+        "name": "Locker 1135 magazin Atlantis DO",
+        "latitude": 47.1482,
+        "longitude": 24.4843,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Busuiocului nr. 8A",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1053 DN1 Value Centre",
+        "latitude": 44.6046,
+        "longitude": 26.0692,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Bucuresti nr. 2BIS",
+        "city": [
+            "Balotesti"
+        ]
+    },
+    {
+        "name": "Locker 1030 Viodin Market Romul Ladea",
+        "latitude": 46.7544,
+        "longitude": 23.622,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Romul Ladea 27",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1226 Mava IT SRL- str. Tuzla nr.12",
+        "latitude": 44.4632,
+        "longitude": 26.1204,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Tuzla, nr. 12",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1093 Prodcomplex Ghe Doja 177",
+        "latitude": 46.524,
+        "longitude": 24.5372,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Gheorghe Doja nr. 177",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1259 Fisherman Store, str. Luptatori, nr. 15",
+        "latitude": 44.174,
+        "longitude": 28.6164,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Luptatori, nr.15",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Locker 1145 Eso Petrol Moșnița Nouă",
+        "latitude": 45.7196,
+        "longitude": 21.3168,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Mosnita Noua, str. Principala, nr. 2A, jud. Timis",
+        "city": [
+            "Mosnita"
+        ]
+    },
+    {
+        "name": "Locker 1167 Col. Buzoianu 125",
+        "latitude": 45.1438,
+        "longitude": 26.825,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Colonel Buzoianu, nr. 125",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1031 Alfa Arad",
+        "latitude": 46.1632,
+        "longitude": 21.2902,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Tunarilor, Nr. 1A",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1041 Mega Image MAIOR CORAVU",
+        "latitude": 44.436,
+        "longitude": 26.1366,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos. Mihai Bravu nr. 176, Sect.2",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1195 Super Wash Craiova- Tineretului 16B",
+        "latitude": 44.3356,
+        "longitude": 23.7731,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Tineretului, nr.16B",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1140 N. Titulescu 58",
+        "latitude": 45.6496,
+        "longitude": 25.616,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Nicolae Titulescu, nr.58",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1206 Supermarket PACO BAHNE-Focsani",
+        "latitude": 45.6947,
+        "longitude": 27.1957,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Lupeni, nr. 46",
+        "city": [
+            "Focsani"
+        ]
+    },
+    {
+        "name": "Locker 1211 JET DIESEL-str. Scoalei, nr.20, Arad",
+        "latitude": 46.1912,
+        "longitude": 21.301,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Scoalei, nr. 20",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1083 Mol Romania",
+        "latitude": 44.4317,
+        "longitude": 26.1111,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd-ul. Corneliu Coposu 14",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1179 Mol Romania Chiscani 1",
+        "latitude": 44.4563,
+        "longitude": 26.0634,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Chiscani, nr 1",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1136  Giroc Splash Car Wash ",
+        "latitude": 45.7012,
+        "longitude": 21.2295,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Naturii, nr.6B, Giroc",
+        "city": [
+            "Giroc"
+        ]
+    },
+    {
+        "name": "Locker 1152 Sitera",
+        "latitude": 47.1801,
+        "longitude": 27.5082,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Valea Lupului, str. Soarelui, nr.109",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1005 Supeco Calea Circumvalatiunii",
+        "latitude": 45.7594,
+        "longitude": 21.2169,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Circumvalatiunii, nr 35",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1150 Jet-on Energeticienilor",
+        "latitude": 44.4065,
+        "longitude": 26.1459,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Energeticienilor nr 108",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1054 Cultul Patriei, nr. 4",
+        "latitude": 44.4213,
+        "longitude": 26.1332,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Cultul Patriei, nr. 4",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1042 Mega Image Sisesti",
+        "latitude": 44.5003,
+        "longitude": 26.0688,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Soseaua Gh. Ionescu Sisesti Nr. 8B",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1228 Spalatorie La Fontana- Voinicilor 36",
+        "latitude": 46.1715,
+        "longitude": 21.3554,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Voinicilor 36",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1115 1 Decembrie 1918 Casa Diana",
+        "latitude": 45.152,
+        "longitude": 24.6734,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "1 Decembrie 1918, nr. 6B",
+        "city": [
+            "Curtea"
+        ]
+    },
+    {
+        "name": "Locker 1270, str. Rascoala din 1907, nr. 42",
+        "latitude": 44.0463,
+        "longitude": 28.578,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Rascoala din 1907, nr.42",
+        "city": [
+            "Techirghiol"
+        ]
+    },
+    {
+        "name": "Locker 1060 Mega Image DRISTOR  ",
+        "latitude": 44.4205,
+        "longitude": 26.1413,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Blvd. Camil Ressu nr.7",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1232 str. Lucian Blaga, nr. 26",
+        "latitude": 47.19,
+        "longitude": 27.5065,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str.Lucian Blaga, nr. 26, Valea Lupului, ",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1118 Prof. D. Mangeron, nr.53",
+        "latitude": 47.1585,
+        "longitude": 27.6014,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Prof. D. Mangeron, Nr.53",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1250 Aleea Compozitorilor, nr. 13",
+        "latitude": 44.4198,
+        "longitude": 26.0433,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Aleea Compozitorilor, nr. 13 ",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1183 MOL Romania Pandurilor 53A",
+        "latitude": 46.5337,
+        "longitude": 24.5714,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul Pandurilor, nr 53 A",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1141 Red Market ",
+        "latitude": 44.3678,
+        "longitude": 26.1517,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Drumul Fermei 95",
+        "city": [
+            "Popesti"
+        ]
+    },
+    {
+        "name": " Locker 1024 Tiberiu Ricci 1",
+        "latitude": 45.7654,
+        "longitude": 24.1467,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " Str Tiberiu Ricci, Nr. 1, Sc. D.",
+        "city": [
+            "Cisnadie"
+        ]
+    },
+    {
+        "name": " Locker 1040 Mega Image Huedin",
+        "latitude": 44.3828,
+        "longitude": 26.1011,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Gradistea, nr. 8, Sect. 4",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1143 Autocris T. Vladimirescu 14",
+        "latitude": 44.9269,
+        "longitude": 25.4456,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Tudor Vladimirescu 14",
+        "city": [
+            "Targoviste"
+        ]
+    },
+    {
+        "name": "Locker 1272 Nest Dorohoi, b-dul Victoriei, nr. 120A",
+        "latitude": 47.9419,
+        "longitude": 26.4051,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul Victoriei 120A",
+        "city": [
+            "Dorohoi"
+        ]
+    },
+    {
+        "name": "Locker 1137 Benzinarie Europa T.Vladimirescu",
+        "latitude": 46.1632,
+        "longitude": 21.406,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "strada T Vladimirescu 46B",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": "Locker 1001 Supeco Titan",
+        "latitude": 44.4159,
+        "longitude": 26.1704,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Postavarului, Nr. 24-52",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1271 Simpa- Cartier Magnolia Residence",
+        "latitude": 45.8075,
+        "longitude": 24.1073,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Surii Mici, FN",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1166 ESO Petrol Giroc, C. Martirilor ",
+        "latitude": 45.7206,
+        "longitude": 21.2367,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Giroc, Calea Martirilor 1989, nr. 107",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1096 Piata Centrala Traian 63",
+        "latitude": 45.4386,
+        "longitude": 28.0492,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Traian nr. 63",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1074 Dambovita Mall",
+        "latitude": 44.9117,
+        "longitude": 25.4639,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Regele Ferdinand nr. 6",
+        "city": [
+            "Targoviste"
+        ]
+    },
+    {
+        "name": "Locker 1055 Soporului 13-15",
+        "latitude": 46.7684,
+        "longitude": 23.6372,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Soporului 13 - 15",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1260 JOY Retail Park Sovata",
+        "latitude": 46.5817,
+        "longitude": 25.056,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Primaverii, nr.58",
+        "city": [
+            "Sovata"
+        ]
+    },
+    {
+        "name": "Locker 1084 Codecs",
+        "latitude": 44.4385,
+        "longitude": 26.132,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "cladire CODECS - str. Agricultori, nr. 37-39",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": " Locker 1039 Mega Image Apahida",
+        "latitude": 44.4199,
+        "longitude": 26.1137,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Aleea  Apahida nr. 17-19, Sect. 3",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1273, str. Grigorescu nr.9",
+        "latitude": 46.0721,
+        "longitude": 20.6291,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Grigorescu nr.9",
+        "city": [
+            "Sannicolau"
+        ]
+    },
+    {
+        "name": "Locker 1020 Mega Image Bragadiru",
+        "latitude": 44.3838,
+        "longitude": 26.0038,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Sperantei, nr. 77, TARLA 24",
+        "city": [
+            "Bragadiru"
+        ]
+    },
+    {
+        "name": "Locker 1238 str. Ioan Alexandru, nr21A",
+        "latitude": 46.0763,
+        "longitude": 23.5591,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Ioan Alexandru nr.21 A",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": "Locker 1144 Lt. Stoicescu, 6",
+        "latitude": 47.1585,
+        "longitude": 27.6014,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Lt. Stoicescu, nr.6",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1052 Sagului",
+        "latitude": 45.7384,
+        "longitude": 21.2105,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str B-dul 16 DECEMBRIE 1989 nr. 71",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1210 Piata Agroalimentara Leul- Cluj Napoca",
+        "latitude": 46.7749,
+        "longitude": 23.5938,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Ploiesti, nr. 6-8",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1222- Car Wash Rahovei nr.4, Ineu",
+        "latitude": 46.4219,
+        "longitude": 21.8329,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Rahovei nr.4, Ineu",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1191 High Tech Tools Ipotesti",
+        "latitude": 47.6302,
+        "longitude": 26.29,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Soarelui nr. 1536A",
+        "city": [
+            "Ipotesti-SV"
+        ]
+    },
+    {
+        "name": "Locker 1251 Callia Market Cartier Grigorescu",
+        "latitude": 47.03,
+        "longitude": 21.9253,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Poet Stefan Augustin Doinas nr.1 ",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": "Locker 1029 Sigmacenter Cluj",
+        "latitude": 46.7562,
+        "longitude": 23.5956,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Republicii 109",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1063 Complex La Strada",
+        "latitude": 45.6639,
+        "longitude": 25.5651,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Egretei nr.1",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1229 str. Rosiori de Vede nr. 8-10",
+        "latitude": 44.4314,
+        "longitude": 26.0226,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str Roșiori de Vede, nr 8-10",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1207 str. Gheorghe Doja Nr 17, Deva",
+        "latitude": 45.8706,
+        "longitude": 22.915,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Gheorghe Doja 17",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": " Locker 1022 Carrefour Libertatii 4",
+        "latitude": 44.9272,
+        "longitude": 25.9928,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Libertatii, nr. 4",
+        "city": [
+            "Strejnicu"
+        ]
+    },
+    {
+        "name": "Locker 1181 Pensiunea Ana Molter Karoly",
+        "latitude": 46.5611,
+        "longitude": 24.5821,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Molter Karoly, nr. 50K",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1218 MOL Romania Mariuca 53-67",
+        "latitude": 44.3825,
+        "longitude": 26.1333,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str Mariuca 53-67",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "1075 Tiss Market",
+        "latitude": 46.5607,
+        "longitude": 26.9197,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Miron Costin, nr. 27",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": " Locker 1038 Bunker Oil ",
+        "latitude": 45.41,
+        "longitude": 28.0149,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd Galati 4",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1168 Simion Barnutiu 32",
+        "latitude": 45.7635,
+        "longitude": 21.2533,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Simion Barnutiu, nr.32",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1088 Mol Romania",
+        "latitude": 47.0339,
+        "longitude": 21.9886,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Cal Clujui, nr. 231A",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": "Locker 1253 Magazin Fratii Oprean, B-dul Ferdinand I, nr. 13",
+        "latitude": 46.0649,
+        "longitude": 23.5805,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul Ferdinand I 13",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": "Locker 1113 Jackson Expo Market",
+        "latitude": 46.184,
+        "longitude": 21.3039,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Biruintei, Nr. 12",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1085 Webasto",
+        "latitude": 44.4357,
+        "longitude": 25.9975,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sat Rosu (com Chiajna), Drumul Bacriului nr. 35",
+        "city": [
+            "Chiajna"
+        ]
+    },
+    {
+        "name": "Locker 1124 Habitat Residence Weiner Palada, nr.8",
+        "latitude": 44.4471,
+        "longitude": 25.99,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " Str. Weiner Palada nr. 8",
+        "city": [
+            "Chiajna"
+        ]
+    },
+    {
+        "name": "Locker 1257 Wellness Club, str. Chiristigiilor nr.46",
+        "latitude": 44.4485,
+        "longitude": 26.1306,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Chiristigiilor nr.46",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1217 Slager Center Nicolae Balcescu 106",
+        "latitude": 46.7276,
+        "longitude": 25.5838,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Nicolae Balcescu 106",
+        "city": [
+            "Gheorgheni"
+        ]
+    },
+    {
+        "name": "Locker 1186 MOL Romania Bd. Ecaterina Teodoroiu",
+        "latitude": 45.0508,
+        "longitude": 23.2819,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Ecaterina Teodoroiu, 88 A",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1240 MOL Romania, str. Observatorului 76-78",
+        "latitude": 46.755,
+        "longitude": 23.5861,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Observatorului 76-78",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1139 Benzinarie ESO",
+        "latitude": 46.5596,
+        "longitude": 23.8174,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Victoriei, nr. 61 ",
+        "city": [
+            "Turda"
+        ]
+    },
+    {
+        "name": "Locker 1256 Your Car Wash, str. Extravilan, nr. 26",
+        "latitude": 46.3433,
+        "longitude": 21.6983,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Extravilan nr.26",
+        "city": [
+            "Pancota"
+        ]
+    },
+    {
+        "name": "Locker 1068 Elephant Car Wash",
+        "latitude": 44.938,
+        "longitude": 26.0011,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Ghe. Cantacuzino nr. 220",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": " Locker 1021 Carrefour Arcu 29",
+        "latitude": 47.1695,
+        "longitude": 27.5679,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Soseaua Arcu, nr. 29 ",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1003 Carrefour Vacarescu",
+        "latitude": 44.4643,
+        "longitude": 26.1094,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Barbu Vacarescu, Nr. 154-158",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1155 Atlantis Decapo",
+        "latitude": 47.141,
+        "longitude": 24.4989,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Andrei Muresanu, nr. 17",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1069 cladirea Petrom",
+        "latitude": 44.9307,
+        "longitude": 26.0267,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Mihai Eminescu, nr. 7",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": "Locker 1128 Kronstadt str. Lunii, nr. 6",
+        "latitude": 45.6453,
+        "longitude": 25.6256,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Lunii, nr. 6",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1193 River Plaza Mall - Rm.Valcea",
+        "latitude": 45.2299,
+        "longitude": 24.3396,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Calea lui Traian nr. 121",
+        "city": [
+            "Ramnicu-Valcea"
+        ]
+    },
+    {
+        "name": "Locker 1131 str. George Enescu- Atlantis 10",
+        "latitude": 47.1224,
+        "longitude": 24.4645,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. George Enescu",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1255 Drive Grill Romanești- nr. 136A",
+        "latitude": 44.286,
+        "longitude": 23.7995,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bdul. Nicolae Romanescu nr. 136A",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1104 Maxxa",
+        "latitude": 45.8663,
+        "longitude": 22.9144,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Mihai Eminescu, Nr. 93",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": "Locker 1092 Mol Romania",
+        "latitude": 46.5282,
+        "longitude": 24.5426,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Gheorghe Doja, nr. 76",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1182 Aleea Manastirii Dealu langa Kaufland",
+        "latitude": 44.9585,
+        "longitude": 25.4818,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Aleea Manastirii Dealu",
+        "city": [
+            "Targoviste"
+        ]
+    },
+    {
+        "name": "Locker 1248 Paskandi Geza, nr.2",
+        "latitude": 47.8017,
+        "longitude": 22.8576,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Locker 1248 Paskandi Geza, nr.2",
+        "city": [
+            "Satu"
+        ]
+    },
+    {
+        "name": "Locker 1158 Fetesti",
+        "latitude": 44.4125,
+        "longitude": 26.1856,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Fetesti 46E-48",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1056 Race Carwash",
+        "latitude": 45.1329,
+        "longitude": 26.8151,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Soseaua Bucuresti, nr. 4",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1100 Alice Grem Calea Zarandului 81",
+        "latitude": 45.8691,
+        "longitude": 22.9214,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Zarandului, nr. 81",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": "Locker 1048 Doraly Mall",
+        "latitude": 44.1471,
+        "longitude": 28.6249,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "bd Aurel Vlaicu FN",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Locker 1072 Dabs Boutique",
+        "latitude": 47.6692,
+        "longitude": 26.282,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Tineretului",
+        "city": [
+            "Suceava"
+        ]
+    },
+    {
+        "name": "Locker 1204 Rompetrol George Enescu, nr. 101",
+        "latitude": 44.337,
+        "longitude": 23.7767,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "George Enescu, nr. 101",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": " Locker 1007 Carrefour Dr. Hacman",
+        "latitude": 45.113,
+        "longitude": 24.3699,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Dr. Hacman, Nr.29A",
+        "city": [
+            "Ramnicu-Valcea"
+        ]
+    },
+    {
+        "name": "Locker 1237 str. Virgil Birou, nr. 12",
+        "latitude": 45.748,
+        "longitude": 21.2405,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Virgil Birou nr.12 ",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1046 Mega Image Baciu",
+        "latitude": 46.7861,
+        "longitude": 23.54,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Galaxiei, nr.1",
+        "city": [
+            "Baciu"
+        ]
+    },
+    {
+        "name": "Locker 1111 Targu Mic Fortuna",
+        "latitude": 46.2,
+        "longitude": 21.2934,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Aurel Vlaicu, nr. 189-191, jud. Arad",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1178 MOL Romania, Sos. Colentina",
+        "latitude": 44.469,
+        "longitude": 26.1446,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos Colentina 258-260",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1247 Spalatorie La Fontana- str. Poetului, nr.31",
+        "latitude": 46.1967,
+        "longitude": 21.3037,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Poetului nr.31",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": " Locker 1010 The Office Cluj",
+        "latitude": 46.7766,
+        "longitude": 23.6038,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bulevardul 21 Decembrie 1989 nr.77",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1209 Rompetrol Brazda lui Novac, nr. 52",
+        "latitude": 44.3277,
+        "longitude": 23.8009,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Brazda Lui Novac nr.52",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1098 Piata Micro 14",
+        "latitude": 45.4417,
+        "longitude": 28.024,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Tecuci nr. 195",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1009 Carrefour Zorilor",
+        "latitude": 45.6382,
+        "longitude": 25.6209,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Zorilor",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1043 Mega Image Vatra Luminoasa",
+        "latitude": 44.4384,
+        "longitude": 26.1388,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Magura Vulturului, nr. 1, Sect. 2 ",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1267 Pizzeria Stop &GO ",
+        "latitude": 44.94,
+        "longitude": 25.5086,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Principala, nr.473",
+        "city": [
+            "Razvad"
+        ]
+    },
+    {
+        "name": "Locker 1213 Salvosan Ciobanca- str. Dumbrava, nr.48",
+        "latitude": 47.1932,
+        "longitude": 23.0499,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Dumbrava nr.48",
+        "city": [
+            "Zalau"
+        ]
+    },
+    {
+        "name": "Locker 1138 Carrefour, G.Cosbuc 18",
+        "latitude": 47.6577,
+        "longitude": 23.5628,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. George Cosbuc, nr. 18",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1174 Bistrita Retail Park Calea Moldovei",
+        "latitude": 47.1443,
+        "longitude": 24.5102,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Moldovei, nr. 13A",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1070 Urvas T. Vladimirescu 30",
+        "latitude": 47.1614,
+        "longitude": 27.5984,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Tudor Vladimirescu nr 30",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1177 Str. Maresal Averescu Buzau",
+        "latitude": 45.1464,
+        "longitude": 26.8043,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Maresal Alexandru Averescu",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1214 Spalatorie auto Bdl. Gheorghe Chitu 2A",
+        "latitude": 44.3083,
+        "longitude": 23.7977,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bdl Gheorghe Chitu 2A",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1184 Fortuna Severin Topolnitei nr. 8",
+        "latitude": 44.6323,
+        "longitude": 22.673,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Topolnitei nr. 8",
+        "city": [
+            "Drobeta-Turnu"
+        ]
+    },
+    {
+        "name": "Locker 1129 bd. Gen. Grigore Balan, 48 – Atlantis 20",
+        "latitude": 47.1346,
+        "longitude": 24.5007,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. General Grigore Balan nr. 48",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1261 JOY Retail Park Rupea",
+        "latitude": 46.032,
+        "longitude": 25.2079,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Republicii, nr. 268, jud Brasov",
+        "city": [
+            "Rupea"
+        ]
+    },
+    {
+        "name": "Locker 1219 Florarie -Dorin Pavel 4A",
+        "latitude": 45.9567,
+        "longitude": 23.5649,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Dorin Pavel 4A",
+        "city": [
+            "Sebes"
+        ]
+    },
+    {
+        "name": "Locker 1275- str. Tipografilor, nr. 1A",
+        "latitude": 45.9432,
+        "longitude": 23.5632,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Tipografilor, nr 1A",
+        "city": [
+            "Sebes"
+        ]
+    },
+    {
+        "name": "Locker 1236 Laur Pizza- Mihail Kogalniceanu, nr.190",
+        "latitude": 45.967,
+        "longitude": 23.5575,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Mihail Kogalniceanu, nr. 190bis",
+        "city": [
+            "Sebes"
+        ]
+    },
+    {
+        "name": " Locker 1012 Supeco Nicolae Titulescu",
+        "latitude": 46.1723,
+        "longitude": 21.3461,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Blvd. Nicolae Titulescu, Nr. 4",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1065 Praga nr. 8",
+        "latitude": 44.9421,
+        "longitude": 26.0306,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Praga, nr. 8",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": "Locker 1089 Mol Romania",
+        "latitude": 44.846,
+        "longitude": 24.8883,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Republicii, nr. 220",
+        "city": [
+            "Pitesti"
+        ]
+    },
+    {
+        "name": "Locker 1018 Mega Image Bucurestii Noi 7-9",
+        "latitude": 44.4773,
+        "longitude": 26.0447,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bdul Bucurestii Noi, nr 7-9, sector 1",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": " Locker 1025 Spălătorie auto Giratoriu Mall Selimbar",
+        "latitude": 45.777,
+        "longitude": 24.1724,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Soseaua Sibiului, nr. 42",
+        "city": [
+            "Selimbar"
+        ]
+    },
+    {
+        "name": " Locker 1023 Pictor Brana 51",
+        "latitude": 45.7811,
+        "longitude": 24.1814,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Pictor Brana, 51",
+        "city": [
+            "Selimbar"
+        ]
+    },
+    {
+        "name": "Locker 1000 GLS Romania",
+        "latitude": 45.7369,
+        "longitude": 24.2053,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Parc Industrial Șelimbăr GLS",
+        "city": [
+            "Selimbar"
+        ]
+    },
+    {
+        "name": "Locker 1014 Avantgarden",
+        "latitude": 45.7715,
+        "longitude": 24.1625,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Regele Ferdinand 7, bl.B4, ap.7",
+        "city": [
+            "Selimbar"
+        ]
+    },
+    {
+        "name": "Locker 1081 Mol Romania",
+        "latitude": 44.4136,
+        "longitude": 26.1419,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Râmnicu Vâlcea nr.12",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1163 Nest Retail Park Calea Borsului",
+        "latitude": 47.0746,
+        "longitude": 21.9036,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Borșului nr.2C",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": "Locker 1103 Aleea Romanilor 10",
+        "latitude": 45.8685,
+        "longitude": 22.9093,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Aleea Romanilor, Nr. 10",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": "Locker 1149 Rarmarys Baia Mare",
+        "latitude": 47.6621,
+        "longitude": 23.5172,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Victoriei, nr. 147",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1119 str. Beldiceanu, nr.5",
+        "latitude": 47.1672,
+        "longitude": 27.5998,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Beldiceanu, Nr. 5",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1091 Continental Poarta A",
+        "latitude": 45.8047,
+        "longitude": 24.0762,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Salzburg, nr. 8",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1194 MOL Romania Constanta- Bd. Tomis 310D",
+        "latitude": 44.1993,
+        "longitude": 28.6289,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Tomis 310D",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Locker 1102 Mures Mall",
+        "latitude": 46.5399,
+        "longitude": 24.5578,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Piata Victoriei, nr. 14, Targu Mures",
+        "city": [
+            "Targu"
+        ]
+    },
+    {
+        "name": "Locker 1058 Spalatorie Auto 2Km0",
+        "latitude": 45.1662,
+        "longitude": 26.7857,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Transilvaniei, nr. 412",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1156 Aparo Art SRL",
+        "latitude": 47.6662,
+        "longitude": 23.6007,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Splaiul Republicii Nr 59 A",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1125 bd. Decebal, nr. 28",
+        "latitude": 47.1345,
+        "longitude": 24.4902,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Decebal, nr. 28",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": " Locker 1032 Supeco Corneliu Coposu",
+        "latitude": 47.0741,
+        "longitude": 21.9184,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": " Str. Corneliu Coposu, nr. 10",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": " Locker 1044 Erra Iasi",
+        "latitude": 47.1668,
+        "longitude": 27.511,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Șoseaua Păcurari nr. 121",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Locker 1243 str. Bradul, nr. 3",
+        "latitude": 45.7441,
+        "longitude": 21.2465,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Bradul, nr 3",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1192 Pensiunea Vila Diana C.Zarandului, nr.2",
+        "latitude": 45.8815,
+        "longitude": 22.9114,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Zarandului, Nr 2",
+        "city": [
+            "Deva"
+        ]
+    },
+    {
+        "name": "Locker 1249 str. Capitan Ignat, nr. 1- Hotel IRIS",
+        "latitude": 46.1715,
+        "longitude": 21.3042,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Capitan Ignat nr.1, IRIS",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1153 George Cosbuc",
+        "latitude": 47.6554,
+        "longitude": 23.5488,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. George Cosbuc, nr. 50B",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1254 Fastfood VLH Bakery, Str. Caraiman",
+        "latitude": 44.1576,
+        "longitude": 28.6298,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Prelungirea Caraiman nr.2",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": " Locker 1016 Floresti Avram Iancu 408E",
+        "latitude": 46.7469,
+        "longitude": 23.5201,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Floresti Avram Iancu 408E",
+        "city": [
+            "Floresti"
+        ]
+    },
+    {
+        "name": "Locker 1264, str. Coronitei, nr.2",
+        "latitude": 45.7053,
+        "longitude": 25.5791,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Coronitei nr.2",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1170 Dacilor 25",
+        "latitude": 45.7598,
+        "longitude": 21.2488,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Dacilor nr. 25",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1190 Str. Slatioarei 2A",
+        "latitude": 47.6374,
+        "longitude": 26.2321,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Slatioarei, Nr2A",
+        "city": [
+            "Suceava"
+        ]
+    },
+    {
+        "name": "Locker 1108 Mol Romania",
+        "latitude": 46.1815,
+        "longitude": 21.3307,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. I. Maniu, nr. 56-62",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1215 - Bdul Decebal, nr. 3",
+        "latitude": 44.3282,
+        "longitude": 23.8176,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bdul Decebal nr. 3",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1154 Citta Residential Park",
+        "latitude": 44.4418,
+        "longitude": 26.1604,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos. Pantelimon, nr. 266",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1189 Gaesti, str. 13 Decembrie, nr. 58",
+        "latitude": 44.7185,
+        "longitude": 25.3227,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. 13 Decembrie, nr 58",
+        "city": [
+            "Gaesti"
+        ]
+    },
+    {
+        "name": "Locker 1033 ISARAN 2",
+        "latitude": 45.677,
+        "longitude": 25.6128,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. 13 Decembrie, nr. 129",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1097 Piata Veche Independentei 2",
+        "latitude": 45.4333,
+        "longitude": 28.0532,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Independentei nr. 2",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1066 Bd. Independentei 24",
+        "latitude": 44.9341,
+        "longitude": 26.0263,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Independentei, nr. 24",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": "Locker 1117 Prof. Ion Paul, 2A",
+        "latitude": 47.1651,
+        "longitude": 27.5967,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Prof Ion Paul, Nr. 2A ",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": " Locker 1036 Bunker Oil ",
+        "latitude": 45.4335,
+        "longitude": 28.0371,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. George Cosbuc 70-72",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1262 Mykids, str. Lapusului, nr.14",
+        "latitude": 47.0634,
+        "longitude": 21.9094,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Lapusului nr.14",
+        "city": [
+            "Oradea"
+        ]
+    },
+    {
+        "name": "Locker 1094 Gavril Musicescu 159",
+        "latitude": 45.7251,
+        "longitude": 21.2466,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Strada Gavril Musicescu nr. 159",
+        "city": [
+            "Timisoara"
+        ]
+    },
+    {
+        "name": "Locker 1061 Atrium Mall Arad",
+        "latitude": 46.1898,
+        "longitude": 21.3216,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Aurel Vlaicu, nr. 10-12",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1187 MOL Romania Sos. Odaii 515",
+        "latitude": 44.518,
+        "longitude": 26.0205,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos Odaii 515",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1200 Supermarket PACO SUD-Focsani",
+        "latitude": 45.6771,
+        "longitude": 27.1824,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Constructorului, nr 13",
+        "city": [
+            "Focsani"
+        ]
+    },
+    {
+        "name": "Locker 1274- str.Timisorii nr.97-99",
+        "latitude": 45.6967,
+        "longitude": 21.8991,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Timisorii nr.97-99",
+        "city": [
+            "Lugoj"
+        ]
+    },
+    {
+        "name": "Locker 1169 Rakoczi Ferenc 23",
+        "latitude": 46.2986,
+        "longitude": 25.2883,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Rakoczi Ferenc, nr. 23",
+        "city": [
+            "Odorheiu"
+        ]
+    },
+    {
+        "name": "Locker 1199 Zold Liget",
+        "latitude": 46.3128,
+        "longitude": 25.3039,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Szenakert, nr.4",
+        "city": [
+            "Odorheiu"
+        ]
+    },
+    {
+        "name": "Locker 1188 Vitantis Shopping Center",
+        "latitude": 44.4008,
+        "longitude": 26.1456,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos Vitan Barzesti, nr 7A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1134 magazin Atlantis Casa Alba",
+        "latitude": 47.1299,
+        "longitude": 24.491,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Independentei nr. 1-2 ",
+        "city": [
+            "Bistrita"
+        ]
+    },
+    {
+        "name": "Locker 1045 Prahova Value Center",
+        "latitude": 44.9258,
+        "longitude": 26.0298,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Piata 1 Decembrie 1918, nr. 1",
+        "city": [
+            "Ploiesti"
+        ]
+    },
+    {
+        "name": "Locker 1057 Triton Supermarket",
+        "latitude": 45.1662,
+        "longitude": 26.8178,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "B-dul Unirii, nr. 203",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1106 Mol Romania",
+        "latitude": 45.1683,
+        "longitude": 26.8187,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd. Unirii, nr. 234",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Locker 1227 Spalatorie La Fontana- Petru Rares 46",
+        "latitude": 46.1943,
+        "longitude": 21.3338,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Petru Rares nr.46",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1071 Sepsi Value Centre",
+        "latitude": 45.8688,
+        "longitude": 25.8005,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Lunca Oltului 31",
+        "city": [
+            "Sfantu"
+        ]
+    },
+    {
+        "name": "Locker 1252 str. Muncii, nr. 65",
+        "latitude": 46.3449,
+        "longitude": 21.5009,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Muncii, nr.65",
+        "city": [
+            "Santana-Arad"
+        ]
+    },
+    {
+        "name": "Locker 1011 Supeco Manastur",
+        "latitude": 46.7599,
+        "longitude": 23.5503,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Floresti, nr. 56A",
+        "city": [
+            "Cluj-Napoca"
+        ]
+    },
+    {
+        "name": "Locker 1013 Mega Image sos Giulesti 30-40",
+        "latitude": 44.458,
+        "longitude": 26.0529,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos. Giulesti, nr. 38 - 40, sector 6",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1233 PROFI- M. Saulescu, nr.62",
+        "latitude": 45.5069,
+        "longitude": 25.5748,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. M.Saulescu nr.62",
+        "city": [
+            "Predeal"
+        ]
+    },
+    {
+        "name": "Locker 1076 Dumbravita Office",
+        "latitude": 45.7847,
+        "longitude": 21.2358,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Conac, nr. 60",
+        "city": [
+            "Dumbravita-TM"
+        ]
+    },
+    {
+        "name": "Locker 1221- Mini Market str. Petofi Sandor 17",
+        "latitude": 45.8031,
+        "longitude": 21.251,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Petofi Sandor 17 Dumbravita",
+        "city": [
+            "Dumbravita-TM"
+        ]
+    },
+    {
+        "name": "Locker 1203 Stefan cel Mare (Gazprom)",
+        "latitude": 45.789,
+        "longitude": 24.1746,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Stefan cel Mare, nr 137A",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1223 Galati Complex Tudor Vladimirescu ",
+        "latitude": 45.457,
+        "longitude": 28.0476,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str Domneasca nr. 189",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1220- La doi pasi Zold Peter nr 4",
+        "latitude": 46.3696,
+        "longitude": 25.7954,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Zold Peter, nr.4",
+        "city": [
+            "Miercurea-Ciuc"
+        ]
+    },
+    {
+        "name": "Locker 1258 Jet-On Pantelimon, str. Cernica, nr. 3",
+        "latitude": 44.4478,
+        "longitude": 26.212,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str.Cernica nr.3, Pantelimon, jud Ilfov",
+        "city": [
+            "Pantelimon"
+        ]
+    },
+    {
+        "name": "Locker 1090 Mol Romania",
+        "latitude": 47.7839,
+        "longitude": 22.872,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Drumul Careiului, nr. 7",
+        "city": [
+            "Satu"
+        ]
+    },
+    {
+        "name": "Locker 1241 MOL Romania, str. Col Dumitru Baltaretu 74",
+        "latitude": 44.9118,
+        "longitude": 25.4558,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Col Dumitru Baltaretu 74",
+        "city": [
+            "Targoviste"
+        ]
+    },
+    {
+        "name": "Locker 1130 Amurgului, nr. 5",
+        "latitude": 47.6464,
+        "longitude": 23.5572,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Amurgului Nr 5",
+        "city": [
+            "Baia"
+        ]
+    },
+    {
+        "name": "Locker 1064 Impact Fitness Studio Gavana",
+        "latitude": 44.8799,
+        "longitude": 24.8389,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Nicolae Balcescu, nr 138A",
+        "city": [
+            "Pitesti"
+        ]
+    },
+    {
+        "name": "Locker 1086 Rik Avram Iancu 11-13",
+        "latitude": 44.1736,
+        "longitude": 28.6384,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Avram Iancu, nr. 11-13",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Locker 1197 Mol Romania Brestei",
+        "latitude": 44.3229,
+        "longitude": 23.7771,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Brestei 114",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1160 Spalatorie Jet On Colentina 412",
+        "latitude": 44.475,
+        "longitude": 26.1577,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos.Colentina, nr 412",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1162 Liviu Rebreanu 29",
+        "latitude": 44.4258,
+        "longitude": 26.1755,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "str. Liviu Rebreanu nr. 29",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1133 Casa de cultura COSMOPOLITAN ",
+        "latitude": 46.0677,
+        "longitude": 23.5651,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Mihai Viteazu, nr. 31",
+        "city": [
+            "Alba"
+        ]
+    },
+    {
+        "name": "Locker 1235 Car Wash- str.Cocorilor 56-58",
+        "latitude": 46.1897,
+        "longitude": 21.304,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str.Cocorilor nr.56-58",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1006 Carrefour Mioritei",
+        "latitude": 46.5715,
+        "longitude": 26.8985,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Mioritei, 27",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "Locker 1080 Mol Romania",
+        "latitude": 44.463,
+        "longitude": 26.1528,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Sos Fundeni nr. 161",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Locker 1067 Sf. Vineri Silvo Star Fitness",
+        "latitude": 44.8596,
+        "longitude": 24.8817,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str Sf. Vineri",
+        "city": [
+            "Pitesti"
+        ]
+    },
+    {
+        "name": "Locker 1077 Barlad Value Centre",
+        "latitude": 46.2507,
+        "longitude": 27.6814,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "BD. Republicii 320 B",
+        "city": [
+            "Barlad"
+        ]
+    },
+    {
+        "name": "Locker 1201 Calea Dumbravii 20",
+        "latitude": 45.7883,
+        "longitude": 24.1496,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Dumbravii 20",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Locker 1099 Piata Tiglina 1",
+        "latitude": 45.4264,
+        "longitude": 28.0303,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Saturn nr. 3P",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Locker 1159 Calea Radnei 235",
+        "latitude": 46.1766,
+        "longitude": 21.3604,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Calea Radnei, nr 235",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Locker 1114  Kronstadt 13 Decembrie, nr.1",
+        "latitude": 45.6509,
+        "longitude": 25.6038,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. 13 Decembrie, Nr. 1",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1027 TopCity Stefan Baciu 42-56",
+        "latitude": 45.6734,
+        "longitude": 25.6046,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Ștefan Baciu nr. 42-56",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1047 Bertis / Grandis Residence",
+        "latitude": 45.6739,
+        "longitude": 25.5996,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Str. Stefan Baciu, nr. 64",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Locker 1202 ROMPETROL B-dul Dacia, nr. 25",
+        "latitude": 44.3391,
+        "longitude": 23.7885,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Bd-ul Dacia, nr 25",
+        "city": [
+            "Craiova"
+        ]
+    },
+    {
+        "name": "Locker 1208 str. Mihai Eminescu, nr. 75",
+        "latitude": 45.8663,
+        "longitude": 22.9144,
+        "country": "RM",
+        "iconUrl": "GLS.svg",
+        "owner": "GLS Romania",
+        "address": "Mihai Eminescu, nr 75",
+        "city": [
+            "Deva"
+        ]
+    }
+]

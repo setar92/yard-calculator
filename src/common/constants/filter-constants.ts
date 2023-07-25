@@ -20,6 +20,7 @@ import {
   // locationsSlovakService,
   locationsPaketa,
   locationsFANBox,
+  locationsGLSRomania,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -33,6 +34,7 @@ const cities = [
   ['Klaipeda', 'Klaip\u0117da'],
   ['Daugavpils', 'Daugavpils'],
   ['Budapest', 'Budapest'],
+  ['Bucuresti', 'Bucuresti'],
 ];
 const countries = [
   ['All', 'All'],
@@ -47,7 +49,6 @@ const countries = [
   ['Germany', 'DE'],
   ['Spain', 'ES'],
   ['Slovak Republic', 'SK'],
-  ['Romania', 'RO'],
 ];
 
 const allLocationsData: IAllLocationsData[] = [
@@ -89,8 +90,9 @@ const allLocationsData: IAllLocationsData[] = [
     data: locationsGlsChzech,
   },
   { ownerName: 'BalikoBOX', marker: 'BalíkoBOX.jpg', data: locationsBalíkoBOX },
-  { ownerName: 'Paketa-SK', marker: 'paketa.svg', data: locationsPaketa },
+  { ownerName: 'Paketa', marker: 'paketa.svg', data: locationsPaketa },
   { ownerName: 'FANbox', marker: 'FANbox.png', data: locationsFANBox },
+  { ownerName: 'GLS Romania', marker: 'GLS.svg', data: locationsGLSRomania },
 
   // {
   //   ownerName: 'SlovakService',
@@ -99,4 +101,6 @@ const allLocationsData: IAllLocationsData[] = [
   // },
 ];
 
-export { cities, countries, allLocationsData };
+const allOwners = allLocationsData.map((loc) => loc.ownerName);
+
+export { cities, countries, allLocationsData, allOwners };

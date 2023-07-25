@@ -36,8 +36,21 @@ const Filter: FC = () => {
   return (
     <div className="absolute">
       <div className="bg-white mt-4 ml-4 px-4 py-3 rounded-xl text-black">
-        <div className="font-semibold text-2xl">Owner</div>
+        <div className="font-semibold text-2xl">Owners</div>
         <div className="font-semibold grid grid-cols-2 gap-x-4">
+          <div className="flex">
+            <input
+              type="checkbox"
+              name="All"
+              onChange={chooseOwnerHandler}
+              checked={filterCriterions.owners.includes('All')}
+              className="cursor-pointer"
+            />
+            <label className="ml-2" htmlFor="City">
+              All
+            </label>
+          </div>
+
           {allLocationsData.map((owner, index) => {
             return (
               <div key={index} className="flex">
