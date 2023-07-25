@@ -1,5 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 
+import { allOwners } from '../../common/constants';
 import {
   FilterState,
   SetOwnerAction,
@@ -20,11 +21,19 @@ const { reducer, actions } = createSlice({
     setOwner: (state, action: SetOwnerAction) => {
       const choosedOwner = action.payload.owner;
       if (action.payload.turn) {
-        state.owners = [...state.owners, choosedOwner];
+        if (choosedOwner === 'All') {
+          state.owners = [...allOwners, 'All'];
+        } else {
+          state.owners = [...state.owners, choosedOwner];
+        }
       } else {
-        const ownersSet = new Set(state.owners);
-        ownersSet.delete(choosedOwner);
-        state.owners = Array.from(ownersSet);
+        if (choosedOwner === 'All') {
+          state.owners = [];
+        } else {
+          const ownersSet = new Set(state.owners);
+          ownersSet.delete(choosedOwner);
+          state.owners = Array.from(ownersSet);
+        }
       }
     },
     setCity: (state, action: SetCityAction) => {
