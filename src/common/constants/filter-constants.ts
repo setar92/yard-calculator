@@ -21,6 +21,7 @@ import {
   locationsPaketa,
   locationsFANBox,
   locationsGLSRomania,
+  locationsPanduri,
 } from '../../mock-data';
 import { IAllLocationsData } from '../types';
 
@@ -93,6 +94,11 @@ const allLocationsData: IAllLocationsData[] = [
   { ownerName: 'Paketa', marker: 'paketa.svg', data: locationsPaketa },
   { ownerName: 'FANbox', marker: 'FANbox.png', data: locationsFANBox },
   { ownerName: 'GLS Romania', marker: 'GLS.svg', data: locationsGLSRomania },
+  {
+    ownerName: 'Posta Panduri',
+    marker: 'Panduri.png',
+    data: locationsPanduri,
+  },
 
   // {
   //   ownerName: 'SlovakService',

@@ -1,0 +1,1562 @@
+[
+    {
+        "name": "Carrefour Market Tunarilor - Arad",
+        "latitude": 46.1630309,
+        "longitude": 21.2900899,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Tunarilor Nr. 1A",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Centrul comercial Ziridava - Arad",
+        "latitude": 46.1797424930244,
+        "longitude": 21.3219410208174,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Revolutiei nr. 39-41",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Supeco - Arad",
+        "latitude": 46.1723663171719,
+        "longitude": 21.3463565617598,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Nicolae Titulescu nr. 4",
+        "city": [
+            "Arad"
+        ]
+    },
+    {
+        "name": "Supernova Pitesti",
+        "latitude": 44.8186236344198,
+        "longitude": 24.9421081504858,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "DN65B",
+        "city": [
+            "Arges"
+        ]
+    },
+    {
+        "name": "Carrefour - Campulung Muscel",
+        "latitude": 45.280146655823,
+        "longitude": 25.0577868105439,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. I.C. Bratianu 8",
+        "city": [
+            "Arges"
+        ]
+    },
+    {
+        "name": "Auchan Gavana - Pitesti",
+        "latitude": 44.8872790497455,
+        "longitude": 24.8294651403439,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Constantin Dobrogeanu Gherea nr. 1",
+        "city": [
+            "Arges"
+        ]
+    },
+    {
+        "name": "Trivale Shopping Center - Pitesti",
+        "latitude": 44.8572339669748,
+        "longitude": 24.8736550244835,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Victoriei nr. 12",
+        "city": [
+            "Arges"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Mioritei - Bacau",
+        "latitude": 46.571664,
+        "longitude": 26.898681,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Mioritei nr. 27",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "Hello Shopping Park - Auchan Bacau",
+        "latitude": 46.5097948902095,
+        "longitude": 26.9299231260598,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Republicii nr. 181",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "Supeco Stefan cel Mare - Bacau",
+        "latitude": 46.5809442269906,
+        "longitude": 26.9145267311432,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Stefan cel Mare nr. 28 A",
+        "city": [
+            "Bacau"
+        ]
+    },
+    {
+        "name": "AUSHOPPING - Oradea",
+        "latitude": 47.046162576427,
+        "longitude": 21.9094808926237,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Ogorului nr. 171",
+        "city": [
+            "Bihor"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Braila",
+        "latitude": 45.2717289829291,
+        "longitude": 27.9546083809614,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. 1 Decembrie 1918 40-57",
+        "city": [
+            "Braila"
+        ]
+    },
+    {
+        "name": "Penny Bariera - Braila",
+        "latitude": 45.2552711859635,
+        "longitude": 27.9587486474425,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Fabricilor, 10",
+        "city": [
+            "Braila"
+        ]
+    },
+    {
+        "name": "Auchan Brasov Vest (Eliana)",
+        "latitude": 45.6577299609463,
+        "longitude": 25.5626055597931,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Cristianului nr.5",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Carrefour Zorilor - Brasov",
+        "latitude": 45.638005,
+        "longitude": 25.621307,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Zorilor nr.4",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Coresi Shopping Mall - Brasov",
+        "latitude": 45.6721918055516,
+        "longitude": 25.6180072904574,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Zaharia Stancu nr.1",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Kaufland Tractorul - Brasov",
+        "latitude": 45.6669665462669,
+        "longitude": 25.6105248084492,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Strada 13 Decembrie nr 90 E",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Magnolia Shopping Center - Brasov",
+        "latitude": 45.640819,
+        "longitude": 25.6164613,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Crisului nr. 18",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Star Shopping Center - Brasov",
+        "latitude": 45.6436817,
+        "longitude": 25.5974421,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Nicolae Balcescu nr. 62",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Unirea Shopping Center - Brasov",
+        "latitude": 45.6612907545959,
+        "longitude": 25.6112051994775,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Garii 3A",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Rasnov",
+        "latitude": 45.5997335364035,
+        "longitude": 25.4644539615593,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Brasovului nr. 1",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Centrul de activitati www.deSirnea.ro",
+        "latitude": 45.4713622262324,
+        "longitude": 25.2544535104411,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Principala 213B",
+        "city": [
+            "Brasov"
+        ]
+    },
+    {
+        "name": "Carrefour Dorobanti",
+        "latitude": 44.448659,
+        "longitude": 26.099255,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Dorobanti nr. 31-33",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Farmacia Tei Biharia",
+        "latitude": 44.493768,
+        "longitude": 26.097415,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Biharia 67-77",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Basarab",
+        "latitude": 44.4485725608189,
+        "longitude": 26.0675562744579,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Orhideelor 46",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Petrom City - doar pentru angajatii Petrom City",
+        "latitude": 44.49143,
+        "longitude": 26.060789,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Strada Coralilor 22",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Carrefour Colentina",
+        "latitude": 44.4746736444326,
+        "longitude": 26.1614375697512,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Colentina 426-426A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Cora - Pantelimon",
+        "latitude": 44.4376790077481,
+        "longitude": 26.1871350686934,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Vergului nr. 20",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Farmacia Tei Barbu Vacarescu",
+        "latitude": 44.4646577385411,
+        "longitude": 26.1094990433756,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Barbu Vacarescu nr. 154-158",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Pantelimon",
+        "latitude": 44.4425335260263,
+        "longitude": 26.1534506957849,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Pantelimon 244-246",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Penny - Fundeni",
+        "latitude": 44.446712,
+        "longitude": 26.168189,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Fundeni 38-40",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Veranda Mall",
+        "latitude": 44.451778,
+        "longitude": 26.129694,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Ziduri Mosi nr. 23",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Theodor Pallady",
+        "latitude": 44.408455951815,
+        "longitude": 26.2023296125165,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Theodor Pallady nr. 51",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Titan",
+        "latitude": 44.4199119,
+        "longitude": 26.1797517,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. 1 Decembrie nr. 33A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Vitan",
+        "latitude": 44.4079521061186,
+        "longitude": 26.1401066651044,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Vitan nr.236",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "BebeTei Titan-Rebreanu",
+        "latitude": 44.4242388297096,
+        "longitude": 26.1718354523141,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Ion Agarbiceanu 3-11",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Bucuresti Mall - Vitan",
+        "latitude": 44.420994,
+        "longitude": 26.126455,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Vitan 55-59",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Dristor Farmacia Tei",
+        "latitude": 44.4203055119267,
+        "longitude": 26.1414788418177,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Camil Ressu nr.7",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Bucuresti - Vitan",
+        "latitude": 44.4153621653213,
+        "longitude": 26.1357316659059,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Racari nr. 5",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Energeticienilor",
+        "latitude": 44.4065625,
+        "longitude": 26.1492426,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Energeticienilor Nr. 13- 15",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Pallady",
+        "latitude": 44.4088966841483,
+        "longitude": 26.1969254014772,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Theodor Pallady Nr. 51",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "ParkLake Liviu Rebreanu",
+        "latitude": 44.4207402975292,
+        "longitude": 26.1495241543713,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Liviu Rebreanu nr 4",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Supeco Postavarului",
+        "latitude": 44.4156338,
+        "longitude": 26.170428,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Postavarului nr. 24-52",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Unirea Shopping Center - Bucuresti",
+        "latitude": 44.4273622098612,
+        "longitude": 26.1053453496103,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Unirii nr. 1",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Berceni",
+        "latitude": 44.3611067,
+        "longitude": 26.1227625,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Drumul Dealul Bisericii nr. 67-109",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Sun Plaza",
+        "latitude": 44.395609,
+        "longitude": 26.1232695,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Vacaresti nr. 391",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Cora Alexandriei",
+        "latitude": 44.399279,
+        "longitude": 26.043659,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Alexandriei  nr. 152",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Farmacia Tei Rahova",
+        "latitude": 44.4020955,
+        "longitude": 26.0619431,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Pucheni nr 42",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Ferentari",
+        "latitude": 44.406810511383,
+        "longitude": 26.077347602619,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Ferentari, nr. 62",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Vulcan",
+        "latitude": 44.4164023912696,
+        "longitude": 26.0711680493145,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Mihail Sebastian 88C",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Mall Liberty Center",
+        "latitude": 44.415073,
+        "longitude": 26.080056,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Progresului  nr. 151-171",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Crangasi",
+        "latitude": 44.4573767118823,
+        "longitude": 26.0407608228146,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Constructorilor nr.16A",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Auchan Dr. Taberei",
+        "latitude": 44.417,
+        "longitude": 26.0359,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Brasov nr. 25",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Bd. 1 Mai nr.15 - Gang",
+        "latitude": 44.4192794357911,
+        "longitude": 26.0480031591499,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bulevardul 1 Mai nr. 15, bl.C3",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Bd. Ghencea 34 - Gang",
+        "latitude": 44.415378,
+        "longitude": 26.044636,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd-ul Ghencea 34, bloc C65",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Carrefour Market Crangasi",
+        "latitude": 44.4530930762792,
+        "longitude": 26.0495265275994,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Crangasi nr. 87",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Carrefour Orhideea",
+        "latitude": 44.4453689,
+        "longitude": 26.0624604,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Splaiul Independentei nr. 210-210B (Grozavesti)",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Cora Lujerului",
+        "latitude": 44.433132,
+        "longitude": 26.0366958,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Iuliu Maniu nr. 19",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Valea Cascadelor",
+        "latitude": 44.431788,
+        "longitude": 26.006474,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Valea Cascadelor Nr. 3",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland Valea Oltului",
+        "latitude": 44.4221253,
+        "longitude": 26.0117054,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Valea Oltului Nr. 195-197",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Kaufland West Park",
+        "latitude": 44.4335127939301,
+        "longitude": 25.9574584475531,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Strada Hornbach 1",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Militari Shopping Center - Auchan Iuliu Maniu",
+        "latitude": 44.439678,
+        "longitude": 25.983556,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Iuliu Maniu nr. 546-560",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Plaza Romania",
+        "latitude": 44.4287734,
+        "longitude": 26.0355156,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Timisoara nr. 26",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Rosiori de Vede 10",
+        "latitude": 44.4315655,
+        "longitude": 26.022281,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Rosiori de Vede nr 10",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "West Gate H1",
+        "latitude": 44.4327506311197,
+        "longitude": 25.9875069280165,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Preciziei nr. 24",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "West Gate H2",
+        "latitude": 44.4327107744545,
+        "longitude": 25.9867482606147,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Preciziei nr. 24",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "West Gate H4",
+        "latitude": 44.4327961743648,
+        "longitude": 25.986124096876,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Preciziei nr. 24",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "West Gate H5",
+        "latitude": 44.433303,
+        "longitude": 25.985911,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Preciziei nr. 24",
+        "city": [
+            "Bucuresti"
+        ]
+    },
+    {
+        "name": "Penny - Buzau",
+        "latitude": 45.163475,
+        "longitude": 26.814797,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Unirii 301",
+        "city": [
+            "Buzau"
+        ]
+    },
+    {
+        "name": "Auchan Iris - Cluj-Napoca",
+        "latitude": 46.7998088,
+        "longitude": 23.6117776,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Muncii nr. 1-15",
+        "city": [
+            "Cluj"
+        ]
+    },
+    {
+        "name": "Cora - Cluj-Napoca",
+        "latitude": 46.7589818,
+        "longitude": 23.5396698,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. 1 Decembrie 1918 nr. 142",
+        "city": [
+            "Cluj"
+        ]
+    },
+    {
+        "name": "Iulius Mall - Cluj-Napoca",
+        "latitude": 46.7715872517247,
+        "longitude": 23.6256615068747,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Alexandru Vaida-Voevod 53B",
+        "city": [
+            "Cluj"
+        ]
+    },
+    {
+        "name": "Kaufland Cluj - Marasti",
+        "latitude": 46.7824011173924,
+        "longitude": 23.6143248644509,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Fabricii 12",
+        "city": [
+            "Cluj"
+        ]
+    },
+    {
+        "name": "Vivo - Cluj-Napoca",
+        "latitude": 46.7507284836541,
+        "longitude": 23.5347372668634,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Avram Iancu nr. 492-500",
+        "city": [
+            "Cluj"
+        ]
+    },
+    {
+        "name": "Auchan - Constanta Sud",
+        "latitude": 44.1341165,
+        "longitude": 28.6228314,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Mangaliei nr. 195A",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Cora - Constanta",
+        "latitude": 44.1696410701673,
+        "longitude": 28.6107516220929,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Cumpenei nr. 2",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Tom - Constanta",
+        "latitude": 44.2133222,
+        "longitude": 28.6048537,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Tomis nr. 391, DN2A",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "VIVO Farmacia Tei - Constanta",
+        "latitude": 44.19906,
+        "longitude": 28.609385,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Aurel Vlaicu nr. 220",
+        "city": [
+            "Constanta"
+        ]
+    },
+    {
+        "name": "Supeco - Sf. Gheorghe",
+        "latitude": 45.864787,
+        "longitude": 25.802617,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Lunca Oltului 3",
+        "city": [
+            "Covasna"
+        ]
+    },
+    {
+        "name": "Penny - Targoviste",
+        "latitude": 44.9243726850559,
+        "longitude": 25.4639159725255,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Arsenalului Nr. 20",
+        "city": [
+            "Dambovita"
+        ]
+    },
+    {
+        "name": "Auchan - Craiova",
+        "latitude": 44.327632659017,
+        "longitude": 23.7751986667114,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Severinului nr. 5A",
+        "city": [
+            "Dolj"
+        ]
+    },
+    {
+        "name": "Supeco - Craiova",
+        "latitude": 44.3270439638797,
+        "longitude": 23.777348358153,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "1-3, Calea Severinului, Craiova",
+        "city": [
+            "Dolj"
+        ]
+    },
+    {
+        "name": "Carrefour Market Supeco - Galati",
+        "latitude": 45.452149,
+        "longitude": 28.01706,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Milcov 66",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Kaufland Henri Coanda - Galati",
+        "latitude": 45.453614228476,
+        "longitude": 28.0292213210654,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Henri Coanda, nr. 7",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Kaufland Tiglina 4 - Galati",
+        "latitude": 45.4266774385049,
+        "longitude": 28.022893321027,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Brailei, nr. 144",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "WinMarkt - Galati",
+        "latitude": 45.4360447,
+        "longitude": 28.0562925,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Domneasca nr. 24",
+        "city": [
+            "Galati"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Piata Garii - Deva",
+        "latitude": 45.8852977,
+        "longitude": 22.9086106,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Piata Garii, Deva",
+        "city": [
+            "Hunedoara"
+        ]
+    },
+    {
+        "name": "Carrefour Market Horea - Petrosani",
+        "latitude": 45.4199674,
+        "longitude": 23.3690773,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Horea nr.7",
+        "city": [
+            "Hunedoara"
+        ]
+    },
+    {
+        "name": "Carrefour Market Arcului - Iasi",
+        "latitude": 47.1693032652636,
+        "longitude": 27.5688529414343,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Arcu nr. 29",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Carrefour Market Ciurchi - Iasi",
+        "latitude": 47.1553248,
+        "longitude": 27.6257269,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Ciurchi nr. 146-150, cladirea EON, parter",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "ERA Shopping Park - Iasi",
+        "latitude": 47.168529,
+        "longitude": 27.510779,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Pacurari nr. 121",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Iulius Mall - Iasi",
+        "latitude": 47.154629,
+        "longitude": 27.605568,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Tudor Vladimirescu FN",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Kaufland Nicolina - Iasi",
+        "latitude": 47.1435312247807,
+        "longitude": 27.5873179277187,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Mitropolit Varlaam 20",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Kaufland Pavlov - Iasi",
+        "latitude": 47.1612936768116,
+        "longitude": 27.5758997246548,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Theodor Rascanu 6A",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Supeco - Iasi",
+        "latitude": 47.1469847079659,
+        "longitude": 27.6136167966073,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Chisinaului nr. 29",
+        "city": [
+            "Iasi"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Berceni",
+        "latitude": 44.3254341806394,
+        "longitude": 26.1767717448124,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. 1 Mai nr. 61",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Kaufland - Bragadiru",
+        "latitude": 44.3714368624949,
+        "longitude": 25.9799724003135,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Alexandriei nr. 229 A",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Smaraldului - Bragadiru",
+        "latitude": 44.38992,
+        "longitude": 26.0053749,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Smaraldului nr. 1",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Kaufland - Buftea",
+        "latitude": 44.578872,
+        "longitude": 25.9399689,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Bucuresti-Targoviste nr 232 A1",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Piscina SPA - Comuna Domnesti",
+        "latitude": 44.4037793519862,
+        "longitude": 25.9528521311026,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Tudor Vladimirescu 309",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Centrul comercial primarie - Otopeni",
+        "latitude": 44.5514763978156,
+        "longitude": 26.0736867393045,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. 23 August nr.11, bl. U5",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Benzinaria Carbogaz - Pantelimon",
+        "latitude": 44.4533456315658,
+        "longitude": 26.2623674514669,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Biruintei 239-241",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Farmacia Tei Popesti-Leordeni",
+        "latitude": 44.3804399,
+        "longitude": 26.1587635,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Oltenitei 27a",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Stefanestii de Jos",
+        "latitude": 44.5293435584887,
+        "longitude": 26.199696313847,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos.Stefanesti nr 71",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Pipera Plaza",
+        "latitude": 44.4900801228633,
+        "longitude": 26.1272627154352,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Sos. Bucuresti Nord nr. 14",
+        "city": [
+            "Ilfov"
+        ]
+    },
+    {
+        "name": "Auchan - Baia Mare",
+        "latitude": 47.6445636,
+        "longitude": 23.5255621,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Bucuresti nr. 144",
+        "city": [
+            "Maramures"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Baia Mare",
+        "latitude": 47.6577431,
+        "longitude": 23.5627732,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. George Cosbuc nr. 18",
+        "city": [
+            "Maramures"
+        ]
+    },
+    {
+        "name": "Decebal City Center - Drobeta Turnu Severin",
+        "latitude": 44.62828,
+        "longitude": 22.653004,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Horia nr. 12",
+        "city": [
+            "Mehedinti"
+        ]
+    },
+    {
+        "name": "Auchan City - Targu Mures",
+        "latitude": 46.5311738,
+        "longitude": 24.5986891,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. 1 Decembrie 1918, nr.291",
+        "city": [
+            "Mures"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Slatina",
+        "latitude": 44.437135,
+        "longitude": 24.370653,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Cornisei nr. 11C",
+        "city": [
+            "Olt"
+        ]
+    },
+    {
+        "name": "Auchan - Ploiesti",
+        "latitude": 44.9446017504066,
+        "longitude": 25.9643385055798,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Centura de Vest nr 1200",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Carrefour Market 1 Decembrie - Ploiesti",
+        "latitude": 44.9262067726976,
+        "longitude": 26.0286183697723,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Piata 1 Decembrie 1918 nr. 4",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Carrefour Market Libertatii 4 - Ploiesti",
+        "latitude": 44.9270966,
+        "longitude": 25.9922779,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Libertatii nr 4",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Carrefour Market Republicii - Ploiesti",
+        "latitude": 44.9414298043644,
+        "longitude": 26.0211385644095,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Republicii 17-25",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Kaufland Ploiesti - Nord",
+        "latitude": 44.9564145827896,
+        "longitude": 25.9932743275833,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Republicii 138",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Kaufland Ploiesti - Sud",
+        "latitude": 44.9271191540164,
+        "longitude": 26.0367098517933,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str Predeluș 1A, Piața 1 Decembrie 1918 Sud",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Penny - Ploiesti",
+        "latitude": 44.9551942302578,
+        "longitude": 26.0042163840806,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Soseaua Nordului 10",
+        "city": [
+            "Prahova"
+        ]
+    },
+    {
+        "name": "Auchan - Satu Mare",
+        "latitude": 47.7849088,
+        "longitude": 22.8436419,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Careiului 77-79",
+        "city": [
+            "Satu Mare"
+        ]
+    },
+    {
+        "name": "Supeco - Satu Mare",
+        "latitude": 47.7802201,
+        "longitude": 22.879683,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. C.S. Anderco nr. 1",
+        "city": [
+            "Satu Mare"
+        ]
+    },
+    {
+        "name": "Auchan Selimbar - Sibiu",
+        "latitude": 45.776372,
+        "longitude": 24.169471,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Sibiului nr.5, Selimbar",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Carrefour Market Victoriei - Sibiu",
+        "latitude": 45.7864665,
+        "longitude": 24.1400329,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Victoriei nr. 42",
+        "city": [
+            "Sibiu"
+        ]
+    },
+    {
+        "name": "Iulius Mall - Suceava",
+        "latitude": 47.65847,
+        "longitude": 26.27147,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Unirii 22, Iulius Mall",
+        "city": [
+            "Suceava"
+        ]
+    },
+    {
+        "name": "Auchan Timisoara Nord",
+        "latitude": 45.786041,
+        "longitude": 21.220641,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Aradului nr. 56A",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Auchan Timisoara Sud",
+        "latitude": 45.703775,
+        "longitude": 21.18937,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Sagului nr.223, Chisoda",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Bega Shopping Center - Timisoara",
+        "latitude": 45.7552989261438,
+        "longitude": 21.2306003262278,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Carol Telbisz nr.3",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Carrefour Market Cetatii - Timisoara",
+        "latitude": 45.758494,
+        "longitude": 21.2086592,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Cetatii Nr.1a",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Carrefour Rebreanu - Timisoara",
+        "latitude": 45.7365004920902,
+        "longitude": 21.2448843247582,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Str. Liviu Rebreanu nr. 160",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Supeco Circumvalatiunii - Timisoara",
+        "latitude": 45.7595159181538,
+        "longitude": 21.2170999158799,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Circumvalatiunii Nr. 35",
+        "city": [
+            "Timis"
+        ]
+    },
+    {
+        "name": "Carrefour Market - Ramnicu-Valcea",
+        "latitude": 45.105377,
+        "longitude": 24.366266,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Bd. Magheru nr. 13-15",
+        "city": [
+            "Valcea"
+        ]
+    },
+    {
+        "name": "Dedeman Focsani",
+        "latitude": 45.7098976,
+        "longitude": 27.1995758,
+        "country": "RM",
+        "iconUrl": "Panduri.png",
+        "owner": "Posta Panduri",
+        "address": "Calea Moldovei 38",
+        "city": [
+            "Vrancea"
+        ]
+    }
+]

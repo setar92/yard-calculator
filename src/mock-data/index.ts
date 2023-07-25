@@ -14,6 +14,7 @@ import locationsNacex from './Nacex.json';
 import locationsNationalPost from './NationalPost.json';
 import locationsOmniva from './Omniva.json';
 import locationsPaketa from './paketa.json';
+import locationsPanduri from './Panduri.json';
 import locationsPostNL from './postNL.json';
 import locationsSameDay from './sameday.json';
 import locationsSlovakService from './SlovakService.json';
@@ -58,4 +59,5 @@ export {
   locationsPaketa,
   locationsFANBox,
   locationsGLSRomania,
+  locationsPanduri,
 };
